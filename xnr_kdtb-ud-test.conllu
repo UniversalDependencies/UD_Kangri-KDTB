@@ -11,7 +11,7 @@
 9	जो	_	ADP	PSP	_	8	case	_	_
 10	रोटी	_	NOUN	NN	_	11	compound	_	_
 11	खुआणे	_	VERB	VM	_	14	obl	_	_
-12	ते	_	APP	PSP	_	11	case	_	_
+12	ते	_	ADP	PSP	_	11	case	_	_
 13	मना	_	NOUN	NN	_	14	compound	_	_
 14	करी	_	VERB	VM	_	0	root	_	_
 15	दित्ता	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
@@ -167,7 +167,7 @@
 # text = तिह्नां दस्सेया जे प्रधान त्रींह बड्डेयां खूह्आं पर 19 हज़ार रूपेइये खर्च करा करदा है।
 1	तिह्नां	_	PRON	PRP	_	2	nsubj	_	_
 2	दस्सेया	_	VERB	VM	_	0	root	_	_
-3	जे	_	CONJ	CC	_	13	mark	_	_
+3	जे	_	CCONJ	CC	_	13	mark	_	_
 4	प्रधान	_	NOUN	NN	_	13	nsubj	_	_
 5	त्रींह	_	NUM	QC	_	7	nummod	_	_
 6	बड्डेयां	_	ADJ	JJ	_	7	amod	_	_
@@ -220,7 +220,7 @@
 4	भी	_	PART	RP	_	3	dep	_	_
 5	घट्ट	_	DET	QF	_	6	det	_	_
 6	गिणतिया	_	NOUN	NN	_	0	root	_	_
-7	विच	_	APP	PSP	_	6	case	_	_
+7	विच	_	ADP	PSP	_	6	case	_	_
 8	थे	_	AUX	VM	_	6	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -275,7 +275,7 @@
 7	मास्टर	_	NOUN	NN	_	8	xcomp	_	_
 8	रेह्यो	_	VERB	VM	_	0	root	_	_
 9	थे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10	।	_	SYM	SYM	_	8	punct	_	_
+10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 21
 # text = प्रधान होरां सनीचरवारे जो मुख्यमंत्री ग्राम सड़क निर्माण योजना , 2020 जो सर्वसम्मति ने पास करी दित्ता ।
@@ -283,12 +283,12 @@
 2	होरां	_	NOUN	NN	_	16	nsubj	_	_
 3	सनीचरवारे	_	PROPN	NNP	_	16	obj	_	_
 4	जो	_	ADP	PSP	_	3	case	_	_
-5	मुख्यमंत्री	_	PROPN	NNPC	_	11	compond	_	_
+5	मुख्यमंत्री	_	PROPN	NNPC	_	11	compuond	_	_
 6	ग्राम	_	PROPN	NNPC	_	11	compound	_	_
 7	सड़क	_	PROPN	NNPC	_	11	compound	_	_
 8	निर्माण	_	PROPN	NNPC	_	11	compound	_	_
 9	योजना	_	PROPN	NNPC	_	11	compound	_	_
-10	,	_	COMMA	SYM	_	11	punct	_	_
+10	,	_	SYM	SYM	_	11	punct	_	_
 11	2020	_	PROPN	NNP	_	16	obj	_	_
 12	जो	_	ADP	PSP	_	11	case	_	_
 13	सर्वसम्मति	_	NOUN	NN	_	16	obj	_	_
