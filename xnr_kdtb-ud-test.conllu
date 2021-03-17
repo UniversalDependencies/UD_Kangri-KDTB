@@ -94,8 +94,8 @@
 4	इस	_	PRON	PRP	_	8	obl	_	_
 5	बारे	_	ADP	PSP	_	4	case	_	_
 6	विच	_	ADP	PSP	_	4	case	_	_
-7	डर	_	NOUN	NN	_	0	obj	_	_
-8	छडी	_	VERB	VM	_	8	root	_	_
+7	डर	_	NOUN	NN	_	8	obj	_	_
+8	छडी	_	VERB	VM	_	0	root	_	_
 9	देणा	_	AUX	VAUX	_	8	aux	_	_
 10	चाहिदा	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	8	punct	_	_
