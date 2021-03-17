@@ -119,15 +119,15 @@
 # sent_id = 9
 # text = पर ऋतु एह कम्म करने ताईं त्यार नी है।
 1	पर	_	CCONJ	CC	_	9	cc	_	_
-2	ऋतु	_	PROPN	NNP	_	9	compound	_	_
-3	एह	_	DET	DEM	_	4	obj	_	_
-4	कम्म	_	NOUN	NN	_	5	compound	_	_
+2	ऋतु	_	PROPN	NNP	_	9	nsubj	_	_
+3	एह	_	DET	DEM	_	4	compound	_	_
+4	कम्म	_	NOUN	NN	_	5	obj	_	_
 5	करने	_	VERB	VM	_	9	advcl	_	_
-6	ताईं	_	ADP	PSP	_	5	nsubj	_	_
-7	त्यार	_	ADJ	JJ	_	9	compound	_	_
-8	नी	_	PART	NEG	_	9	ROOT	_	_
-9	है	_	VERB	VM	_	0	aux	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	9	punct	_	_
+6	ताईं	_	ADP	NST	_	5	case	_	_
+7	त्यार	_	ADJ	JJ	_	0	root	_	_
+8	नी	_	PART	ADV	_	7	advmod	_	_
+9	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 10
 # text = काळुए दा एह पहला पक्का घर है।
