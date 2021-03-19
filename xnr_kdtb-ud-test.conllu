@@ -2995,7 +2995,7 @@
 5	नराज	_	NOUN	NN	_	6	compound	_	_
 6	होई	_	VERB	VM	_	0	root	_	_
 7	गेया	_	AUX	VM	_	6	aux	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	6	punct	_	_
+8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 246
 # text =  सारी गल्ल तिसा जो सुणाई दित्ती।
@@ -3285,7 +3285,7 @@
 4	कने	_	CCONJ	CC	_	5	cc	_	_
 5	हटी	_	VERB	VM	_	3	conj	_	_
 6	आया	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
-7	।	_	SYM	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 273
 # text =  तिसजो निन्दर आई गई।
@@ -3526,7 +3526,7 @@
 5	क्या	_	PART	RP	_	6	advmod	_	_
 6	बोल्या	_	VERB	VM	_	0	ROOT	_	_
 7	है	_	AUX	VAUX	_	6	cop	_	SpaceAfter=No
-8	?	_	SYM	SYM	_	6	punct	_	_
+8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 297
 # text =   कदेया बेला आई गेया है?
@@ -3551,7 +3551,7 @@
 10	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 299
-# text = गांह्-गांह् दिक्खा क्या हुन्दा है?
+# text = गांह् - गांह् दिक्खा क्या हुन्दा है?
 1	गांह्	_	NOUN	NN	_	6	obl	_	_
 2	-	_	PUNCT	SYM	_	1	punct	_	_
 3	गांह्	_	NOUN	NN	_	1	conj	_	_
@@ -3570,7 +3570,7 @@
 5	लच्छण	_	NOUN	NOUN	_	0	root	_	_
 6	नी	_	PART	NEG	_	5	advmod	_	_
 7	हन्	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	5	punct	_	_
+8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 301
 # text = वातावरण जो परदूषणे ते बचाणे बिच पूरे तरीकें समर्पित होणें दी भी जरूरत है।
@@ -3692,7 +3692,7 @@
 5	एम्बुलेन्सा	_	NOUN	PSP	_	6	obj	_	_
 6	सद्दी	_	VERB	VM	_	2	conj	_	_
 7	देया	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
-8	।	_	SYM	SYM	_	2	punct	_	_
+8	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 313
 # text =   मेरिया नुँहां दी तबीत किछ खरी नी है।
@@ -3704,7 +3704,7 @@
 6	खरी	_	ADJ	JJ	_	0	root	_	_
 7	नी	_	ADV	RB	_	6	advmod	_	_
 8	है	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-9	।	_	SYM	SYM	_	6	punct	_	_
+9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 314
 # text = कोई गल्ल नी।
@@ -3751,7 +3751,7 @@
 2	फोन	_	NOUN	RB	_	3	obj	_	_
 3	खरीदी	_	VERB	VM	_	8	advcl	_	_
 4	भी	_	PART	RP	_	3	dep	_	_
-5	लेयां	_	AUX	VAUX	_	3	advmod	_	_
+5	लेयां	_	AUX	VAUX	_	3	adv	_	_
 6	ता	_	PART	RP	_	8	mark	_	_
 7	मिंजो	_	PRON	PRP	_	8	nsubj	_	_
 8	बरतणा	_	VERB	VM	_	0	root	_	_
