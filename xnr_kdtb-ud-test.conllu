@@ -439,7 +439,7 @@
 14	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 31
-# text = इसते लोकां जो तिह्नांदी पैदावार दा घट्ट मुल्ल मिलदा है। 
+# text = इसते लोकां जो तिह्नांदी पैदावार दा घट्ट मुल्ल मिलदा है।
 1	इसते	_	PRON	PRP	_	9	nmod	_	_
 2	लोकां	_	NOUN	NNP	_	9	nsubj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
@@ -508,7 +508,7 @@
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 36
-# text = दस्सेया गेया है जे ग्रांएं विच बरखा लगी पेइयो है। 
+# text = दस्सेया गेया है जे ग्रांएं विच बरखा लगी पेइयो है।
 1	दस्सेया	_	VERB	VM	_	0	root	_	_
 2	गेया	_	AUX	VAUX	_	1	aux	_	_
 3	है	_	AUX	VAUX	_	1	aux:pass	_	_
@@ -848,7 +848,7 @@
 4	कोई	_	PART	RP	_	5	dep	_	_
 5	मतलब	_	NOUN	NN	_	0	root	_	_
 6	नी	_	PART	NEG	_	5	advmod	_	_
-7	है	_	AUX	VM	_	5	cap	_	SpaceAfter=No
+7	है	_	AUX	VM	_	5	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 63
@@ -876,7 +876,7 @@
 6	घनमीटर	_	NOUN	NN	_	7	nmod	_	_
 7	पाणी	_	NOUN	NN	_	8	obj	_	_
 8	छड्डेया	_	VERB	VM	_	0	root	_	_
-9	जा	_	VAUX	VAUX	_	8	aux:pass	_	_
+9	जा	_	AUX	VAUX	_	8	aux:pass	_	_
 10	करदा	_	AUX	VAUX	_	8	aux:pass	_	_
 11	है	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	8	punct	_	_
@@ -936,7 +936,7 @@
 
 # sent_id = 69
 # text = इसदे बुह्ले पासे ही  मराळी मन्दिर है।
-1	इसदे	_	PORN	PRP	_	2	nmod	_	_
+1	इसदे	_	PRON	PRP	_	2	nmod	_	_
 2	बुह्ले	_	ADJ	JJ	_	6	compound	_	_
 3	पासे	_	NOUN	NN	_	2	case	_	_
 4	ही	_	PART	RP	_	2	dep	_	_
@@ -1062,7 +1062,7 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 80
-# text = दिल्लिया विच कल सुन्ना 300 रूपेइये बद्धीकरी 35000 रूपेइये प्रति तोळे पर बन्द होया था। 
+# text = दिल्लिया विच कल सुन्ना 300 रूपेइये बद्धीकरी 35000 रूपेइये प्रति तोळे पर बन्द होया था।
 1	वदिल्लिया	_	PROPN	NNP	_	14	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
 3	कल	_	ADV	RB	_	14	obl	_	_
@@ -1081,7 +1081,7 @@
 16	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 81
-# text = तिह्नां कने मितुए दे होर मित्तर भी थे। 
+# text = तिह्नां कने मितुए दे होर मित्तर भी थे।
 1	तिह्नां	_	PRON	PRP	_	6	nmod	_	_
 2	कने	_	ADP	NST	_	1	case	_	_
 3	मितुए	_	PROPN	NNP	_	6	nmod	_	_
@@ -1241,7 +1241,7 @@
 # text = तिन्नी अपणा कने प्रेते दा हाल दसेया।
 1	तिन्नी	_	PRON	PRP	_	7	nsubj	_	_
 2	अपणा	_	PRON	NN	_	6	nmod	_	_
-3	कने	_	CONJ	CC	_	2	cc	_	_
+3	कने	_	CCONJ	CC	_	2	cc	_	_
 4	प्रेते	_	NOUN	NN	_	2	compound	_	_
 5	दा	_	ADP	PSP	_	4	case	_	_
 6	हाल	_	NOUN	NN	_	7	obj	_	_
@@ -1426,7 +1426,7 @@
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 111
-# text =  तुसां कोई बद्धिया कताब पढ़ा दे क्या।
+# text = तुसां कोई बद्धिया कताब पढ़ा दे क्या।
 1	तुसां	_	PRON	PRP	_	5	nmod	_	_
 2	कोई	_	PRON	PRP	_	3	dep	_	_
 3	बद्धिया	_	ADJ	JJ	_	5	nsubj	_	_
@@ -1434,7 +1434,7 @@
 5	पढ़ा	_	VERB	VM	_	5	root	_	_
 6	दे	_	ADP	PSP	_	5	case	_	_
 7	क्या	_	PART	RP	_	5	dep	_	SpaceAfter=No
-8	|	_	PUNCT	SYM	_	5	punct	_	_
+8	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 112
 # text = डाकटरें तिस जो तमाकू नी पीणे दी सलाह दित्ती।
@@ -1551,7 +1551,7 @@
 2	होर	_	ADJ	JJ	_	3	obl	_	_
 3	दिक्खदे	_	VERB	VM	_	0	root	_	_
 4	हन	_	AUX	VAUX	_	3	aux	_	_
-5	जे	_	CONJ	CC	_	10	conj	_	_
+5	जे	_	CCONJ	CC	_	10	conj	_	_
 6	असां	_	PRON	PRP	_	10	nsubj	_	_
 7	कितणियां	_	ADV	RB	_	8	advmod	_	_
 8	चीजां	_	NOUN	NN	_	9	obj	_	_
@@ -1562,9 +1562,9 @@
 
 # sent_id = 122
 # text =गलाणे च कने कमाणे च बड़ा फर्क है।
-1	गलाणे	_	VERB	VM	_	4	conj	_	_
+1	गलाणे	_	VERB	VM	_	4 conj	_	_
 2	च	_	ADP	PSP	_	1	case	_	_
-3	कने	_	CCONJ	CC	_	4	conj	_	_
+3	कने	_	CCONJ	CC	_	4 conj	_	_
 4	कमाणे	_	VERB	VM	_	5	xcomp	_	_
 5	च	_	ADP	PSP	_	4	case	_	_
 6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
@@ -1678,7 +1678,7 @@
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 130
-# text =  जणासें मिंजो कने कमरे च बड़े ढंगे ने गल्ल कित्ती।
+# text = जणासें मिंजो कने कमरे च बड़े ढंगे ने गल्ल कित्ती।
 1	जणासें	_	NOUN	NN	_	10	amod	_	_
 2	मिंजो	_	PRON	PRP	_	10	compound	_	_
 3	कने	_	ADP	NST	_	2	nsubj	_	_
@@ -1686,13 +1686,13 @@
 5	च	_	ADP	PSP	_	4	nsubj	_	_
 6	बड़े	_	ADJ	JJ	_	7	amod	_	_
 7	ढंगे	_	NOUN	NN	_	9	ROOT	_	_
-8	 ने	_	ADP	PSP	_	7	ROOT	_	_
+8	ने	_	ADP	PSP	_	7	ROOT	_	_
 9	गल्ल 	_	NOUN	NN	_	10	ROOT	_	_
-10	कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
+10 कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 131
-# text =  अज तुसां कदेह हन।
+# text = अज तुसां कदेह हन।
 1	अज	_	ADV	RB	_	3	advmod	_	_
 2	तुसां	_	PRON	PRP	_	3	nsubj	_	_
 3	कदेह	_	ADJ	JJ	_	0	root	_	_
@@ -1700,7 +1700,7 @@
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 132
-# text =  ओढण क्या तेरें बुढ़े धोणे न?
+# text = ओढण क्या तेरें बुढ़े धोणे न?
 1	ओढण	_	NOUN	NN	_	7	obj	_	_
 2	क्या	_	PART	RP	_	7	dep	_	_
 3	तेरें	_	PRON	PRP	_	2	amod	_	_
@@ -3771,6 +3771,4 @@
 7	नी	_	ADV	RB	_	8	advmod	_	_
 8	हुन्दे	_	VERB	VM	_	0	root	_	_
 9	थे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	8	punct	_	_
-
-
+10 ।	_	PUNCT	SYM	_	8	punct	_	_
