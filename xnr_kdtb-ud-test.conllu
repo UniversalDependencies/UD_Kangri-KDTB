@@ -1561,7 +1561,7 @@
 12	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 122
-# text =गलाणे च कने कमाणे च बड़ा फर्क है।
+# text = गलाणे च कने कमाणे च बड़ा फर्क है।
 1	गलाणे	_	VERB	VM	_	4 conj	_	_
 2	च	_	ADP	PSP	_	1	case	_	_
 3	कने	_	CCONJ	CC	_	4 conj	_	_
@@ -1570,7 +1570,7 @@
 6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
 7	फर्क	_	NOUN	NN	_	0	root	_	_
 8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
+9 ।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 123
 # text = असां जो अपणे वातावरणे जो दूषित नी करने दी पूरी कोशिश करनी चाहिदी।
@@ -1597,7 +1597,7 @@
 4	इतणी	_	ADJ	JJ	_	5	nmod	_	_
 5	ताकत	_	NOUN	NN	_	6	obl	_	_
 6	है	_	AUX	VM	_	13	advcl	_	_
-7	जे	_	CONJ	CC	_	13	conj	_	_
+7	जे	_	CCONJ	CC	_	13	conj	_	_
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
 10 तक	_	ADP	NST	_	9	case	_	_
@@ -1845,7 +1845,7 @@
 2	सैह	_	PRON	PRP	_	3	det	_	_
 3	मीदवार	_	NOUN	NN	_	4	obl	_	_
 4	चुणेया 	_	AUX	VM	_	0	root	_	SpaceAfter=No
-5	। 	_	PUNCT	SYM	_	4	punct	_	_
+5	। _	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 146
 # text = मेहरबानी करी के हौल़ें बोल्ला।
@@ -1854,7 +1854,7 @@
 3	के	_	ADP	PSP	_	2	case	_	_
 4	हौल़ें 	_	NOUN	NN	_	5	compound	_	_
 5	बोल्ला 	_	AUX	VM	_	0	root	_	SpaceAfter=No
-6	। 	_	PUNCT	SYM	_	5	punct	_	_
+6	। _	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 147
 # text = सैह सैहर दो मील दूर ऐ।
