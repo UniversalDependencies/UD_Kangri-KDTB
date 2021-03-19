@@ -1375,7 +1375,7 @@
 5	पुतरे	_	NOUN	NN	_	4	case	_	_
 6	पर	_	ADP	PSP	_	5	case	_	_
 7	गमान	_	NOUN	NN	_	8	root	_	_
-8	है	_	VERB        AUX	_	8	aux	_	SpaceAfter=No
+8	है	_	VERB  AUX	_	8	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 107
@@ -1570,7 +1570,7 @@
 6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
 7	फर्क	_	NOUN	NN	_	0	root	_	_
 8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-9 ।	_	PUNCT	SYM	_	7	punct	_	_
+9 । _ PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 123
 # text = असां जो अपणे वातावरणे जो दूषित नी करने दी पूरी कोशिश करनी चाहिदी।
@@ -1583,11 +1583,11 @@
 7	नी	_	ADV	RB	_	8	advmod	_	_
 8	करने	_	VERB	VM	_	11	nmod	_	_
 9	दी	_	ADP	PSP	_	8	case	_	_
-10 पूरी	_	ADJ	JJ	_	12	amod	_	_
-11 कोशिश	_	NOUN	NN	_	12	compound	_	_
-12 करनी	_	VERB	VM	_	0	root	_	_
-13 चाहिदी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
-14 ।	_	PUNCT	SYM	_	12	punct	_	_
+10  पूरी	_	ADJ	JJ	_	12	amod	_	_
+11  कोशिश	_	NOUN	NN	_	12	compound	_	_
+12  करनी	_	VERB	VM	_	0	root	_	_
+13  चाहिदी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
+14  ।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 124
 # text = इसा कारा च इतणी ताकत है जे एह पहाड़े तक सानिया ने जाई सकदी।
