@@ -2415,7 +2415,7 @@
 
 # sent_id = 198
 # text = भगवान कृष्णे दी मूर्ति काळे पत्थरे ने बणियो है।
-1	भगवान	_	NOUN	NN	_	2	comp	_	_
+1	भगवान	_	NOUN	NN	_	2	compound	_	_
 2	कृष्णे	_	PROPN	NNP	_	4	nmod	_	_
 3	दी	_	ADP	PSP	_	2	case	_	_
 4	मूर्ति	_	NOUN	NN	_	8	nsubj	_	_
@@ -2491,12 +2491,12 @@
 9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 204
-# text = मेरिया गाई बैह्ड़ू दित्तेया है। 
+# text = मेरिया गाई बैह्ड़ू दित्तेया है।
 1	मेरिया	_	PRON	PRP	_	4	nmod	_	_
 2	गाई	_	NOUN	NN	_	4	nsubj	_	_
 3	बैह्ड़ू	_	NOUN	NN	_	4	obj	_	_
 4	दित्तेया	_	VERB	VM	_	0	root	_	_
-5	है	_	AUX	VAUX	_	4	au	_	SpaceAfter=No
+5	है	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 205
@@ -2559,14 +2559,14 @@
 2	खेती	_	NOUN	NN	_	3	obl	_	_
 3	हुन्दी	_	VERB	VM	_	2	advmod	_	_
 4	थी	_	AUX	VAUX	_	3	aux	_	_
-5	,	_	COMMA	SYM	_	3	punct	_	_
+5	,	_	PUNCT	SYM	_	3	punct	_	_
 6	तित्थू	_	ADV	RB	_	7	advmod	_	_
 7	पत्थरां	_	NOUN	NN	_	9	nmod	_	_
 8	दे	_	ADP	PSP	_	7	case	_	_
 9	मैहल	_	NOUN	NN	_	10	nsubj	_	_
 10	खड़ोई	_	VERB	VM	_	0	root	_	_
 11	गेयो	_	VERB	VM	_	10	aux	_	_
-12	हन	_	VAUX	AUX	_	10	aux:pass	_	SpaceAfter=No
+12	हन	_	AUX	VAUX	_	10	aux:pass	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 210
@@ -2574,7 +2574,7 @@
 1	रुत्तां	_	NOUN	NN	_	7	nsubj	_	_
 2	बदलोआ	_	VERB	VM	_	0	root	_	_
 3	दियां	_	AUX	PSP	_	2	aux	_	_
-4	कनै	_	CONJ	CC	_	6	cc	_	_
+4	कनै	_	CCONJ	CC	_	6	cc	_	_
 5	बद्दळ	_	NOUN	NN	_	6	nsubj	_	_
 6	फटा	_	VERB	VM	_	2	conj	_	_
 7	दे	_	AUX	VAUX	_	6	aux	_	_
@@ -2590,12 +2590,12 @@
 5	सैह	_	PRON	PRP	_	12	nsubj	_	_
 6	सिर्फ	_	ADV	RB	_	7	advmod	_	_
 7	हिंदी	_	NOUN	NNP	_	12	amod	_	_
-8	कनै	_	CONJ	CC	_	7	cc	_	_
+8	कनै	_	CCONJ	CC	_	7	cc	_	_
 9	अंग्रेजी	_	NOUN	NNP	_	7	conj	_	_
 10	भाखां	_	NOUN	NN	_	12	obj	_	_
 11	ही	_	RART	RP	_	7	dep	_	_
 12	गलान्दे	_	VERB	VM	_	3	ccomp	_	_
-13	कनै	_	CONJ	CC	_	12	cc	_	_
+13	कनै	_	CCONJ	CC	_	12	cc	_	_
 14	समझदे	_	VERB	VM	_	12	conj	_	_
 15	हन्न	_	AUX	VAUX	_	3	cop	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	3	punct	_	_
@@ -2612,7 +2612,7 @@
 8	सिक्खा	_	VERB	VM	_	4	advcl	_	_
 9	दे	_	AUX	VAUX	_	8	aux	_	_
 10	हन	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
-11	।	_	PUNCT	SYM	_	3	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 213
 # text = इसदे गुनाहगार भी तां असां ही हन।
@@ -2652,7 +2652,7 @@
 6	पास्सेयां	_	NOUN	NN	_	5	case	_	_
 7	फैल्ला	_	VERB	NN	_	0	root	_	_
 8	दिया	_	AUX	VAUX	_	7	aux	_	_
-9	हन	_	AUX	VAUX	_	7	aux:pass	_	SpaceAfter=No_
+9	हन	_	AUX	VAUX	_	7	aux:pass	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 216
@@ -2695,7 +2695,7 @@
 2	तित्थू	_	ADV	RB	_	9	nmod	_	_
 3	फटोफट	_	ADV	RB	_	9	advmod	_	_
 4	कुर्सियां	_	NOUN	NN	_	6	advmod	_	_
-5	,	_	PUNCT	SYM	_	4	dep	_	_
+5	,	_	PUNCT	SYM	_	4	punct	_	_
 6	मेज	_	NOUN	NN	_	7	amod	_	_
 7	कनै	_	CONJ	CC	_	8	dep	_	_
 8	मंजे	_	NOUN	NN	_	9	amod	_	_
@@ -2965,7 +2965,7 @@
 # sent_id = 243
 # text =सारिया पृथ्विया जो अप्पूं विच ही डुबाई लैंह्गा?
 1	सारिया	_	ADJ	JJ	_	2	nmod	_	_
-2	पृथ्विया	_	NN	NOUN	_	8	obj	_	_
+2	पृथ्विया	_	NOUN	NN	_	8	obj	_	_
 3	जो	_	ADP	PSP	_	5	case	_	_
 4	अप्पूं	_	NOUN	NN	_	5	nmod	_	_
 5	विच	_	ADP	PSP	_	8	case	_	_
@@ -2991,7 +2991,7 @@
 1	तिसा	_	PRON	PR	_	6	nmod	_	_
 2	दा	_	ADP	PSP	_	1	case	_	_
 3	बापू	_	NOUN	NN	_	6	obl	_	_
-4	भी	_	PART	RP	_	3	part	_	_
+4	भी	_	PART	RP	_	3	dep	_	_
 5	नराज	_	NOUN	NN	_	6	compound	_	_
 6	होई	_	VERB	VM	_	0	root	_	_
 7	गेया	_	AUX	VM	_	6	aux	_	SpaceAfter=No
@@ -3366,7 +3366,7 @@
 # sent_id = 281
 # text =  खरे - खरे बचार म्हारे दमागे बिच पैदा हुन्दे।
 1	खरे	_	ADJ	JJ	_	8	nmod	_	_
-2	-	_	PUNCT	SYM	_	1	case	_	_
+2	-	_	PUNCT	SYM	_	1	punct	_	_
 3	खरे	_	ADJ	JJ	_	1	compound	_	_
 4	बचार	_	NOUN	NN	_	8	nsubj	_	_
 5	म्हारे	_	PRON	PRP	_	6	amod	_	_
@@ -3387,7 +3387,7 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 283
-# text = डंगरे घा खाई बैठेयो हन्।                          
+# text = डंगरे घा खाई बैठेयो हन्।                     
 1	डंगरे	_	NOUN	NN	_	3	nsubj	_	_
 2	घा	_	NOUN	NN	_	3	obj	_	_
 3	खाई	_	VERB	VM	_	0	root	_	_
@@ -3421,23 +3421,23 @@
 4	सोत	_	VERB	VM	_	5	compound	_	_
 5	देई	_	AUX	VAUX	_	0	root	_	_
 6	लैन्दी	_	AUX	VAUX	_	7	aux	_	_
-7	कनै	_	CONJ	CC	_	9	cc	_	_
+7	कनै	_	CCONJ	CC	_	9	cc	_	_
 8	भाण्डेयां	_	NOUN	NN	_	9	obj	_	_
 9	माँजी	_	VERB	VM	_	5	conj	_	_
 10	रक्खदी	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 287
-# text =  सैह कैस दस्सी गेया है?
+# text = सैह कैस दस्सी गेया है?
 1	सैह 	_	PRON	PRP	_	3	nsubj	_	_
 2	कैस	_	PRON	PRP	_	3	obj	_	_
 3	दस्सी	_	VERB	VM	_	0	root	_	_
 4	गिया	_	AUX	VAUX	_	3	aux	_	_
 5	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
-6	।	_	PUNCT	SYM	_	3	punct	_	_
+6	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 288
-# text = अज्ज नळकें  पाणीं नी औणा, फीटर अय्या था।
+# text = अज्ज नळकें  पाणीं नी औणा , फीटर अय्या था।
 1	अज्ज	_	ADV	RB	_	5	advmod	_	_
 2	नळकें	_	NOUN	NN	_	3	nmod	_	_
 3	पाणीं	_	NOUN	NN	_	5	obj	_	_
@@ -3447,11 +3447,11 @@
 7	फीटर	_	NOUN	NN	_	8	nsubj	_	_
 8	अय्या	_	VERB	VM	_	5	conj	_	_
 9	था	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	5	punct	_	_
+10  ।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 289
 # text =  दो घड़े नाड़ेयां ते लेई ओआ।
-1	दो	_	NUM	QC	_	2	numod	_	_
+1	दो	_	NUM	QC	_	2	nmod	_	_
 2	घड़े	_	NOUN	NN	_	5	nmod	_	_
 3	नाड़ेयां	_	NOUN	NN	_	5	nmod	_	_
 4	ते	_	ADP	PSP	_	3	case	_	_
@@ -3493,7 +3493,7 @@
 # text = खान्दे घट्ट कनै गुआन्दे मता हन्।
 1	खान्दे	_	VERB	VM	_	6	compound	_	_
 2	घट्ट	_	ADJ	JJ	_	1	det	_	_
-3	कनै	_	CONJ	CC	_	4	conj	_	_
+3	कनै	_	CCONJ	CC	_	4	conj	_	_
 4	गुआन्दे	_	VERB	VM	_	6	compound	_	_
 5	मता	_	ADJ	DET	_	4	det	_	_
 6	हन्	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
@@ -3510,7 +3510,7 @@
 # sent_id = 295
 # text =  दर - दर भटके गऊ माता।
 1	दर	_	NOUN	NN	_	4	nmod	_	_
-2	-	_	PUNCT	SYM	_	1	case	_	_
+2	-	_	PUNCT	SYM	_	1	punct	_	_
 3	दर	_	NOUN	NN	_	1	conj	_	_
 4	भटके	_	VERB	VM	_	0	root	_	_
 5	गऊ	_	NOUN	NN	_	4	nmod	_	_
@@ -3541,7 +3541,7 @@
 # text =  एह् भी तां बे मौसमी हुन्दी जा दी है।
 1	एह्	_	DET	DEM	_	6	det	_	_
 2	भी	_	PART	RP	_	3	compound	_	_
-3	तां	_	CONJ	CC	_	6	compound	_	_
+3	तां	_	CCONJ	CC	_	6	compound	_	_
 4	बे	_	NOUN	NN	_	6	dep	_	_
 5	मौसमी	_	NOUN	NN	_	6	compound	_	_
 6	हुन्दी	_	VERB	VM	_	0	root	_	_
@@ -3566,7 +3566,7 @@
 1	मितरा	_	NOUN	NN	_	5	obl	_	_
 2	!	_	PUNCT	SYM	_	5	punct	_	_
 3	एह	_	DET	DEM	_	5	nsubj	_	_
-4	खरे	_	CONJ	JJ	_	5	nmod	_	_
+4	खरे	_	CCONJ	JJ	_	5	nmod	_	_
 5	लच्छण	_	NOUN	NOUN	_	0	root	_	_
 6	नी	_	PART	NEG	_	5	advmod	_	_
 7	हन्	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
@@ -3610,12 +3610,12 @@
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 304
-# text = चाह  पी लैन्दे हन।
+# text = चाह पी लैन्दे हन।
 1	चाह 	_	NOUN	NN	_	3	obj	_	_
 2	पी	_	VERB	VM	_	3	compound	_	_
 3	लैन्दे	_	AUX	VAUX	_	0	root	_	_
 4	हन्	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
-5	।	_	PUNCT	SYM	_	3	punct	_	_
+5 ।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 305
 # text =  मिंजो कजो याद कित्ता?
