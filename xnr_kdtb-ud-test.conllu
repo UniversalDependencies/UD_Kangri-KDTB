@@ -87,7 +87,7 @@
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 7
-# text = लोकां जो हुण इस बारे विच डर छडी देणा चाहिदा। 
+# text = लोकां जो हुण इस बारे विच डर छडी देणा चाहिदा।
 1	लोकां	_	NOUN	NN	_	8	nsubj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
 3	हुण	_	ADV	RB	_	8	advmod	_	_
