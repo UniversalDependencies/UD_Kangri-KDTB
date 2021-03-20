@@ -1375,7 +1375,7 @@
 5	पुतरे	_	NOUN	NN	_	4	case	_	_
 6	पर	_	ADP	PSP	_	5	case	_	_
 7 गमान	_	NOUN	NN	_	8	root	_	_
-8	है	_	VERB        AUX	_	8	aux	_	SpaceAfter=No
+8	है	_	VERB  AUX	_	8	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 107
@@ -1570,7 +1570,7 @@
 6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
 7	फर्क	_	NOUN	NN	_	0	root	_	_
 8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-9 । _ PUNCT	SYM	_	7	punct	_	_
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 123
 # text = असां जो अपणे वातावरणे जो दूषित नी करने दी पूरी कोशिश करनी चाहिदी।
@@ -1600,12 +1600,12 @@
 7	जे	_	CCONJ	CC	_	13	conj	_	_
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
-10 तक	_	ADP	NST	_	9	case	_	_
-11 सानिया	_	NOUN	NN	_	13	amod	_	_
-12 ने	_	ADP	PSP	_	11	case	_	_
-13 जाई	_	VERB	VM	_	0	root	_	_
-14 सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
-15 ।	_	PUNCT	SYM	_	13	punct	_	_
+10  तक	_	ADP	NST	_	9	case	_	_
+11  सानिया	_	NOUN	NN	_	13	amod	_	_
+12  ने	_	ADP	PSP	_	11	case	_	_
+13  जाई	_	VERB	VM	_	0	root	_	_
+14  सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 125
 # text =  अम्मा बापू अपणेयां बच्चेयां दिया फाहजती तांईं जिम्मेदार हुन्दे हन।
@@ -1618,8 +1618,8 @@
 7	तांईं	_	ADP	NST	_	6	case	_	_
 8	जिम्मेदार	_	NOUN	NN	_	9	compound	_	_
 9	हुन्दे	_	VERB	VM	_	0	root	_	_
-10 हन	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
-11 ।	_	PUNCT	SYM	_	9	punct	_	_
+10  हन	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 126
 # text = संसारे च देही कोई चीज़ नी है जिसा पर सूरजे दा असर नी पोंदा होए।
@@ -1632,13 +1632,13 @@
 7	है	_	AUX	VM	_	14	advcl	_	_
 8	जिसा	_	PRON	PRP	_	15	obl	_	_
 9	पर	_	ADP	PSP	_	8	case	_	_
-10 सूरजे	_	NOUN	NN	_	12	nmod	_	_
-11 दा	_	ADP	PSP	_	10	case	_	_
-12 असर	_	NOUN	NN	_	14	obj	_	_
-13 नी	_	ADV	RB	_	14	advmod	_	_
-14 पोंदा	_	VERB	VM	_	0	root	_	_
-15 होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
-16 ।	_	PUNCT	SYM	_	14	punct	_	_
+10  सूरजे	_	NOUN	NN	_	12	nmod	_	_
+11  दा	_	ADP	PSP	_	10	case	_	_
+12  असर	_	NOUN	NN	_	14	obj	_	_
+13  नी	_	ADV	RB	_	14	advmod	_	_
+14  पोंदा	_	VERB	VM	_	0	root	_	_
+15  होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 127
 # text =  इत्थू ओत्थू जाणे औणे तांईं गड्डियां बत्हेरियां हन क्या?
@@ -1689,7 +1689,7 @@
 8	ने	_	ADP	PSP	_	7	ROOT	_	_
 9	गल्ल 	_	NOUN	NN	_	10	ROOT	_	_
 10 कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
-11 ।	_	PUNCT	SYM	_	10	punct	_	_
+11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 131
 # text = अज तुसां कदेह हन।
@@ -1778,7 +1778,7 @@
 4	भुक्खा	_	ADJ	JJ	_	3	root	_	_
 5	नी	_	ADV	RB	_	6	advmod	_	_
 6	हैं	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-7	। _ PUNCT	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 140
 # text = तुसां जां दिक्खा किछ न किछ पुठ्ठे कम करदे रैंहदे हन।
@@ -1793,7 +1793,7 @@
 9	करदे	_	VERB	VM	_	0	root	_	_
 10 रैंहदे	_	AUX	VAUX	_	9	aux	_	_
 11 हन	_	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No
-12 ।	_	PUNCT	SYM	_	9	punct	_	_
+12	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 141
 # text =  सैह बड़ी बक बक करदी है।
@@ -1803,7 +1803,7 @@
 4	बक	_	NOUN	NN	_	5	compound	_	_
 5	करदी	_	VERB	VM	_	0	root	_	_
 6	हैं	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
-7	। _	PUNCT	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 142
 # text =   हुण तां  तिसजो कोई अजूबा ही बचाई सकदा है।
@@ -1845,7 +1845,7 @@
 2	सैह	_	PRON	PRP	_	3	det	_	_
 3	मीदवार	_	NOUN	NN	_	4	obl	_	_
 4	चुणेया 	_	AUX	VM	_	0	root	_	SpaceAfter=No
-5	। _	PUNCT	SYM	_	4	punct	_	_
+5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 146
 # text = मेहरबानी करी के हौल़ें बोल्ला।
@@ -1854,7 +1854,7 @@
 3	के	_	ADP	PSP	_	2	case	_	_
 4	हौल़ें 	_	NOUN	NN	_	5	compound	_	_
 5	बोल्ला 	_	AUX	VM	_	0	root	_	SpaceAfter=No
-6	। _	PUNCT	SYM	_	5	punct	_	_
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 147
 # text = सैह सैहर दो मील दूर ऐ।
@@ -2259,7 +2259,7 @@
 6	रिश्ते	_	NOUN	NN	_	7	amod	_	_
 7	रखदे	_	VERB	VM	_	0	root	_	_
 8	हन	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
-9 ।	_	PUNCT	SYM	_	7	punct	_	_
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 186
 # text =   मिंजो क़ताब पढ़ने तांईं ऐनका दी ज़रूरत पोंदी।
