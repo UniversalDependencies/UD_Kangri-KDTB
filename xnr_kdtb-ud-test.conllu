@@ -1374,8 +1374,8 @@
 4	लायक	_	ADJ	JJ	_	7	obl	_	_
 5	पुतरे	_	NOUN	NN	_	4	case	_	_
 6	पर	_	ADP	PSP	_	5	case	_	_
-7 गमान	_	NOUN	NN	_	8	root	_	_
-8	है	_	VERB  AUX	_	8	aux	_	SpaceAfter=No
+7	गमान	_	NOUN	NN	_	8	root	_	_
+8	है	_	VERB	AUX	_	8	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 107
@@ -1562,9 +1562,9 @@
 
 # sent_id = 122
 # text = गलाणे च कने कमाणे च बड़ा फर्क है।
-1	गलाणे	_	VERB	VM	_	4 conj	_	_
+1	गलाणे	_	VERB	VM	_	4	conj	_	_
 2	च	_	ADP	PSP	_	1	case	_	_
-3	कने	_	CCONJ	CC	_	4 conj	_	_
+3	कने_	CCONJ	CC	_	4	conj	_	_
 4	कमाणे	_	VERB	VM	_	5	xcomp	_	_
 5	च	_	ADP	PSP	_	4	case	_	_
 6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
@@ -1583,11 +1583,11 @@
 7	नी	_	ADV	RB	_	8	advmod	_	_
 8	करने	_	VERB	VM	_	11	nmod	_	_
 9	दी	_	ADP	PSP	_	8	case	_	_
-10  पूरी	_	ADJ	JJ	_	12	amod	_	_
-11  कोशिश	_	NOUN	NN	_	12	compound	_	_
-12  करनी	_	VERB	VM	_	0	root	_	_
-13  चाहिदी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
-14  ।	_	PUNCT	SYM	_	12	punct	_	_
+10	पूरी	_	ADJ	JJ	_	12	amod	_	_
+11	कोशिश	_	NOUN	NN	_	12	compound	_	_
+12	करनी	_	VERB	VM	_	0	root	_	_
+13	चाहिद	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 124
 # text = इसा कारा च इतणी ताकत है जे एह पहाड़े तक सानिया ने जाई सकदी।
@@ -1600,11 +1600,11 @@
 7	जे	_	CCONJ	CC	_	13	conj	_	_
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
-10  तक	_	ADP	NST	_	9	case	_	_
-11  सानिया	_	NOUN	NN	_	13	amod	_	_
-12  ने	_	ADP	PSP	_	11	case	_	_
-13  जाई	_	VERB	VM	_	0	root	_	_
-14  सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+10	तक	_	ADP	NST	_	9	punct	_	_
+11	सानिय	_	NOUN	NN	_	13	amod	_	_
+12	ने	_	ADP	PSP	_	11	case	_	_
+13	जाई	_	VERB	VM	_	0	root	_	_
+14	सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 125
@@ -1618,7 +1618,7 @@
 7	तांईं	_	ADP	NST	_	6	case	_	_
 8	जिम्मेदार	_	NOUN	NN	_	9	compound	_	_
 9	हुन्दे	_	VERB	VM	_	0	root	_	_
-10  हन	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+10	हन	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 126
@@ -1632,12 +1632,13 @@
 7	है	_	AUX	VM	_	14	advcl	_	_
 8	जिसा	_	PRON	PRP	_	15	obl	_	_
 9	पर	_	ADP	PSP	_	8	case	_	_
-10  सूरजे	_	NOUN	NN	_	12	nmod	_	_
-11  दा	_	ADP	PSP	_	10	case	_	_
-12  असर	_	NOUN	NN	_	14	obj	_	_
+10	सूरजे	_	NOUN	NN	_	12	nmod	_	_
+11	दा	_	ADP	PSP	_	10	case	_	_
+12	असर	_	NOUN	NN	_	14	obj	_	_
 13  नी	_	ADV	RB	_	14	advmod	_	_
-14  पोंदा	_	VERB	VM	_	0	root	_	_
-15  होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
+13	नी	_	ADV	RB	_	14	advmod	_	_
+14	पोंदा	_	VERB	VM	_	0	root	_	_
+15	होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 127
@@ -1687,8 +1688,8 @@
 6	बड़े	_	ADJ	JJ	_	7	amod	_	_
 7	ढंगे	_	NOUN	NN	_	9	ROOT	_	_
 8	ने	_	ADP	PSP	_	7	ROOT	_	_
-9	गल्ल 	_	NOUN	NN	_	10	ROOT	_	_
-10 कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
+9	गल्ल 	_	NOUN	NN	_	10	ROOT	_	_	
+10	कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 131
@@ -2745,7 +2746,7 @@
 
 # sent_id = 224
 # text =  इसा गल्ला सुणी के पटुआरिये दा मुंह उतरी गिया।
-1	इसा	_	DET	DEM	_	2	det _	_
+1	इसा _	DET	DEM	_	2	det	_	_
 2	गल्ला	_	NOUN	NN	_	8	amod	_	_
 3	सुणी	_	VERB	VM	_	2	amod	_	_
 4	के	_	ADP	PSP	_	3	case	_	_
@@ -2754,7 +2755,7 @@
 7	मुंह	_	NOUN	NN	_	8	nsubj	_	_
 8	उतरी	_	VERB	VM	_	0	root	_	_
 9	गिया	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10  ।	_	PUNCT	SYM	_	8	punct	_	_
+10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 225
 # text = सारे लोक बुड्ढे पास्सें गौरा ने दिक्खणा लगी पे।
@@ -3175,7 +3176,7 @@
 
 # sent_id = 263
 # text = तिस जो अपणें आप्पे पर गुस्सा आया।
-1	तिस _	PRON	PRP	_	7	nsubj	_	_
+1	तिस	_	PRON	PRP	_	7	nsubj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
 3	अपणें	_	ADJ	JJ	_	4	compound	_	_
 4	आप्पे	_	NOUN	NN	_	7	nmod	_	_
