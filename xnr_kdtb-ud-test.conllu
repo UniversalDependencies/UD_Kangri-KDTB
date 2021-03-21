@@ -985,13 +985,13 @@
 
 # sent_id = 73
 # text = सैह नदी नीले रंगे दी है। 
-1	सैह	_	DET	DEM	_	2	advmod	_	_
-2	नदी	_	NOUN	NN	_	0	obj	_	_
-3	नीले	_	ADJ	JJ	_	4	advmod	_	_
-4	रंगे	_	NOUN	NN	_	2	ROOT	_	_
-5	दी	_	ADP	PSP	_	4	aux	_	_
-6	है	_	AUX	VM	_	2	aux:pass	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	2	punct	_	_
+1	सैह	_	DET	DEM	_	2	det	_	_
+2	नदी	_	NOUN	NN	_	6	nsubj	_	_
+3	नीले	_	ADJ	JJ	_	4	compound	_	_
+4	रंगे	_	NOUN	NN	_	6	amod	_	_
+5	दी	_	ADP	PSP	_	4	case	_	_
+6	है	_	VERB	VM	_	0	root	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 74
 # text = अमेरिका दी पाकिस्तान नीति ढिल्ली पेइयो है।
