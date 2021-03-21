@@ -1075,7 +1075,7 @@
 10	प्रति	_	PART	RP	_	7	dep	_	_
 11	तोळे	_	NOUN	NN	_	14	obl	_	_
 12	पर	_	ADP	PSP	_	11	case	_	_
-13	बन्द	_	APJ	JJ	_	14	compound	_	_
+13	बन्द	_	ADJ	JJ	_	14	compound	_	_
 14	होया	_	VERB	VM	_	0	root	_	_
 15	था	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	14	punct	_	_
