@@ -195,7 +195,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 15
-# text = पंचायता विच जाहलू एह गल्ल होई तां काळू प्रधान तित्थू नी था। 
+# text = पंचायता विच जाहलू एह गल्ल होई तां काळू प्रधान तित्थू नी था।
 1	पंचायता	_	NOUN	NN	_	6	compound	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
 3	जाहलू	_	PRON	PRP	_	6	nmod	_	_
@@ -407,13 +407,13 @@
 1	जे	_	SCONJ	CC	_	7	mark	_	_
 2	तुसां	_	PRON	PRP	_	7	nsubj	_	_
 3	इंटरनेट	_	NOUN	NNC	_	4	compound	_	_
-4	बैंकिंग	_	NOUN	NN	_	6	obj	_	_
+4	बैंकिंग	_	NOUN	NN	_	6	nmod	_	_
 5	दा	_	ADP	PSP	_	4	case	_	_
 6	इस्तेमाल	_	NOUN	NN	_	7	compound	_	_
 7	करदे	_	VERB	VM	_	12	advcl	_	_
 8	हन	_	AUX	VAUX	_	7	aux	_	_
 9	,	_	PUNCT	SYM	_	7	punct	_	_
-10	तां	_	CCONJ	CC	_	12	advmod	_	_
+10	तां	_	CCONJ	CC	_	12	mark	_	_
 11	च्तन्न	_	ADJ	JJ	_	12	compound 	_	_
 12	होई	_	VERB	VM	_	0	root	_	_
 13	जा	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
@@ -441,12 +441,12 @@
 1	इसते	_	PRON	PRP	_	9	nmod	_	_
 2	लोकां	_	NOUN	NNP	_	9	nsubj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
-4	तिह्नांदी	_	PRON	PRP	_	5	nnod	_	_
+4	तिह्नांदी	_	PRON	PRP	_	5	nsubj	_	_
 5	पैदावार	_	NOUN	NN	_	8	amod	_	_
 6	दा	_	ADP	PSP	_	5	compound	_	_
 7	घट्ट	_	DET	QF	_	8	compound	_	_
 8	मुल्ल	_	NOUN	NN	_	9	obj	_	_
-9	मिलदा	_	VERB	VM	_	0	ROOT	_	_
+9	मिलदा	_	VERB	VM	_	0	root	_	_
 10	है	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
@@ -1263,7 +1263,7 @@
 1	राधा	_	PROPN	NNP	_	2	nsubj	_	_
 2	गलाया	_	VERB	VM	_	0	root	_	_
 3	मीना	_	PROPN	NNP	_	6	iobj	_	_
-4	जो	_	ADP	PSP	_	5	case	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
 5	कताब	_	NOUN	NN	_	6	obj	_	_
 6	दुआएं	_	VERB	VM	_	6	ccomp	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
@@ -1291,9 +1291,9 @@
 
 # sent_id = 98
 # text = रामें मूहणे जो नीली क़ताब दित्ती।
-1	रामें	_	PROPN	NNP	_	6	compound	_	_
-2	मूहणे	_	PROPN	NNP	_	6	nsubj	_	_
-3	जो	_	ADP	PSP	_	2	det	_	_
+1	रामें	_	PROPN	NNP	_	6	nsubj	_	_
+2	मूहणे	_	PROPN	NNP	_	6	iobj	_	_
+3	जो	_	ADP	PSP	_	2	case	_	_
 4	नीली	_	ADJ	JJ	_	5	amod	_	_
 5	क़ताब	_	NOUN	NN	_	6	obj	_	_
 6	दित्ती	_	VERB	VM	_	0	root	_	SpaceAfter=No
@@ -1340,7 +1340,7 @@
 # sent_id = 103
 # text =  सैह झटपट लिखा दा था।
 1	सैह	_	PRON	PRP	_	4	obj	_	_
-2	झटपट	_	ADV	RB	_	4	ROOT	_	_
+2	झटपट	_	ADV	RB	_	4	root	_	_
 3	लिखा	_	VERB	VM	_	0	aux	_	_
 4	दा	_	AUX	VAUX	_	4	aux	_	_
 5	था	_	AUX	VAUX	_	4	aux:pass	_	SpaceAfter=No
@@ -1533,7 +1533,7 @@
 
 # sent_id = 120
 # text =  एह पक्का है जे तिस अमरीका जाणा है!
-1	एह	_	NOUN	NN	_	2	nsbj	_	_
+1	एह	_	NOUN	NN	_	2	nsubj	_	_
 2	पक्का	_	ADJ	JJ	_	0	root	_	_
 3	है	_	AUX	VM	_	2	cop	_	_
 4	जे	_	SCONJ	CC	_	7	cc	_	_
