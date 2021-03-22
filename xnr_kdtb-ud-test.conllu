@@ -2366,8 +2366,8 @@
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 195
-# text = मन्दिरे दिया  उत्तर दिशा विच इक्क नदी है।
-1	मन्दिरे	_	PRPN	NNP	_	4	nmod	_	_
+# text = मन्दिरे दिया उत्तर दिशा विच इक्क नदी है।
+1	मन्दिरे	_	PROPN	NNP	_	4	nmod	_	_
 2	दिया	_	ADP	PSP	_	1	case	_	_
 3	उत्तर	_	NOUN	NN	_	4	amod	_	_
 4	दिशा	_	NOUN	NN	_	7	nmod	_	_
@@ -3177,7 +3177,7 @@
 2	जो	_	ADP	PSP	_	1	case	_	_
 3	अपणें	_	ADJ	JJ	_	4	compound	_	_
 4	आप्पे	_	NOUN	NN	_	7	nmod	_	_
-5	पर	_	NST	PSP	_	4	case	_	_
+5	पर	_	ADP	PSP	_	4	case	_	_
 6	गुस्सा	_	NOUN	NN	_	7	compound	_	_
 7	आया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
