@@ -1565,7 +1565,7 @@
 3	कने_	CCONJ	CC	_	4	conj	_	_
 4	कमाणे	_	VERB	VM	_	5	xcomp	_	_
 5	च	_	ADP	PSP	_	4	case	_	_
-6	बड़ा	_	ADJ	JJ	_	7	dep	_	_
+6	बड़ा	_	ADJ	JJ	_	7	amod	_	_
 7	फर्क	_	NOUN	NN	_	0	root	_	_
 8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
@@ -1590,7 +1590,7 @@
 # sent_id = 124
 # text = इसा कारा च इतणी ताकत है जे एह पहाड़े तक सानिया ने जाई सकदी।
 1	इसा	_	DET	DEM	_	2	det	_	_
-2	कारा	_	NOUN	NN	_	3	nsubj	_	_
+2	कारा	_	NOUN	NN	_	13	nsubj	_	_
 3	च	_	ADP	PSP	_	2	case	_	_
 4	इतणी	_	ADJ	JJ	_	5	nmod	_	_
 5	ताकत	_	NOUN	NN	_	6	obl	_	_
@@ -1598,7 +1598,7 @@
 7	जे	_	CCONJ	CC	_	13	conj	_	_
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
-10	तक	_	ADP	NST	_	9	punct	_	_
+10	तक	_	ADP	NST	_	9	case	_	_
 11	सानिय	_	NOUN	NN	_	13	amod	_	_
 12	ने	_	ADP	PSP	_	11	case	_	_
 13	जाई	_	VERB	VM	_	0	root	_	_
@@ -1634,7 +1634,6 @@
 11	दा	_	ADP	PSP	_	10	case	_	_
 12	असर	_	NOUN	NN	_	14	obj	_	_
 13  नी	_	ADV	RB	_	14	advmod	_	_
-13	नी	_	ADV	RB	_	14	advmod	_	_
 14	पोंदा	_	VERB	VM	_	0	root	_	_
 15	होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	14	punct	_	_
@@ -1666,28 +1665,28 @@
 
 # sent_id = 129
 # text = क्या तुसां जो कम्पयूटरे दा इस्तेमाल करना ओंदा?
-1	क्या	_	PART	RP	_	7	det	_	_
+1	क्या	_	PART	RP	_	7	dep	_	_
 2	तुसां	_	PRON	PRP	_	7	amod	_	_
-3	जो	_	ADP	PSP	_	2	det	_	_
+3	जो	_	ADP	PSP	_	2	case	_	_
 4	कम्पयूटरे	_	NOUN	NN	_	6	nmod	_	_
-5	दा	_	ADP	PSP	_	4	obj	_	_
+5	दा	_	ADP	PSP	_	4	case	_	_
 6	इस्तेमाल	_	NOUN	NN	_	7	compound	_	_
-7	करना	_	VERB	VM	_	0	ROOT	_	_
+7	करना	_	VERB	VM	_	0	root	_	_
 8	ओंदा	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 130
 # text = जणासें मिंजो कने कमरे च बड़े ढंगे ने गल्ल कित्ती।
-1	जणासें	_	NOUN	NN	_	10	amod	_	_
-2	मिंजो	_	PRON	PRP	_	10	compound	_	_
-3	कने	_	ADP	NST	_	2	nsubj	_	_
-4	कमरे	_	NOUN	NN	_	5	dep	_	_
-5	च	_	ADP	PSP	_	4	nsubj	_	_
+1	जणासें	_	NOUN	NN	_	10	nsubj	_	_
+2	मिंजो	_	PRON	PRP	_	10	nmod	_	_
+3	कने	_	ADP	NST	_	2	case	_	_
+4	कमरे	_	NOUN	NN	_	5	obl	_	_
+5	च	_	ADP	PSP	_	4	case	_	_
 6	बड़े	_	ADJ	JJ	_	7	amod	_	_
-7	ढंगे	_	NOUN	NN	_	9	ROOT	_	_
-8	ने	_	ADP	PSP	_	7	ROOT	_	_
-9	गल्ल 	_	NOUN	NN	_	10	ROOT	_	_	
-10	कित्ती	_	VERB	VM	_	0	cop	_	SpaceAfter=No
+7	ढंगे	_	NOUN	NN	_	9	obl	_	_
+8	ने	_	ADP	PSP	_	7	case	_	_
+9	गल्ल 	_	NOUN	NN	_	10	compound	_	_	
+10	कित्ती	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 131
@@ -1715,7 +1714,7 @@
 3	मेरा	_	PRON	PRP	_	4	nmod	_	_
 4	पुत्तर	_	NOUN	NN	_	1	nsubj	_	_
 5	स्कूले	_	NOUN	NN	_	1	nmod	_	_
-6	ते 	_	ADP	PSP	_	5	dep	_	SpaceAfter=No
+6	ते 	_	ADP	PSP	_	5	case	_	SpaceAfter=No
 7	!	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 134
@@ -1774,7 +1773,7 @@
 1	मैं 	_	PRON	PRP	_	7	nsubj	_	_
 2	पैसेयां	_	NOUN	NN	_	3	obl	_	_
 3	 दा	_	ADP	PSP	_	6	case	_	_
-4	भुक्खा	_	ADJ	JJ	_	3	root	_	_
+4	भुक्खा	_	ADJ	JJ	_	0	root	_	_
 5	नी	_	ADV	RB	_	6	advmod	_	_
 6	हैं	_	AUX	VM	_	6	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
@@ -1801,7 +1800,7 @@
 3	बक	_	NOUN	NNC	_	5	compound	_	_
 4	बक	_	NOUN	NN	_	5	compound	_	_
 5	करदी	_	VERB	VM	_	0	root	_	_
-6	हैं	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 142
