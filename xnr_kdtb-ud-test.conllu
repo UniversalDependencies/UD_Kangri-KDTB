@@ -3527,7 +3527,7 @@
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 297
-# text =   कदेया बेला आई गेया है?
+# text =  कदेया बेला आई गेया है?
 1	कदेया	_	PART	PRP	_	2	compound	_	_
 2	बेला	_	NOUN	NN	_	3	advmod	_	_
 3	आई	_	VERB	VM	_	0	root	_	_
@@ -3560,7 +3560,7 @@
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 300
-# text =  मितरा! एह खरे लच्छण नी हन्।
+# text =  मितरा ! एह खरे लच्छण नी हन्।
 1	मितरा	_	NOUN	NN	_	5	obl	_	_
 2	!	_	PUNCT	SYM	_	5	punct	_	_
 3	एह	_	DET	DEM	_	5	nsubj	_	_
