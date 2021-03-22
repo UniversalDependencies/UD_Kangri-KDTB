@@ -3749,7 +3749,7 @@
 2	फोन	_	NOUN	RB	_	3	obj	_	_
 3	खरीदी	_	VERB	VM	_	8	advcl	_	_
 4	भी	_	PART	RP	_	3	dep	_	_
-5	लेयां	_	AUX	VAUX	_	3	adv	_	_
+5	लेयां	_	AUX	VAUX	_	3	advcl	_	_
 6	ता	_	PART	RP	_	8	mark	_	_
 7	मिंजो	_	PRON	PRP	_	8	nsubj	_	_
 8	बरतणा	_	VERB	VM	_	0	root	_	_
