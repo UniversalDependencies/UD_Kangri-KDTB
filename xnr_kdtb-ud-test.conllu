@@ -982,7 +982,7 @@
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 73
-# text = सैह नदी नीले रंगे दी है। 
+# text = सैह नदी नीले रंगे दी है।
 1	सैह	_	DET	DEM	_	2	det	_	_
 2	नदी	_	NOUN	NN	_	6	nsubj	_	_
 3	नीले	_	ADJ	JJ	_	4	compound	_	_
@@ -1036,7 +1036,7 @@
 8	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 78
-# text = इसते परन्त सैह कुथी घुम्मणा नी निकळी। 
+# text = इसते परन्त सैह कुथी घुम्मणा नी निकळी।
 1	इसते	_	PRON	PRP	_	7	obl	_	_
 2	परन्त	_	ADP	NST	_	1	case	_	_
 3	सैह	_	PRON	PRP	_	7	nsubj	_	_
@@ -1061,7 +1061,7 @@
 
 # sent_id = 80
 # text = दिल्लिया विच कल सुन्ना 300 रूपेइये बद्धीकरी 35000 रूपेइये प्रति तोळे पर बन्द होया था।
-1	दिल्लिय	_	PROPN	NNP	_	14	obl	_	_
+1	दिल्लिया	_	PROPN	NNP	_	14	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
 3	कल	_	ADV	RB	_	14	obl	_	_
 4	सुन्ना	_	NOUN	NN	_	14	nsubj	_	_
