@@ -1714,8 +1714,8 @@
 3	मेरा	_	PRON	PRP	_	4	nmod	_	_
 4	पुत्तर	_	NOUN	NN	_	1	nsubj	_	_
 5	स्कूले	_	NOUN	NN	_	1	nmod	_	_
-6	ते 	_	ADP	PSP	_	5	case	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	1	punct	_	_
+6	ते  _	ADP	PSP	_	5	case	_	SpaceAfter=No
+7	। _	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 134
 # text = तिजो इस मौके दा फायदा लैणा चाहीदा।
