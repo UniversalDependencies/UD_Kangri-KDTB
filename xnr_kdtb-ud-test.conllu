@@ -2296,7 +2296,7 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 189
-# text =   गरीबुए  ते टब्बरे दा पेट नी भरोआ दा।
+# text = गरीबुए ते टब्बरे दा पेट नी भरोआ दा।
 1	गरीबुए 	_	PROPN	NNP	_	7	nmod	_	_
 2	ते	_	ADP	PSP	_	2	case	_	_
 3	टब्बरे	_	NOUN	NN	_	7	obl	_	_
@@ -2308,7 +2308,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 190
-# text =   हौदे बर्फ पौणे पर धर्मशाला पर्यटक बढ़ी जांदे।
+# text = हौदे बर्फ पौणे पर धर्मशाला पर्यटक बढ़ी जांदे।
 1	हौदे 	_	NOUN	NN	_	3	obl	_	_
 2	बर्फ	_	NOUN	NN	_	3	compound	_	_
 3	पौणे	_	VERB	VM	_	7	advcl	_	_
@@ -2591,7 +2591,7 @@
 8	कनै	_	CCONJ	CC	_	7	cc	_	_
 9	अंग्रेजी	_	NOUN	NNP	_	7	conj	_	_
 10	भाखां	_	NOUN	NN	_	12	obj	_	_
-11	ही	_	RART	RP	_	7	dep	_	_
+11	ही	_	PART	RP	_	7	dep	_	_
 12	गलान्दे	_	VERB	VM	_	3	ccomp	_	_
 13	कनै	_	CCONJ	CC	_	12	cc	_	_
 14	समझदे	_	VERB	VM	_	12	conj	_	_
