@@ -1856,7 +1856,7 @@
 
 # sent_id = 147
 # text = सैह सैहर दो मील दूर ऐ।
-1	सैह	_	PRON	PRP	_	2	det	_	_
+1	सैह	_	DET	DEM	_	2	det	_	_
 2	सैहर	_	NOUN	NN	_	5	nsubj	_	_
 3	दो	_	NUM	QT	_	4	nummod	_	_
 4	मील	_	NOUN	NN	_	5	amod	_	_
@@ -1875,22 +1875,22 @@
 
 # sent_id = 149
 # text =खाणा खाणे बाद दंदां जो साफ करा।
-1	खाणा	_	NOUN	NN	_	3	compound	_	_
-2	खाणे	_	VERB	VM	_	3	amod	_	_
-3	बाद	_	ADP	PSP	_	6	case	_	_
-4	दंदां	_	NOUN	NN	_	6	dobj	_	_
-5	जो	_	ADP	PSP	_	5	case	_	_
-6	साफ	_	VERB	VM	_	0	root	_	_
-7	करा	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	6	punct	_	_
+1	खाणा	_	NOUN	NN	_	3	obj	_	_
+2	खाणे	_	VERB	VM	_	3	advcl	_	_
+3	बाद	_	SCONJ	CC	_	7	mark	_	_
+4	दंदां	_	NOUN	NN	_	7	obj	_	_
+5	जो	_	ADP	PSP	_	4	case	_	_
+6	साफ	_	NOUN	NN	_	7	compound	_	_
+7	करा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 150
-# text = इस जो अपणा घर ई समझा।
+# text = इस जो अपणा घर ही समझा।
 1	इस	_	DET	DEM	_	6	det	_	_
-2	जो	_	ADP	PSP	_	1	det	_	_
+2	जो	_	ADP	PSP	_	1	case	_	_
 3	अपणा	_	ADJ	JJ	_	4	nsubj	_	_
 4	घर	_	NOUN	NN	_	6	obl	_	_
-5	ई	_	PART	RP	_	4	obj	_	_
+5	ही	_	PART	RP	_	4	dep	_	_
 6	समझा	_	VERB	VM	_	0	ROOT	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -1917,14 +1917,14 @@
 
 # sent_id = 153
 # text = सैह चीठिया डाका च पाणा भुली गेई।
-1	सैह	_	PRON	PRP	_	5	nsubj	_	_
+1	सैह	_	PRON	PRP	_	6	nsubj	_	_
 2	चीठिया	_	NOUN	NN	_	4	obj	_	_
-3	डाका	_	NOUN	NN	_	5	nmod	_	_
-4	च	_	ADP	PSP	_	4	case	_	_
-5	पाणा	_	VERB	VM	_	0	root	_	_
-6	भुली	_	AUX	VAUX	_	5	aux	_	_
-7	गेई	_	AUX	VAUX	_	5	aux:pass	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	5	punct	_	_
+3	डाका	_	NOUN	NN	_	6	nmod	_	_
+4	च	_	ADP	PSP	_	3	case	_	_
+5	पाणा	_	VERB	VM	_	6	xcomp	_	_
+6	भुली	_	VERB	VM	_	0	root	_	_
+7	गेई	_	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 154
 # text =   तिसा जो कुसी वी चीजा दा डर नी ऐं।
