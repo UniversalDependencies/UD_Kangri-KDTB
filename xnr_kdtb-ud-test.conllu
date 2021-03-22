@@ -1769,7 +1769,7 @@
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 139
-# text =मैं पैसेयां दा भुक्खा नी हैं।
+# text = मैं पैसेयां दा भुक्खा नी हैं।
 1	मैं 	_	PRON	PRP	_	7	nsubj	_	_
 2	पैसेयां	_	NOUN	NN	_	3	obl	_	_
 3	दा	_	ADP	PSP	_	6	case	_	_
