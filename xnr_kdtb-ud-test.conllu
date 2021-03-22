@@ -120,10 +120,10 @@
 # text = पर ऋतु एह कम्म करने ताईं त्यार नी है।
 1	पर	_	CCONJ	CC	_	9	cc	_	_
 2	ऋतु	_	PROPN	NNP	_	9	nsubj	_	_
-3	एह	_	DET	DEM	_	4	compound	_	_
+3	एह	_	DET	DEM	_	4	det	_	_
 4	कम्म	_	NOUN	NN	_	5	obj	_	_
 5	करने	_	VERB	VM	_	9	advcl	_	_
-6	ताईं	_	ADP	NST	_	5	case	_	_
+6	ताईं	_	ADP	NST	_	5	mark	_	_
 7	त्यार	_	ADJ	JJ	_	0	root	_	_
 8	नी	_	PART	ADV	_	7	advmod	_	_
 9	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
