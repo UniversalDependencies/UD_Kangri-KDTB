@@ -1988,7 +1988,7 @@
 5	क्या	_	PART	RP	_	6	dep	_	_
 6	अर्थ	_	NOUN	NN	_	0	root	_	_
 7	कढदे	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
-8	?	_	SYM	SYM	_	6	punct	_	_
+8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 160
 # text =   तिन्नी असां तांई बड़ा ई छैल़ खाणा तयार कित्ता।
