@@ -1772,7 +1772,7 @@
 # text =मैं पैसेयां दा भुक्खा नी हैं।
 1	मैं 	_	PRON	PRP	_	7	nsubj	_	_
 2	पैसेयां	_	NOUN	NN	_	3	obl	_	_
-3	 दा	_	ADP	PSP	_	6	case	_	_
+3	दा	_	ADP	PSP	_	6	case	_	_
 4	भुक्खा	_	ADJ	JJ	_	0	root	_	_
 5	नी	_	ADV	RB	_	6	advmod	_	_
 6	हैं	_	AUX	VM	_	6	cop	_	SpaceAfter=No
@@ -1820,9 +1820,9 @@
 # text =  असां सारे तेरे सेहता तांईं चिन्ता च हन।
 1	असां	_	PRON	RRP	_	6	nsubj	_	_
 2	सारे	_	NOUN	NN	_	1	nmod	_	_
-3	तेरे	_	PRON	PRP	_	3	dep	_	_
-4	सेहता	_	NOUN	NN	_	6	nsubj	_	_
-5	तांईं	_	ADP	PSP	_	4	case	_	_
+3	तेरे	_	PRON	PRP	_	4	nmod	_	_
+4	सेहता	_	NOUN	NN	_	6	obl	_	_
+5	तांईं	_	ADP	PSP	_	6	case	_	_
 6	चिन्ता	_	NOUN	NN	_	0	root	_	_
 7	च	_	ADP	PSP	_	6	case	_	_
 8	हन	_	AUX	VM	_	6	cop	_	SpaceAfter=No
@@ -1842,16 +1842,16 @@
 1	असां	_	PRON	PRP	_	4	nsubj	_	_
 2	सैह	_	PRON	PRP	_	3	det	_	_
 3	मीदवार	_	NOUN	NN	_	4	obl	_	_
-4	चुणेया 	_	AUX	VM	_	0	root	_	SpaceAfter=No
+4	चुणेया 	_	VERB	VM	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 146
 # text = मेहरबानी करी के हौल़ें बोल्ला।
-1	मेहरबानी	_	NOUN	NN	_	2	advmod	_	_
-2	करी	_	AUX	VM	_	5	dep	_	_
-3	के	_	ADP	PSP	_	2	case	_	_
-4	हौल़ें 	_	NOUN	NN	_	5	compound	_	_
-5	बोल्ला 	_	AUX	VM	_	0	root	_	SpaceAfter=No
+1	मेहरबानी	_	NOUN	NN	_	5	obj	_	_
+2	करी	_	VERB	VM	_	1	advcl	_	_
+3	के	_	SCONJ	CC	_	2	mark	_	_
+4	हौल़ें 	_	ADV	RB	_	5	advmod	_	_
+5	बोल्ला 	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 147
