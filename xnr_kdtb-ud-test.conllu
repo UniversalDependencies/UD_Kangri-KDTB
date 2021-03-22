@@ -403,7 +403,7 @@
 11	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 29
-# text = जे तुसां इंटरनेट बैंकिंग दा इस्तेमाल करदे हन , तां च्तन्न होई जा।
+# text = जे तुसां इंटरनेट बैंकिंग दा इस्तेमाल करदे हन , तां च्तन्न  होई जा।
 1	जे	_	SCONJ	CC	_	7	mark	_	_
 2	तुसां	_	PRON	PRP	_	7	nsubj	_	_
 3	इंटरनेट	_	NOUN	NNC	_	4	compound	_	_
@@ -414,7 +414,7 @@
 8	हन	_	AUX	VAUX	_	7	aux	_	_
 9	,	_	PUNCT	SYM	_	7	punct	_	_
 10	तां	_	CCONJ	CC	_	12	mark	_	_
-11	च्तन्न	_	ADJ	JJ	_	12	compound 	_	_
+11  च्तन्न  _	ADJ	JJ	_	12  compound 	_	_
 12	होई	_	VERB	VM	_	0	root	_	_
 13	जा	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	12	punct	_	_
