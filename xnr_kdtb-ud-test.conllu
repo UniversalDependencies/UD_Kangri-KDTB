@@ -1772,11 +1772,11 @@
 # text = मैं पैसेयां दा भुक्खा नी हैं।
 1	मैं 	_	PRON	PRP	_	7	nsubj	_	_
 2	पैसेयां	_	NOUN	NN	_	3	obl	_	_
-3	दा  _	ADP	PSP	_	6	case	_	_
+3	दा	_	ADP	PSP	_	6	case	_	_
 4	भुक्खा	_	ADJ	JJ	_	0	root	_	_
 5	नी	_	ADV	RB	_	6	advmod	_	_
 6	हैं	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-7	। _	PUNCT	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 140
 # text = तुसां जां दिक्खा किछ न किछ पुठ्ठे कम करदे रैंहदे हन।
@@ -1789,9 +1789,9 @@
 7	पुठ्ठे	_	ADJ	JJ	_	8	amod	_	_
 8	कम	_	NOUN	NN	_	9	obj	_	_
 9	करदे	_	VERB	VM	_	0	root	_	_
-10  रैंहदे  _	AUX	VAUX	_	9	aux	_	_
-11  हन  _	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No
-12  । _	PUNCT	SYM	_	9	punct	_	
+10	रैंहदे	_	AUX	VAUX	_	9	aux	_	_
+11	हन	_	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 141
 # text =  सैह बड़ी बक बक करदी है।
