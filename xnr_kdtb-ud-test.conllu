@@ -1842,16 +1842,16 @@
 1	असां	_	PRON	PRP	_	4	nsubj	_	_
 2	सैह	_	PRON	PRP	_	3	det	_	_
 3	मीदवार	_	NOUN	NN	_	4	obl	_	_
-4	चुणेया  _	VERB	VM	_	0	root	_	SpaceAfter=No
-5	। _	PUNCT	SYM	_	4	punct	_	_
+4	चुणेया	_	VERB	VM	_	0	root	_	SpaceAfter=No
+5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 146
 # text = मेहरबानी करी के हौल़ें बोल्ला।
 1	मेहरबानी	_	NOUN	NN	_	5	obj	_	_
-2 करी	_	VERB	VM	_	1	advcl	_	_
-3 के	_	SCONJ	CC	_	2	mark	_	_
-4 हौल़ें	_	ADV	RB	_	5	advmod	_	_
-5 बोल्ला	_	VERB	VM	_	0	root	_	SpaceAfter=No
+2	करी	_	VERB	VM	_	1	advcl	_	_
+3	के	_	SCONJ	CC	_	2	mark	_	_
+4	हौल़ें	_	ADV	RB	_	5	advmod	_	_
+5	बोल्ला	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 147
@@ -2297,7 +2297,7 @@
 
 # sent_id = 189
 # text = गरीबुए ते टब्बरे दा पेट नी भरोआ।
-1	गरीबुए  _	PROPN	NNP	_	7	nmod	_	_
+1	गरीबुए	_	PROPN	NNP	_	7	nmod	_	_
 2	ते	_	ADP	PSP	_	2	case	_	_
 3	टब्बरे	_	NOUN	NN	_	7	obl	_	_
 4	दा	_	ADP	PSP	_	4	case	_	_
