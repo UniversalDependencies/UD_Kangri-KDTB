@@ -1599,7 +1599,7 @@
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
 10	तक	_	ADP	NST	_	9	case	_	_
-11	सानिया  _	NOUN	NN	_	13	amod	_	_
+11	सानिय	_	NOUN	NN	_	13	amod	_	_
 12	ने	_	ADP	PSP	_	11	case	_	_
 13	जाई	_	VERB	VM	_	0	root	_	_
 14	सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
@@ -2316,11 +2316,11 @@
 6	पर्यटक	_	NOUN	NN	_	7	nmod	_	_
 7	बढ़ी	_	VERB	VM	_	0	root	_	_
 8	जांदे	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
-9 । _	PUNCT	SYM	_	7	punct	_	_
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 191
 # text = मेळे विच सैह भतोरड़ होई जांदा है।
-1	मेळे  _	NOUN	NN	_	5	obl	_	_
+1	मेळे	_	NOUN	NN	_	5	obl	_	_
 2	विच	_	ADP	PSP	_	1	case	_	_
 3	सैह	_	PRON	PRP	_	5	nsubj	_	_
 4	भतोरड़	_	NOUN	NN	_	5	xcomp	_	_
@@ -2683,7 +2683,7 @@
 1	सैह	_	PRON	PRP	_	3	nsubj	_	_
 2	तमाकुए	_	NOUN	NN	_	3	nmod	_	_
 3	पीन्दा	_	VERB	VM	_	0	root	_	_
-4	रेह्या  _	AUX	VAUX	_	3	aux	_	SpaceAfter=No
+4	रेह्या	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 220
@@ -3444,7 +3444,7 @@
 7	फीटर	_	NOUN	NN	_	8	nsubj	_	_
 8	अय्या	_	VERB	VM	_	5	conj	_	_
 9	था	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10  ।	_	PUNCT	SYM	_	5	punct	_	_
+10	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 289
 # text =  दो घड़े नाड़ेयां ते लेई ओआ।
@@ -3454,7 +3454,7 @@
 4	ते	_	ADP	PSP	_	3	case	_	_
 5	लेई	_	VERB	VM	_	0	root	_	_
 6	ओआ	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
-7  ।	_	PUNCT	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 290
 # text =  जरा सम्ह्ळी के चलणा।
@@ -3608,7 +3608,7 @@
 
 # sent_id = 304
 # text = चाह पी लैन्दे हन।
-1	चाह _	NOUN	NN	_	3	obj	_	_
+1	चाह	_	NOUN	NN	_	3	obj	_	_
 2	पी	_	VERB	VM	_	3	compound	_	_
 3	लैन्दे	_	AUX	VAUX	_	0	root	_	_
 4	हन	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
