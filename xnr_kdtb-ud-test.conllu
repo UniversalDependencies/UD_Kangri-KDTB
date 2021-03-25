@@ -3426,10 +3426,10 @@
 
 # sent_id = 287
 # text = सैह कैस दस्सी गेया है?
-1	सैह _	PRON	PRP	_	3	nsubj	_	_
+1	सैह	_	PRON	PRP	_	3	nsubj	_	_
 2	कैस	_	PRON	PRP	_	3	obj	_	_
 3	दस्सी	_	VERB	VM	_	0	root	_	_
-4	गेया  _	AUX	VAUX	_	3	aux	_	_
+4	गेया	_	AUX	VAUX	_	3	aux	_	_
 5	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	3	punct	_	_
 
@@ -3454,7 +3454,7 @@
 4	ते	_	ADP	PSP	_	3	case	_	_
 5	लेई	_	VERB	VM	_	0	root	_	_
 6	ओआ	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	5	punct	_	_
+7  ।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 290
 # text =  जरा सम्ह्ळी के चलणा।
@@ -3762,11 +3762,11 @@
 1	असां	_	PRON	PRP	_	3	nsubj	_	_
 2	दे	_	ADP	PSP	_	1	case	_	_
 3	जमाने	_	NOUN	NN	_	8	obl	_	_
-4	बिच _	ADP	PSP	_	3	case	_	_
+4	बिच	_	ADP	PSP	_	3	case	_	_
 5	मदरसे	_	NOUN	NN	_	8	obj	_	_
-6 नेडे  _ ADJ JJ	_	8	amod	_	_
-7	नी  _	ADV	RB	_	8	advmod	_	_
-8	हुन्दे  _	VERB	VM	_	0	root	_	_
-9	थे  _	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10  । _	PUNCT	SYM	_	8	punct	_	_
+6	नेडे	_	ADJ	JJ	_	8	amod	_	_
+7	नी	_	ADV	RB	_	8	advmod	_	_
+8	हुन्दे 	_	VERB	VM	_	0	root	_	_
+9	थे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	8	punct	_	_
 
