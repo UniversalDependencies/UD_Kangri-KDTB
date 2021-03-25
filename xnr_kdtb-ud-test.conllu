@@ -1572,7 +1572,7 @@
 
 # sent_id = 123
 # text = असां जो अपणे वातावरणे जो दूषित नी करने दी पूरी कोशिश करनी चाहिदी।
-1	असां  _	PRON	PRP	_	12	nsubj	_	_
+1	असां	_	PRON	PRP	_	12	nsubj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
 3	अपणे	_	PRON	PRP	_	4	nmod	_	_
 4	वातावरणे	_	NOUN	NN	_	6	obl	_	_
@@ -1584,7 +1584,7 @@
 10	पूरी	_	ADJ	JJ	_	12	amod	_	_
 11	कोशिश	_	NOUN	NN	_	12	compound	_	_
 12	करनी	_	VERB	VM	_	0	root	_	_
-13	चाहिदी  _	AUX	VAUX	_	12	aux	_	SpaceAfter=No
+13	चाहिदी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	12	punct	_	_
 
 # sent_id = 124
@@ -1603,7 +1603,7 @@
 12	ने	_	ADP	PSP	_	11	case	_	_
 13	जाई	_	VERB	VM	_	0	root	_	_
 14	सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
-15  ।	_	PUNCT	SYM	_	13	punct	_	_
+15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 125
 # text =  अम्मा बापू अपणेयां बच्चेयां दिया फाहजती तांईं जिम्मेदार हुन्दे हन।
@@ -1633,7 +1633,7 @@
 10	सूरजे	_	NOUN	NN	_	12	nmod	_	_
 11	दा	_	ADP	PSP	_	10	case	_	_
 12	असर	_	NOUN	NN	_	14	obj	_	_
-13  नी	_	ADV	RB	_	14	advmod	_	_
+13	नी	_	ADV	RB	_	14	advmod	_	_
 14	पोंदा	_	VERB	VM	_	0	root	_	_
 15	होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
 16	।	_	PUNCT	SYM	_	14	punct	_	_
@@ -1714,8 +1714,8 @@
 3	मेरा	_	PRON	PRP	_	4	nmod	_	_
 4	पुत्तर	_	NOUN	NN	_	1	nsubj	_	_
 5	स्कूले	_	NOUN	NN	_	1	nmod	_	_
-6	ते  _	ADP	PSP	_	5	case	_	SpaceAfter=No
-7	। _	PUNCT	SYM	_	1	punct	_	_
+6	ते	_	ADP	PSP	_	5	case	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 134
 # text = तिजो इस मौके दा फायदा लैणा चाहीदा।
