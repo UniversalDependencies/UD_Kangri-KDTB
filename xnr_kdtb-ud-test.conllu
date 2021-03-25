@@ -1599,7 +1599,7 @@
 8	एह	_	PRON	PRP	_	9	nmod	_	_
 9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
 10	तक	_	ADP	NST	_	9	case	_	_
-11	सानिय	_	NOUN	NN	_	13	amod	_	_
+11	सानिया	_	NOUN	NN	_	13	amod	_	_
 12	ने	_	ADP	PSP	_	11	case	_	_
 13	जाई	_	VERB	VM	_	0	root	_	_
 14	सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
