@@ -1528,7 +1528,7 @@
 5	विच	_	ADP	PSP	_	4	case	_	_
 6	माहणुए	_	NOUN	NN	_	7	obj	_	_
 7	पछैणी	_	VERB	VM	_	0	root	_	_
-8	सकदे  _	AUX	VAUX	_	7	aux	_	SpaceAfter=No
+8	सकदे	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 120
