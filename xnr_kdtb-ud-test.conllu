@@ -414,7 +414,7 @@
 8	हन	_	AUX	VAUX	_	7	aux	_	_
 9	,	_	PUNCT	SYM	_	7	punct	_	_
 10	तां	_	CCONJ	CC	_	12	mark	_	_
-11  च्तन्न  _	ADJ	JJ	_	12  compound 	_	_
+11   च्तन्न  _	ADJ	JJ	_	12  compound 	_	_
 12	होई	_	VERB	VM	_	0	root	_	_
 13	जा	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	12	punct	_	_
