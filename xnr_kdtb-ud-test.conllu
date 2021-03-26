@@ -1468,7 +1468,7 @@
 5	तिज्जो	_	PRON	PRP	_	3	nsubj	_	_
 6	घरे	_	NOUN	NN	_	8	obl	_	_
 7	जो	_	ADP	PSP	_	6	case	_	_
-8	जाणा	_	VERB	VM	_	9	compond	_	_
+8	जाणा	_	VERB	VM	_	9	compuond	_	_
 9	चाहीदा	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	3	punct	_	_
 
