@@ -1372,9 +1372,9 @@
 4	लायक	_	ADJ	JJ	_	7	obl	_	_
 5	पुतरे	_	NOUN	NN	_	4	case	_	_
 6	पर	_	ADP	PSP	_	5	case	_	_
-7	गमान	_	NOUN	NN	_	8	root	_	_
-8	है	_	VERB	AUX	_	8	aux	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	8	punct	_	_
+7	गमान	_	NOUN	NN	_	0	root	_	_
+8	है	_	VERB	AUX	_	7	aux	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 107
 # text =  मैं तिज्जो ते जादा छैल़ हैं।
