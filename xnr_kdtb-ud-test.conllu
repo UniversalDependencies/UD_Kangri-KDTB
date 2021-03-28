@@ -1543,21 +1543,6 @@
 8	है	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	!	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 121
-# text = चला होर दिक्खदे हन जे असां कितणियां चीजां दिक्खी सकदे हन।
-1	चला	_	VERB	VM	_	3	conj	_	_
-2	होर	_	ADJ	JJ	_	3	obl	_	_
-3	दिक्खदे	_	VERB	VM	_	0	root	_	_
-4	हन	_	AUX	VAUX	_	3	aux	_	_
-5	जे	_	CCONJ	CC	_	10	conj	_	_
-6	असां	_	PRON	PRP	_	10	nsubj	_	_
-7	कितणियां	_	ADV	RB	_	8	advmod	_	_
-8	चीजां	_	NOUN	NN	_	9	obj	_	_
-9	दिक्खी	_	VERB	VM	_	10	obj	_	_
-10	सकदे	_	AUX	VAUX	_	3	compound	_	_
-11	हन	_	AUX	VAUX	_	10	aux:pass	_	SpaceAfter=No
-12	।	_	PUNCT	SYM	_	3	punct	_	_
-
 # sent_id = 122
 # text = गलाणे च कने कमाणे च बड़ा फर्क है।
 1	गलाणे	_	VERB	VM	_	4	conj	_	_
@@ -1740,7 +1725,7 @@
 
 # sent_id = 136
 # text = तिन्नी अपणे भविख तांईं बेफाहजत मसूस कित्ता।
-1	तिन्नी	_	PRON	PRP	_	7	nsubj	_	_
+1	तिन्नी	_	PRON	PRP	_	6	nsubj	_	_
 2	अपणे	_	PRON	RRP	_	3	nmod	_	_
 3	भविख	_	NOUN	NN	_	6	obl	_	_
 4	तांईं	_	ADP	NST	_	3	case	_	_
@@ -1772,7 +1757,7 @@
 # text = मैं पैसेयां दा भुक्खा नी हैं।
 1	मैं	_	PRON	PRP	_	4	nsubj	_	_
 2	पैसेयां	_	NOUN	NN	_	4	obl	_	_
-3	दा	_	ADP	PSP	_	3	case	_	_
+3	दा	_	ADP	PSP	_	2 case	_	_
 4	भुक्खा	_	ADJ	JJ	_	0	root	_	_
 5	नी	_	ADV	RB	_	4	advmod	_	_
 6	हैं	_	AUX	VM	_	4	cop	_	SpaceAfter=No
