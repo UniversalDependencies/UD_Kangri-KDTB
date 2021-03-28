@@ -1392,15 +1392,15 @@
 2	सवालां	_	NOUN	NN	_	4	nmod	_	_
 3	दा	_	ADP	PSP	_	2	case	_	_
 4	जवाब	_	NOUN	NN	_	5	compound	_	_
-5	देणा	_	VERB	VM	_	4	advcl	_	_
+5	देणा	_	VERB	VM	_	6	advcl	_	_
 6	सौखा	_	ADJ	JJ	_	0	root	_	_
-7	है	_	AUX	VM	_	4	cop	_	SpaceAfter=No
-8	|	_	PUNCT	SYM	_	4	punct	_	_
+7	है	_	AUX	VM	_	6	cop	_	SpaceAfter=No
+8	|	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 109
 # text = मैं अपणियां नांनियां ने हफ्ते च दो बरी मिलणा जांदा हैं।
 1	मैं	_	PRON	PRP	_	10	nsubj	_	_
-2	अपणियां	_	PRON	PRP	_	3	nummmod	_	_
+2	अपणियां	_	PRON	PRP	_	3	numod	_	_
 3	नांनियां	_	NOUN	NN	_	9	obl	_	_
 4	ने	_	ADP	PSP	_	3	case	_	_
 5	हफ्ते	_	NOUN	NN	_	9	obl	_	_
