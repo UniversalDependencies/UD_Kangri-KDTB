@@ -1373,7 +1373,7 @@
 5	पुतरे	_	NOUN	NN	_	4	case	_	_
 6	पर	_	ADP	PSP	_	5	case	_	_
 7	गमान	_	NOUN	NN	_	0	root	_	_
-8	है	_	VERB	AUX	_	7	aux	_	SpaceAfter=No
+8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 107
@@ -1751,7 +1751,7 @@
 
 # sent_id = 137
 # text =   अम्मा कने मैं हर तरीकें लग हन।
-1	अम्मा	_	NOUN	NN	_	3	nsubj	_	_
+1	अम्मा	_	NOUN	NN	_	6	nsubj	_	_
 2	कने	_	CCONJ	CC	_	1	cc	_	_
 3	मैं	_	PRON	PRP	_	1	conj	_	_
 4	हर	_	DET	DEM	_	5	det	_	_
@@ -1770,13 +1770,13 @@
 
 # sent_id = 139
 # text = मैं पैसेयां दा भुक्खा नी हैं।
-1	मैं	_	PRON	PRP	_	7	nsubj	_	_
-2	पैसेयां	_	NOUN	NN	_	3	obl	_	_
-3	दा	_	ADP	PSP	_	6	case	_	_
+1	मैं	_	PRON	PRP	_	4	nsubj	_	_
+2	पैसेयां	_	NOUN	NN	_	4	obl	_	_
+3	दा	_	ADP	PSP	_	3	case	_	_
 4	भुक्खा	_	ADJ	JJ	_	0	root	_	_
-5	नी	_	ADV	RB	_	6	advmod	_	_
-6	हैं	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	6	punct	_	_
+5	नी	_	ADV	RB	_	4	advmod	_	_
+6	हैं	_	AUX	VM	_	4	cop	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 140
 # text = तुसां जां दिक्खा किछ न किछ पुठ्ठे कम करदे रैंहदे हन।
@@ -1806,7 +1806,7 @@
 # sent_id = 142
 # text = हुण तां तिसजो कोई अजूबा ही बचाई सकदा है।
 1	हुण	_	ADV	RB	_	7	advmod	_	_
-2	तां	_	PART	RP	_	2	dep	_	_
+2	तां	_	PART	RP	_	1	dep	_	_
 3	तिसजो	_	PRON	PRP	_	7	iobj	_	_
 4	कोई	_	PRON	PRP	_	5	nmod	_	_
 5	अजूबा	_	NOUN	NN	_	7	nsubj	_	_
@@ -1829,11 +1829,11 @@
 9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 144
-# text =  तें अपणा कुर्तू पुठ्ठा पहनेया।
-1	तें	_	PRON	PRP	_	5	nsubj	_	_
+# text =  तैं अपणा कुर्तू पुठ्ठा पहनेया।
+1	तैं	_	PRON	PRP	_	5	nsubj	_	_
 2	अपणा	_	ADJ	JJ	_	3	amod	_	_
 3	कुर्तू	_	NOUN	NN	_	5	obl	_	_
-4	पुठ्ठा	_	NOUN	NN	_	5	advmod	_	_
+4	पुठ्ठा	_	NOUN	NN	_	5	nmod	_	_
 5	पहनेया	_	AUX	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
