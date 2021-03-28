@@ -1891,14 +1891,14 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 152
-# text = तुसां बाहरले मुलखां कदियख ते हन।
+# text = तुसां बाहरले मुलखां कदियख ते हन?
 1	तुसां	_	PRON	PRP	_	6	nsubj	_	_
 2	बाहरले	_	NOUN	NN	_	3	nmod	_	_
 3	मुलखां	_	NOUN	NN	_	6	nmod	_	_
 4	कदियख	_	ADV	RB	_	6	advmod	_	_
 5	ते	_	ADP	PSP	_	4	case	_	_
 6	हन	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	6	punct	_	_
+7	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 153
 # text = सैह चीठिया डाका च पाणा भुली गेई।
