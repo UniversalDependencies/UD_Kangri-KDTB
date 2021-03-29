@@ -2209,7 +2209,7 @@
 3	मदद	_	NOUN	NN	_	6	compound	_	_
 4	कदी	_	ADV	RB	_	6	obj	_	_
 5	नी	_	ADV	RP	_	6	compound	_	_
-6	करदा	_	AUX	VAUX	_	0	ROOT	_	SpaceAfter=No
+6	करदा	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 183
