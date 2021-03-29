@@ -2443,7 +2443,7 @@
 11	माँ	_	NOUN	NN	_	18	compound	_	_
 12	बोलिया	_	NOUN	NN	_	16	nmod	_	_
 13	बास्तैं	_	ADP	NST	_	12	case	_	_
-14	एह	_	NOUN	NN	_	17	compound 	_	_
+14	एह	_	NOUN	NN	_	17	compound	_	_
 15	इक्क	_	NUM	QC	_	17	nummod	_	_
 16	डरौणा	_	ADJ	JJ	_	18	nmod	_	_
 17	खतरा	_	NOUN	NN	_	18	advmod	_	_
