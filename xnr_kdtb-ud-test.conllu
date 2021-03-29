@@ -1883,9 +1883,9 @@
 # text = तिन्नी मेरे जुआन होणे दा फायदा लिया।
 1	तिन्नी	_	PRON	PRP	_	7	nsubj	_	_
 2	मेरे	_	PRON	PRP	_	3	nmod	_	_
-3	जुआन	_	ADJ	JJ	_	4	advcl	_	_
-4	होणे	_	VERB	VM	_	6	cop	_	_
-5	दा	_	ADP	PSP	_	4	mark	_	_
+3	जुआन	_	ADJ	JJ	_	4	nmod	_	_
+4	होणे	_	VERB	VM	_	6	advcl	_	_
+5	दा	_	SCONJ	CC	_	4	mark	_	_
 6	फायदा	_	NOUN	NN	_	7	obj	_	_
 7	लिया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
