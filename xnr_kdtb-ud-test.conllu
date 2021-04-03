@@ -2113,8 +2113,8 @@
 5	नी	_	ADV	RB	_	4	advmod	_	_
 6	करी	_	VERB	VM	_	0	root	_	_
 7	सकदी	_	AUX	VAUX	_	6	aux	_	_
-8	कजो	_	CCONJ	CC	_	6	compound	_	_
-9	जे	_	CCONJ	CC	_	6	conj	_	_
+8	कजो	_	CCONJ	CC	_	15	mark	_	_
+9	जे	_	PRON	PRP	_	10	nmod	_	_
 10	मेरे	_	PRON	PRP	_	10	nmod	_	_
 11	सिरे	_	NOUN	NN	_	15	obl	_	_
 12	च	_	ADP	PSP	_	10	case	_	_
@@ -2128,12 +2128,12 @@
 # text =  मैं इक टैलीस्कोपे कने इक्की बिटिया जो दिक्खेया।
 1	मैं	_	PRON	PRP	_	8	nsubj	_	_
 2	इक	_	NUM	QT	_	3	nummod	_	_
-3	टैलीस्कोपे	_	NOUN	NN	_	4	amod	_	_
-4	कने	_	ADP	PSP	_	8	case	_	_
+3	टैलीस्कोपे	_	NOUN	NN	_	8	amod	_	_
+4	कने	_	ADP	PSP	_	3	case	_	_
 5	इक्की	_	NUM	QT	_	6	nummod	_	_
 6	बिटिया	_	NOUN	NN	_	8	obl	_	_
-7	जो	_	ADP	PSP	_	8	case	_	_
-8	दिक्खेया	_	VERB	VM	_	8	root	_	SpaceAfter=No
+7	जो	_	ADP	PSP	_	6	case	_	_
+8	दिक्खेया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 175
@@ -2283,10 +2283,10 @@
 # sent_id = 189
 # text = गरीबुए ते टब्बरे दा पेट नी भरोआ।
 1	गरीबुए	_	PROPN	NNP	_	7	nmod	_	_
-2	ते	_	ADP	PSP	_	2	case	_	_
+2	ते	_	ADP	PSP	_	1	case	_	_
 3	टब्बरे	_	NOUN	NN	_	7	obl	_	_
-4	दा	_	ADP	PSP	_	4	case	_	_
-5	पेट	_	NOUN	NN	_	7	nmod	_	_
+4	दा	_	ADP	PSP	_	3	case	_	_
+5	पेट	_	NOUN	NN	_	7	obj	_	_
 6	नी	_	PART	NEG	_	7	advmod	_	_
 7	भरोआ	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
@@ -2326,18 +2326,18 @@
 
 # sent_id = 193
 # text = कांगड़े दा महत्त्व धौलाधार कने भी है।
-1	कांगड़े	_	PRON	PPN	_	3	nmod	_	_
+1	कांगड़े	_	PRON	NNP	_	3	nmod	_	_
 2	दा	_	ADP	PSP	_	1	case	_	_
 3	महत्त्व	_	ADJ	JJ	_	4	nsubj	_	_
 4	धौलाधार	_	PROPN	NNP	_	0	root	_	_
-5	कने	_	CCONJ	CC	_	4	case	_	_
-6	भी	_	PART	RP	_	7	dep	_	_
+5	कने	_	ADP	PSP	_	4	case	_	_
+6	भी	_	PART	RP	_	5	dep	_	_
 7	है	_	AUX	VM	_	4	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 194
 # text = बैजनाथ मंदिरे दा स्थापत्य दक्खणे देयां मंदरां ते प्रेरित है।
-1	बैजनाथ	_	PROPN	NNP	_	2	det	_	_
+1	बैजनाथ	_	PROPN	NNP	_	2	compound	_	_
 2	मंदिरे	_	NOUN	NN	_	4	nmod	_	_
 3	दा	_	ADP	PSP	_	2	case	_	_
 4	स्थापत्य	_	NOUN	NN	_	9	nsubj	_	_
@@ -2423,7 +2423,7 @@
 # text = सारा ग्राँ बड़ा छैल़ है।
 1	सारा	_	ADJ	JJ	_	2	amod	_	_
 2	ग्राँ	_	NOUN	NN	_	4	nsubj	_	_
-3	बड़ा	_	ADJ	JJ	_	4	advmod	_	_
+3	बड़ा	_	ADJ	JJ	_	4	nmod	_	_
 4	छैल़	_	NOUN	NN	_	0	root	_	_
 5	है	_	AUX	VM	_	4	cop	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	4	punct	_	_
