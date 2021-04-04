@@ -2739,31 +2739,31 @@
 
 # sent_id = 225
 # text = सारे लोक बुड्ढे पास्सें गौरा ने दिक्खणा लगी पे।
-1	सारे	_	ADJ	JJ	_	2	det	_	_
-2	लोक	_	NOUN	NN	_	8	nsubj	_	_
+1	सारे	_	DET	DEM	_	2	det	_	_
+2	लोक	_	NOUN	NN	_	7	nsubj	_	_
 3	बुड्ढे	_	NOUN	JJ	_	7	obj	_	_
 4	पास्सें	_	ADP	PSP	_	3	case	_	_
-5	गौरा	_	NOUN	NN	_	8	obl	_	_
+5	गौरा	_	NOUN	NN	_	7	obl	_	_
 6	ने	_	ADP	PSP	_	5	case	_	_
-7	दिक्खणा	_	VERB	VM	_	8	compound	_	_
-8	लगी	_	AUX	VAUX	_	0	root	_	_
-9	पे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	8	punct	_	_
+7	दिक्खणा	_	VERB	VM	_	0	root	_	_
+8	लगी	_	AUX	VAUX	_	7	aux	_	_
+9	पे	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 226
 # text =  नसाणदेही होई तां जम्मणी दा बूट्टा किरपुए दें पास्सैं निकळी आया।
-1	नसाणदेही	_	NOUN	NN	_	4	obl	_	_
-2	होई	_	VERB	VM	_	3	advcl	_	_
-3	तां	_	PART	RP	_	4	dep	_	_
-4	जम्मणी	_	NOUN	NNP	_	8	nmod	_	_
-5	दा	_	ADP	PSP	_	7	case	_	_
+1	नसाणदेही	_	NOUN	NN	_	2	obl	_	_
+2	होई	_	VERB	VM	_	10	advcl	_	_
+3	तां	_	PART	RP	_	3	dep	_	_
+4	जम्मणी	_	NOUN	NNP	_	6	nmod	_	_
+5	दा	_	ADP	PSP	_	4	case	_	_
 6	बूट्टा	_	NOUN	NN	_	7	obj	_	_
-7	किरपुए	_	NOUN	NNP	_	8	obl	_	_
-8	दें	_	ADP	PSP	_	9	case	_	_
-9	पास्सैं	_	ADP	NST	_	11	case	_	_
-10	निकळी	_	VERB	VM	_	11	root	_	_
-11	आया	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
-12	।	_	PUNCT	SYM	_	11	punct	_	_
+7	किरपुए	_	NOUN	NNP	_	10	obl	_	_
+8	दें	_	ADP	PSP	_	7	case	_	_
+9	पास्सैं	_	ADP	NST	_	7	case	_	_
+10	निकळी	_	VERB	VM	_	0	root	_	_
+11	आया	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 227
 # text = ऊञा एह जम्मणी दा बूट्टा प्रेमुएं दा ही है।
@@ -2784,8 +2784,8 @@
 2	बुड्ढे	_	NOUN	JJ	_	4	nmod	_	_
 3	दिया	_	ADP	PSP	_	2	case	_	_
 4	गल्ला	_	NOUN	NN	_	9	obj	_	_
-5	सुणी	_	VERB	VM	_	9	mark	_	_
-6	के	_	ADP	NST	_	5	case	_	_
+5	सुणी	_	VERB	VM	_	9	advcl	_	_
+6	के	_	ADP	NST	_	5	mark	_	_
 7	बड़ा	_	ADV	RB	_	8	advmod	_	_
 8	खुश	_	ADJ	JJ	_	9	compound	_	_
 9	होया	_	VERB	VM	_	0	root	_	SpaceAfter=No
@@ -2833,13 +2833,13 @@
 # text = एह  देहिया हालता विच सारेयां ते बड्डा सुआल खाणे दा था।
 1	एह	_	DET	DEM	_	2	det	_	_
 2	देहिया	_	ADJ	JJ	_	3	nmod	_	_
-3	हालता	_	NOUN	NN	_	8	obl	_	_
+3	हालता	_	NOUN	NN	_	9	obl	_	_
 4	विच	_	ADP	PSP	_	3	case	_	_
-5	सारेयां	_	ADV	RB	_	8	nmod	_	_
+5	सारेयां	_	ADV	RB	_	9	nmod	_	_
 6	ते	_	ADP	PSP	_	5	case	_	_
 7	बड्डा	_	ADJ	JJ	_	8	amod	_	_
-8	सुआल	_	NOUN	NN	_	0	root	_	_
-9	खाणे	_	VERB	VM	_	8	mark	_	_
+8	सुआल	_	NOUN	NN	_	9	nsubj	_	_
+9	खाणे	_	VERB	VM	_	0	root	_	_
 10	दा	_	ADP	PSP	_	9	case	_	_
 11	था	_	AUX	VM	_	8	cop	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	8	punct	_	_
@@ -2860,8 +2860,8 @@
 3	के	_	ADP	PSP	_	3	case	_	_
 4	बाहर	_	ADV	RB	_	5	advmod	_	_
 5	चली	_	VERB	VM	_	0	root	_	_
-6	गेई	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	4	punct	_	_
+6	गेई	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 235
 # text = तुसां हार बड़ा छैळ बणान्दे हन।
@@ -2885,21 +2885,21 @@
 8	खाणें	_	NOUN	NN	_	9	obj	_	_
 9	बणाई	_	VERB	VM	_	11	advcl	_	_
 10	के	_	ADP	PSP	_	11	mark	_	_
-11	खुआए	_	VERB	VM	_	11	root	_	SpaceAfter=No
+11	खुआए	_	VERB	VM	_	0	root	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 237
 # text =  सैह बड़े  खुश होए।
 1	सैह	_	PRON	PRP	_	4	nsubj	_	_
-2	बड़े	_	ADJ	JJ	_	3	amod	_	_
-3	खुश	_	NOUN	NN	_	4	obl	_	_
-4	होए	_	VERB	VM	_	4	root	_	SpaceAfter=No
+2	बड़े	_	ADJ	RB	_	3	advmod	_	_
+3	खुश	_	ADJ	JJ	_	4	compound	_	_
+4	होए	_	VERB	VM	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 238
 # text =  तिसजो तिसदे घरे  वाल़े चुक्की के लेई औह्न।
-1	तिसजो	_	PRON	PRP	_	8	obj	_	_
-2	तिसदे	_	PRON	PRP	_	3	nmod	_	_
+1	तिसजो	_	PRON	PRP	_	4	nsubj	_	_
+2	तिसदे	_	ADV	RB	_	3	nmod	_	_
 3	घरे	_	NOUN	NN	_	5	amod	_	_
 4	वाल़े	_	ADJ	JJ	_	8	nsubj	_	_
 5	चुक्की	_	VERB	VM	_	8	advcl	_	_
@@ -2928,7 +2928,7 @@
 # sent_id = 241
 # text = राजा राणी  दोयो तित्थू सौई गे।
 1	राजा	_	NOUN	NN	_	2	compound	_	_
-2	राणी	_	NOUN	NN	_	1	nsubj	_	_
+2	राणी	_	NOUN	NN	_	5	nsubj	_	_
 3	दोयो	_	DET	DEM	_	1	det	_	_
 4	तित्थू	_	ADV	RB	_	5	advmod	_	_
 5	सौई	_	VERB	VM	_	5	root	_	_
@@ -2944,24 +2944,24 @@
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 243
-# text =सारिया पृथ्विया जो अप्पूं विच ही डुबाई लैंह्गा?
+# text = सारिया पृथ्विया जो अप्पूं विच ही डुबाई लैंह्गा?
 1	सारिया	_	ADJ	JJ	_	2	nmod	_	_
-2	पृथ्विया	_	NOUN	NN	_	8	obj	_	_
-3	जो	_	ADP	PSP	_	5	case	_	_
-4	अप्पूं	_	NOUN	NN	_	5	nmod	_	_
-5	विच	_	ADP	PSP	_	8	case	_	_
-6	ही	_	PART	RP	_	5	dep	_	_
-7	डुबाई	_	VERB	VM	_	8	root	_	_
-8	लैंह्गा	_	AUX	VAUX	_	8	cop	_	SpaceAfter=No
-9	?	_	PUNCT	SYM	_	8	punct	_	_
+2	पृथ्विया	_	NOUN	NN	_	7	obj	_	_
+3	जो	_	ADP	PSP	_	2	case	_	_
+4	अप्पूं	_	NOUN	NN	_	7	nmod	_	_
+5	विच	_	ADP	PSP	_	4	case	_	_
+6	ही	_	PART	RP	_	4	dep	_	_
+7	डुबाई	_	VERB	VM	_	0	root	_	_
+8	लैंह्गा	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
+9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 244
 # text = जिञा  ही सैह रुकी तफान भी थमी गेया।
-1	जिञा	_	ADV	RB	_	2	advmod	_	_
+1	जिञा	_	ADV	RB	_	4	advmod	_	_
 2	ही	_	PART	RP	_	1	dep	_	_
 3	सैह	_	PRON	PRP	_	4	nsubj	_	_
 4	रुकी	_	VERB	VM	_	7	advcl	_	_
-5	तफान	_	NOUN	NN	_	7	obl	_	_
+5	तफान	_	NOUN	NN	_	7	nsubj	_	_
 6	भी	_	PART	RP	_	5	dep	_	_
 7	थमी	_	VERB	VM	_	0	root	_	_
 8	गेया	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
@@ -2984,7 +2984,7 @@
 2	गल्ल	_	NOUN	NN	_	3	obj	_	_
 3	तिसा	_	PRON	PRP	_	6	obl	_	_
 4	जो	_	ADP	PSP	_	5	case	_	_
-5	सुणाई	_	VERB	VM	_	6	root	_	_
+5	सुणाई	_	VERB	VM	_	0	root	_	_
 6	दित्ती	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -3003,7 +3003,7 @@
 1	बाकी	_	NOUN	NN	_	4	obl	_	_
 2	मैं	_	PRON	PRP	_	4	nsubj	_	_
 3	सम्हाळी	_	VERB	VM	_	4	compound	_	_
-4	लैह्ंगी	_	AUX	VAUX	_	4	root	_	SpaceAfter=No
+4	लैह्ंगी	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 249
@@ -3021,7 +3021,7 @@
 2	तिसदी	_	PRON	PRP	_	3	nmod	_	_
 3	हाख	_	NOUN	NN	_	4	nsubj	_	_
 4	खुल्ली	_	VERB	VM	_	9	advcl	_	_
-5	,	_	PUNCT	SYM	_	3	punct	_	_
+5	,	_	PUNCT	SYM	_	4	punct	_	_
 6	सैह	_	PRON	PRP	_	9	nsubj	_	_
 7	पताळे	_	NOUN	NN	_	9	obl	_	_
 8	विच	_	ADP	PSP	_	7	case	_	_
@@ -3069,7 +3069,7 @@
 2	आळी	_	NOUN	NN	_	5	obl	_	_
 3	विच	_	ADP	PSP	_	2	case	_	_
 4	गुम	_	NOUN	NN	_	5	compound	_	_
-5	होई	_	VERB	VM	_	5	root	_	_
+5	होई	_	VERB	VM	_	0	root	_	_
 6	गेई	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -3099,10 +3099,10 @@
 
 # sent_id = 257
 # text =  इक्क उच्ची दुआल दुस्सी गेई।
-1	इक्क	_	NUM	QC	_	2	nummod	_	_
+1	इक्क	_	NUM	QC	_	3	nummod	_	_
 2	उच्ची	_	ADJ	JJ	_	3	nmod	_	_
 3	दुआल	_	NOUN	NN	_	4	obj	_	_
-4	दुस्सी	_	VERB	VM	_	4	root	_	_
+4	दुस्सी	_	VERB	VM	_	0	root	_	_
 5	गेई	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
