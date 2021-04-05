@@ -3135,24 +3135,24 @@
 5	?	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 261
-# text =  इत्थू घुम्मणें वास्तें ही अय्या है।
-1	इत्थू	_	PRON	PRP	_	5	amod	_	_
-2	घुम्मणें	_	VERB	VM	_	3	advcl	_	_
-3	वास्तें	_	ADP	NST	_	5	mark	_	_
+# text =  इत्थू घुम्मणें वास्तें ही आया है।
+1	इत्थू	_	PRON	PRP	_	5	nsubj	_	_
+2	घुम्मणें	_	VERB	VM	_	5	advcl	_	_
+3	वास्तें	_	ADP	NST	_	2	mark	_	_
 4	ही	_	PART	RP	_	3	dep	_	_
-5	अय्या	_	VERB	VM	_	0	root	_	_
+5	आया _	VERB	VM	_	0	root	_	_
 6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 262
 # text = अपर तिह्ना तिसदी गल्ल नी मन्नी।
-1	अपर	_	CCONJ	CC	_	4	cc	_	_
-2	तिह्ना	_	PRON	PRP	_	4	nsubj	_	_
+1	अपर	_	CCONJ	CC	_	5	cc	_	_
+2	तिह्ना	_	PRON	PRP	_	5	nsubj	_	_
 3	तिसदी	_	PRON	PRON	_	4	nmod	_	_
 4	गल्ल	_	NOUN	NN	_	5	obj	_	_
-5	नी	_	ADV	RB	_	4	advmod	_	_
+5	नी	_	ADV	RB	_	5	advmod	_	_
 6	मन्नी	_	VERB	VM	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	4	punct	_	_
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 263
 # text = तिस जो अपणें आप्पे पर गुस्सा आया।
@@ -3213,7 +3213,7 @@
 # text =  कुब्जा मने - मने बड़ी खुश होई।
 1	कुब्जा	_	PRON	NNP	_	7	nsubj	_	_
 2	मने	_	NOUN	NN	_	7	obl	_	_
-3	-	_	PUNCT	SYM	_	7	punct	_	_
+3	-	_	PUNCT	SYM	_	2	punct	_	_
 4	मने	_	NOUN	NN	_	2	conj	_	_
 5	बड़ी	_	ADV	RB	_	7	advmod	_	_
 6	खुश	_	ADJ	JJ	_	7	compound	_	_
@@ -3222,12 +3222,12 @@
 
 # sent_id = 269
 # text = इसजो अपणा ही घर समझा।
-1	इसजो	_	PRON	PRP	_	4	obj	_	_
+1	इसजो	_	PRON	PRP	_	5	obj	_	_
 2	अपणा	_	NOUN	NN	_	4	nmod	_	_
 3	ही	_	PART	RP	_	2	dep	_	_
 4	घर	_	NOUN	NN	_	5	obl	_	_
 5	समझा	_	VERB	VERB	_	0	root	_	SpaceAfter=No
-6	।	_	PUNCT	SYM	_	4	punct	_	_
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 270
 # text = अन्दर कमरे बिच इक्क बड़ा ही छैळ बधिया मंजा बिछेया था।
@@ -3235,14 +3235,14 @@
 2	कमरे	_	NOUN	NN	_	11	obl	_	_
 3	बिच	_	ADP	PSP	_	2	case	_	_
 4	इक्क	_	NUM	QC	_	2	nummod	_	_
-5	बड़ा	_	ADJ	JJ	_	10	amod	_	_
+5	बड़ा	_	ADV	RB	_	9	advmod	_	_
 6	ही	_	PART	RP	_	5	dep	_	_
 7	छैळ	_	ADJ	JJ	_	9	compound	_	_
-9	बधिया	_	ADJ	JJ	_	10	nmod	_	_
-10	मंजा	_	NOUN	NN	_	11	obj	_	_
-11	बिछेया	_	VERB	VM	_	0	root	_	_
-12	था	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
-13	।	_	PUNCT	SYM	_	11	punct	_	_
+8	बधिया	_	ADJ	JJ	_	9	nmod	_	_
+9	मंजा	_	NOUN	NN	_	10	obj	_	_
+10	बिछेया	_	VERB	VM	_	0	root	_	_
+11	था	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 271
 # text = तित्थू सैह् किस्मां - किस्मा दे पकवान त्यार करना लग्गी।
@@ -3360,9 +3360,9 @@
 # sent_id = 282
 # text =  हाल्ली तिकर सूरज नी निकळेया है।
 1	हाल्ली	_	ADV	RB	_	2	compound	_	_
-2	तिकर	_	PRON	PRP	_	5	advmod	_	_
+2	तिकर	_	PRON	PB	_	5	advmod	_	_
 3	सूरज	_	NOUN	NN	_	5	nsubj	_	_
-4	नी	_	ADV	RB	_	5	advmod	_	_
+4	नी	_	ADV	RB	_	3	advmod	_	_
 5	निकळेया	_	VERB	VM	_	0	root	_	_
 6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -3380,7 +3380,7 @@
 # text = अखबार आई चुकियो हुन्दी हैं।
 1	अखबार	_	NOUN	NN	_	2	nsubj	_	_
 2	आई	_	VERB	VM	_	0	root	_	_
-3	चुकियो	_	AUX	VAUX	_	2	compound	_	_
+3	चुकियो	_	AUX	VAUX	_	2	aux	_	_
 4	हुन्दी	_	VERB	VM	_	2	aux	_	_
 5	हैं	_	AUX	VAUX	_	2	aux:pass	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	2	punct	_	_
@@ -3450,8 +3450,8 @@
 
 # sent_id = 291
 # text = बान्दर मते होई गेयो हन्।
-1	बान्दर	_	NOUN	NN	_	3	dep	_	_
-2	मते	_	PART	QF	_	1	det	_	_
+1	बान्दर	_	NOUN	NN	_	3	nsubj	_	_
+2	मते	_	ADJ	JJ	_	1	amod	_	_
 3	होई	_	VERB	VM	_	0	root	_	_
 4	गेयो	_	AUX	VAUX	_	3	aux	_	_
 5	हन्	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
@@ -3459,32 +3459,32 @@
 
 # sent_id = 292
 # text =   फसलां जो तैह्स - नैह्स करी देया दे हन्।
-1	फसलां	_	NOUN	NN	_	6	obl	_	_
+1	फसलां	_	NOUN	NN	_	6	obj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
-3	तैह्स	_	NOUN	NN	_	6	advmod	_	_
+3	तैह्स	_	NOUN	NN	_	6	amod	_	_
 4	-	_	PUNCT	SYM	_	3	punct	_	_
-5	नैह्स	_	NOUN	NN	_	0	compound	_	_
-6	करी	_	VERB	VM	_	6	root	_	_
+5	नैह्स	_	ADJ	JJ	_	3	compound	_	_
+6	करी	_	VERB	VM	_	0	root	_	_
 7	देया	_	AUX	VAUX	_	6	aux	_	_
-8	दे	_	AUX	VAUX	_	6	aux:pass	_	_
-9	हन्	_	AUX	VAUX	_	6	cop	_	SpaceAfter=No
+8	दे	_	AUX	VAUX	_	6	aux	_	_
+9	हन्	_	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 293
 # text = खान्दे घट्ट कनै गुआन्दे मता हन्।
-1	खान्दे	_	VERB	VM	_	6	compound	_	_
-2	घट्ट	_	ADJ	JJ	_	1	det	_	_
-3	कनै	_	CCONJ	CC	_	4	conj	_	_
-4	गुआन्दे	_	VERB	VM	_	6	compound	_	_
-5	मता	_	ADJ	DET	_	4	det	_	_
+1	खान्दे	_	VERB	VM	_	0	root	_	_
+2	घट्ट	_	ADJ	JJ	_	1	amod	_	_
+3	कनै	_	CCONJ	CC	_	4	cc	_	_
+4	गुआन्दे	_	VERB	VM	_	1	conj	_	_
+5	मता	_	ADJ	DET	_	4	amod	_	_
 6	हन्	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 294
 # text =  राजुए जो भेज्जेआ है।
 1	राजुए	_	PROPN	NNP	_	3	nmod	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
-3	भेज्जेआ	_	VERB	VM	_	3	root	_	_
+3	भेज्जेआ	_	VERB	VM	_	0	root	_	_
 4	है	_	AUX	VAUX	_	3	cop	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
@@ -3512,9 +3512,9 @@
 # sent_id = 297
 # text =  कदेया बेला आई गेया है?
 1	कदेया	_	PART	PRP	_	2	compound	_	_
-2	बेला	_	NOUN	NN	_	3	advmod	_	_
+2	बेला	_	NOUN	NN	_	3	nsubj	_	_
 3	आई	_	VERB	VM	_	0	root	_	_
-4	गेया	_	AUX	VAUX	_	3	dep	_	_
+4	गेया	_	AUX	VAUX	_	3	aux	_	_
 5	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	3	punct	_	_
 
