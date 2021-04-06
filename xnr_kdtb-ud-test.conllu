@@ -3561,31 +3561,31 @@
 4	ते	_	ADP	PSP	_	3	case	_	_
 5	बचाणे	_	VERB	VM	_	13	advcl	_	_
 6	बिच	_	ADP	PSP	_	5	case	_	_
-7	पूरे	_	ADJ	JJ	_	8	compound	_	_
-8	तरीकें	_	ADJ	JJ	_	7	amod	_	_
+7	पूरे	_	ADV	RB	_	9	advmod	_	_
+8	तरीकें	_	ADJ	JJ	_	9	amod	_	_
 9	समर्पित	_	NOUN	NN	_	10	compound	_	_
 10	होणें	_	VERB	VM	_	0	root	_	_
 11	दी	_	ADP	PSP	_	10	case	_	_
 12	भी	_	PART	RP	_	10	dep	_	_
-13	जरूरत	_	NOUN	NN	_	0	root	_	_
+13	जरूरत	_	NOUN	NN	_	10	obl	_	_
 14	है	_	AUX	VM	_	13	cop	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	13	punct	_	_
+15	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 302
 # text =  बरखा लगणे वाळी है।
-1	बरखा	_	NOUN	NN	_	3	nsubj	_	_
+1	बरखा	_	NOUN	NN	_	2	nsubj	_	_
 2	लगणे	_	VERB	VM	_	0	root	_	_
-3	वाळी	_	AUX	VAUX	_	3	aux	_	_
-4	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
-5	।	_	PUNCT	SYM	_	3	punct	_	_
+3	वाळी	_	AUX	VAUX	_	2	aux	_	_
+4	है	_	AUX	VAUX	_	2	aux:pass	_	SpaceAfter=No
+5	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 303
 # text = चाह् बणी गेइयो है तां लेई ओआ।
-1	चाह्	_	NOUN	NN	_	3	nsubj	_	_
-2	बणी	_	VERB	VM	_	3	compound	_	_
+1	चाह्	_	NOUN	NN	_	2	nsubj	_	_
+2	बणी	_	VERB	VM	_	6	advcl	_	_
 3	गेइयो	_	AUX	VAUX	_	2	aux	_	_
 4	है	_	AUX	VAUX	_	2	aux:pass	_	_
-5	तां	_	PART	RP	_	6	mark	_	_
+5	तां	_	SCONJ	CC	_	6	mark	_	_
 6	लेई	_	VERB	VM	_	0	root	_	_
 7	ओआ	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
@@ -3680,8 +3680,8 @@
 1	मेरिया	_	PRON	PRP	_	2	nmod	_	_
 2	नुँहां	_	NOUN	NN	_	4	obl	_	_
 3	दी	_	ADP	PSP	_	2	case	_	_
-4	तबीत	_	NOUN	NN	_	8	obl	_	_
-5	किछ	_	ADJ	JJ	_	6	compound	_	_
+4	तबीत	_	NOUN	NN	_	8	nsubj	_	_
+5	किछ	_	ADJ	JJ	_	6	advmod	_	_
 6	खरी	_	ADJ	JJ	_	0	root	_	_
 7	नी	_	ADV	RB	_	6	advmod	_	_
 8	है	_	AUX	VM	_	6	cop	_	SpaceAfter=No
@@ -3697,10 +3697,10 @@
 # sent_id = 315
 # text =  तिन्नी पखलें माहणुयें बुढड़े सौह्रे जो जवाब दित्ता।
 1	तिन्नी	_	DET	DEM	_	3	det	_	_
-2	पखलें	_	ADJ	JJ	_	2	nmod	_	_
-3	माहणुयें	_	NOUN	NN	_	7	nsubj	_	_
+2	पखलें	_	ADJ	JJ	_	3	nmod	_	_
+3	माहणुयें	_	NOUN	NN	_	8	nsubj	_	_
 4	बुढड़े	_	ADJ	JJ	_	5	nmod	_	_
-5	सौह्रे	_	NOUN	NN	_	7	obl	_	_
+5	सौह्रे	_	NOUN	NN	_	8	obl	_	_
 6	जो	_	ADP	PSP	_	5	case	_	_
 7	जवाब	_	NOUN	NN	_	8	compound	_	_
 8	दित्ता	_	VERB	VM	_	0	root	_	SpaceAfter=No
@@ -3708,10 +3708,10 @@
 
 # sent_id = 316
 # text = क्या तुसां वाह्ल मोबाईल फोन नी है?
-1	क्या	_	PART	RP	_	7	dep	_	_
-2	तुसां	_	PRON	PRP	_	7	nsubj	_	_
+1	क्या	_	PART	RP	_	5	dep	_	_
+2	तुसां	_	PRON	PRP	_	5	nmod	_	_
 3	वाह्ल	_	ADP	NST	_	2	case	_	_
-4	मोबाईल	_	NOUN	NN	_	5	compound	_	_
+4	मोबाईल	_	NOUN	NN	_	5	amod	_	_
 5	फोन	_	NOUN	NN	_	0	root	_	_
 6	नी	_	ADV	RB	_	5	advmod	_	_
 7	है	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
