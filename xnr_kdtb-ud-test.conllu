@@ -2830,7 +2830,7 @@
 8	!	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 232
-# text = एह  देहिया हालता विच सारेयां ते बड्डा सुआल खाणे दा था।
+# text = एह देहिया हालता विच सारेयां ते बड्डा सुआल खाणे दा था।
 1	एह	_	DET	DEM	_	2	det	_	_
 2	देहिया	_	ADJ	JJ	_	3	nmod	_	_
 3	हालता	_	NOUN	NN	_	9	obl	_	_
@@ -3140,7 +3140,7 @@
 2	घुम्मणें	_	VERB	VM	_	5	advcl	_	_
 3	वास्तें	_	ADP	NST	_	2	mark	_	_
 4	ही	_	PART	RP	_	3	dep	_	_
-5	आया _	VERB	VM	_	0	root	_	_
+5	आया	_	VERB	VM	_	0	root	_	_
 6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
