@@ -2825,7 +2825,7 @@
 3	करी	_	VERB	VM	_	0	root	_	_
 4	भी	_	PART	RP	_	3	dep	_	_
 5	क्या	_	PRON	PRP	_	3	obj	_	_
-6	सकदा	_	VERB	VM	_	3	aux	_	_
+6	सकदा	_	AUX	VAUX	_	3	aux	_	_
 7	था	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 8	!	_	PUNCT	SYM	_	3	punct	_	_
 
@@ -3676,9 +3676,9 @@
 8	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 313
-# text =   मेरिया नुँहां दी तबीत किछ खरी नी है।
+# text =   मेरिया नूहां  दी तबीत किछ खरी नी है।
 1	मेरिया	_	PRON	PRP	_	2	nmod	_	_
-2	नुँहां	_	NOUN	NN	_	4	obl	_	_
+2	नूहां 	_	NOUN	NN	_	4	obl	_	_
 3	दी	_	ADP	PSP	_	2	case	_	_
 4	तबीत	_	NOUN	NN	_	8	nsubj	_	_
 5	किछ	_	ADJ	JJ	_	6	advmod	_	_
