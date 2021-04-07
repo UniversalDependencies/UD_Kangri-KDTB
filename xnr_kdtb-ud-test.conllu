@@ -1840,13 +1840,13 @@
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 147
-# text = सैह सैहर दो मील दूर ऐ।
+# text = सैह शहर दो मील दूर है।
 1	सैह	_	DET	DEM	_	2	det	_	_
-2	सैहर	_	NOUN	NN	_	5	nsubj	_	_
+2	शहर	_	NOUN	NN	_	5	nsubj	_	_
 3	दो	_	NUM	QT	_	4	nummod	_	_
 4	मील	_	NOUN	NN	_	5	amod	_	_
 5	दूर	_	ADJ	JJ	_	0	root	_	_
-6	ऐ	_	VERB	VM	_	5	cop	_	SpaceAfter=No
+6	है	_	VERB	VM	_	5	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 148
