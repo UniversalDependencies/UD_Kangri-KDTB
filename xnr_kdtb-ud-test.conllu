@@ -3676,7 +3676,7 @@
 8	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 313
-# text =   मेरिया नूहां  दी तबीत किछ खरी नी है।
+# text =  मेरिया नूहां दी तबीत किछ खरी नी है।
 1	मेरिया	_	PRON	PRP	_	2	nmod	_	_
 2	नूहां 	_	NOUN	NN	_	4	obl	_	_
 3	दी	_	ADP	PSP	_	2	case	_	_
