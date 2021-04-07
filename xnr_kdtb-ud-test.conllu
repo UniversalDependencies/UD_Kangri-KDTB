@@ -3136,7 +3136,7 @@
 
 # sent_id = 261
 # text = राजू घुम्मणें वास्तें ही आया है।
-1	राजू 	_	PRON	PRP	_	5	nsubj	_	_
+1 राजू  _	PRON	PRP	_	5	nsubj	_	_
 2	घुम्मणें	_	VERB	VM	_	5	advcl	_	_
 3	वास्तें	_	ADP	NST	_	2	mark	_	_
 4	ही	_	PART	RP	_	3	dep	_	_
