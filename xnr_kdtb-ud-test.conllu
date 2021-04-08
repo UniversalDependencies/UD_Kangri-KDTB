@@ -1317,7 +1317,7 @@
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 101
-# text = हुण मिंजो तुसां दा ही  होंसला है।
+# text = हुण मिंजो तुसां दा ही होंसला है।
 1	हुण	_	ADV	RB	_	6	obl	_	_
 2	मिंजो	_	PRON	PRP	_	6	nsubj	_	_
 3	तुसां	_	PRON	PRP	_	6	obl	_	_
@@ -1338,7 +1338,7 @@
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 103
-# text =  सैह झटपट लिखा दा था।
+# text = सैह झटपट लिखा दा था।
 1	सैह	_	PRON	PRP	_	3	nsubj	_	_
 2	झटपट	_	ADV	RB	_	3	advmod	_	_
 3	लिखा	_	VERB	VM	_	0	root	_	_
@@ -1497,7 +1497,7 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 117
-# text =  मैं तुसां दिया अछाईया जो कदी नी भुलगा।
+# text = मैं तुसां दिया अछाईया जो कदी नी भुलगा।
 1	मैं	_	PRON	PRP	_	8	nsubj	_	_
 2	तुसां	_	PRON	PRP	_	4	nmod	_	_
 3	दिया	_	ADP	PSP	_	2	case	_	_
@@ -1509,11 +1509,11 @@
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 118
-# text =  सैह ओढणां सणे पाणियें च कुद्दी गेया।
+# text = सैह ओढणां सणे पाणिए च कुद्दी गेया।
 1	सैह	_	PRON	PRP	_	6	nsubj	_	_
 2	ओढणां	_	NOUN	NN	_	6	obl	_	_
 3	सणे	_	ADP	NST	_	2	case	_	_
-4	पाणियें	_	NOUN	NN	_	6	obl	_	_
+4	पाणिए	_	NOUN	NN	_	6	obl	_	_
 5	च	_	ADP	PSP	_	4	case	_	_
 6	कुद्दी	_	VERB	VM	_	0	root	_	_
 7	गेया	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
@@ -1532,7 +1532,7 @@
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 120
-# text =  एह पक्का है जे तिस अमरीका जाणा है!
+# text = एह पक्का है जे तिस अमरीका जाणा है!
 1	एह	_	NOUN	NN	_	2	nsubj	_	_
 2	पक्का	_	ADJ	JJ	_	0	root	_	_
 3	है	_	AUX	VM	_	2	cop	_	_
@@ -1544,12 +1544,12 @@
 9	!	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 122
-# text = गलाणे च कने कमाणे च बड़ा फर्क है।
+# text = गलाणे विच कने कमाणे विच बड़ा फर्क है।
 1	गलाणे	_	VERB	VM	_	4	conj	_	_
-2	च	_	ADP	PSP	_	1	case	_	_
+2	विच	_	ADP	PSP	_	1	case	_	_
 3	कने	_	CCONJ	CC	_	4	conj	_	_
 4	कमाणे	_	VERB	VM	_	5	xcomp	_	_
-5	च	_	ADP	PSP	_	4	case	_	_
+5	विच	_	ADP	PSP	_	4	case	_	_
 6	बड़ा	_	ADJ	JJ	_	7	amod	_	_
 7	फर्क	_	NOUN	NN	_	0	root	_	_
 8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
@@ -1591,13 +1591,13 @@
 15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 125
-# text =  अम्मा बापू अपणेयां बच्चेयां दिया फाहजती तांईं जिम्मेदार हुन्दे हन।
+# text =  अम्मा बापू अपणेयां बच्चेयां दिया हिफाजती तांईं जिम्मेदार हुन्दे हन।
 1	अम्मा	_	NOUN	NNC	_	2	compound	_	_
 2	बापू	_	NOUN	NN	_	9	nsubj	_	_
 3	अपणेयां	_	ADJ	JJ	_	4	amod	_	_
 4	बच्चेयां	_	NOUN	NN	_	6	nmod	_	_
 5	दिया	_	ADP	PSP	_	4	case	_	_
-6	फाहजती	_	NOUN	NN	_	9	obl	_	_
+6	हिफाजती	_	NOUN	NN	_	9	obl	_	_
 7	तांईं	_	ADP	NST	_	6	case	_	_
 8	जिम्मेदार	_	NOUN	NN	_	9	compound	_	_
 9	हुन्दे	_	VERB	VM	_	0	root	_	_
@@ -1624,7 +1624,7 @@
 16	।	_	PUNCT	SYM	_	14	punct	_	_
 
 # sent_id = 127
-# text =  इत्थू ओत्थू जाणे औणे तांईं गड्डियां बत्हेरियां हन क्या?
+# text = इत्थू ओत्थू जाणे औणे तांईं गड्डियां बत्हेरियां हन क्या?
 1	इत्थू	_	PRON	PRP	_	7	advmod	_	_
 2	ओत्थू	_	ADV	RB	_	1	conj	_	_
 3	जाणे	_	VERB	VM	_	2	amod	_	_
@@ -1637,7 +1637,7 @@
 10	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 128
-# text =  लोकतंत्र सरकारा दी सबनां ते खराब नुहार है।
+# text = लोकतंत्र सरकारा दी सबनां ते खराब नुहार है।
 1	लोकतंत्र	_	NOUN	NN	_	7	nsubj	_	_
 2	सरकारा	_	NOUN	NN	_	4	nmod	_	_
 3	दी	_	ADP	PSP	_	2	case	_	_
@@ -1661,12 +1661,12 @@
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 130
-# text = जणासें मिंजो कने कमरे च बड़े ढंगे ने गल्ल कित्ती।
+# text = जणासें मिंजो कने कमरे विच बड़े ढंगे ने गल्ल कित्ती।
 1	जणासें	_	NOUN	NN	_	10	nsubj	_	_
 2	मिंजो	_	PRON	PRP	_	10	nmod	_	_
 3	कने	_	ADP	NST	_	2	case	_	_
 4	कमरे	_	NOUN	NN	_	5	obl	_	_
-5	च	_	ADP	PSP	_	4	case	_	_
+5	विच	_	ADP	PSP	_	4	case	_	_
 6	बड़े	_	ADJ	JJ	_	7	amod	_	_
 7	ढंगे	_	NOUN	NN	_	9	obl	_	_
 8	ने	_	ADP	PSP	_	7	case	_	_
@@ -1675,21 +1675,21 @@
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 131
-# text = अज तुसां कदेह हन।
-1	अज	_	ADV	RB	_	3	advmod	_	_
+# text = अज्ज तुसां कदेह हन।
+1	अज्ज	_	ADV	RB	_	3	advmod	_	_
 2	तुसां	_	PRON	PRP	_	3	nsubj	_	_
 3	कदेह	_	ADJ	JJ	_	0	root	_	_
 4	हन	_	AUX	VM	_	3	cop	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 132
-# text = ओढण क्या तेरें बुढ़े धोणे न?
+# text = ओढण क्या तेरें बुढ़े धोणे हन?
 1	ओढण	_	NOUN	NN	_	7	obj	_	_
 2	क्या	_	PART	RP	_	7	dep	_	_
 3	तेरें	_	PRON	PRP	_	2	amod	_	_
 4	बुढ़े	_	NOUN	NN	_	6	nmod	_	_
 5	धोणे	_	VERB	VM	_	4	root	_	_
-6	न	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
+6	हन	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 7	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 133
@@ -1714,7 +1714,7 @@
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 135
-# text =  तुफानें सारा शहर बरवाद करी दित्ता।
+# text = तुफानें सारा शहर बरवाद करी दित्ता।
 1	तुफानें	_	PRON	PRP	_	5	nsubj	_	_
 2	सारा	_	ADJ	JJ	_	3	nmod	_	_
 3	शहर	_	NOUN	NN	_	5	obl	_	_
@@ -1724,18 +1724,18 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 136
-# text = तिन्नी अपणे भविख तांईं बेफाहजत मसूस कित्ता।
+# text = तिन्नी अपणे भविष्य तांईं बहिफज़त मसूस कित्ता।
 1	तिन्नी	_	PRON	PRP	_	6	nsubj	_	_
 2	अपणे	_	PRON	RRP	_	3	nmod	_	_
-3	भविख	_	NOUN	NN	_	6	obl	_	_
+3	भविष्य	_	NOUN	NN	_	6	obl	_	_
 4	तांईं	_	ADP	NST	_	3	case	_	_
-5	बेफाहजत	_	ADJ	JJ	_	6	nmod	_	_
+5	बहिफज़त	_	ADJ	JJ	_	6	nmod	_	_
 6	मसूस	_	VERB	VM	_	0	root	_	_
 7	कित्ता	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 137
-# text =   अम्मा कने मैं हर तरीकें लग हन।
+# text = अम्मा कने मैं हर तरीकें लग हन।
 1	अम्मा	_	NOUN	NN	_	6	nsubj	_	_
 2	कने	_	CCONJ	CC	_	1	cc	_	_
 3	मैं	_	PRON	PRP	_	1	conj	_	_
@@ -1850,13 +1850,13 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 148
-# text =  तुसां इत्थू कैस करना आयो।
+# text =  तुसां इत्थू कैस करना आयो?
 1	तुसां	_	PRON	PRP	_	4	nsubj	_	_
 2	इत्थू	_	PRON	PRP	_	1	nmod	_	_
 3	कैस	_	PART	RP	_	4	obj	_	_
 4	करना	_	VERB	VM	_	0	root	_	_
 5	आयो	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
-6	।	_	PUNCT	SYM	_	4	punct	_	_
+6	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 149
 # text =खाणा खाणे बाद दंदां जो साफ करा।
@@ -1880,32 +1880,32 @@
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 151
-# text = तिन्नी मेरे जुआन होणे दा फायदा लिया।
+# text = तिन्नी मेरे जवान होणे दा फायदा लिया।
 1	तिन्नी	_	PRON	PRP	_	7	nsubj	_	_
 2	मेरे	_	PRON	PRP	_	3	nmod	_	_
-3	जुआन	_	ADJ	JJ	_	4	nmod	_	_
+3	जवान	_	ADJ	JJ	_	4	nmod	_	_
 4	होणे	_	VERB	VM	_	6	advcl	_	_
 5	दा	_	SCONJ	CC	_	4	mark	_	_
 6	फायदा	_	NOUN	NN	_	7	obj	_	_
-7	लिया	_	VERB	VM	_	0	root	_	SpaceAfter=No
+7	लेया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 152
-# text = तुसां बाहरले मुलखां कदियख ते हन?
+# text = तुसां बाहरले मुलखां कदी ते हन।
 1	तुसां	_	PRON	PRP	_	6	nsubj	_	_
 2	बाहरले	_	NOUN	NN	_	3	nmod	_	_
 3	मुलखां	_	NOUN	NN	_	6	nmod	_	_
-4	कदियख	_	ADV	RB	_	6	advmod	_	_
+4	कदी	_	ADV	RB	_	6	advmod	_	_
 5	ते	_	ADP	PSP	_	4	case	_	_
 6	हन	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
-7	?	_	PUNCT	SYM	_	6	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 153
-# text = सैह चिट्ठिया डाका च पाणा भुली गेई।
+# text = सैह चिट्ठिया डाका विच पाणा भुली गेई।
 1	सैह	_	PRON	PRP	_	6	nsubj	_	_
 2	चिट्ठिया	_	NOUN	NN	_	4	obj	_	_
 3	डाका	_	NOUN	NN	_	6	nmod	_	_
-4	च	_	ADP	PSP	_	3	case	_	_
+4	विच	_	ADP	PSP	_	3	case	_	_
 5	पाणा	_	VERB	VM	_	6	xcomp	_	_
 6	भुली	_	VERB	VM	_	0	root	_	_
 7	गेई	_	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No
