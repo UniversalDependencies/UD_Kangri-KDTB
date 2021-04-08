@@ -2832,8 +2832,8 @@
 8	सुआल	_	NOUN	NN	_	9	nsubj	_	_
 9	खाणे	_	VERB	VM	_	0	root	_	_
 10	दा	_	ADP	PSP	_	9	case	_	_
-11	था	_	AUX	VM	_	8	cop	_	SpaceAfter=No
-12	।	_	PUNCT	SYM	_	8	punct	_	_
+11	था	_	AUX	VM	_	9	cop	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 233
 # text = सैह तां हल्ल होई गेया।
@@ -2848,7 +2848,7 @@
 # text = सैह गलाई के बाहर चली गेई।
 1	सैह	_	PRON	PRP	_	5	nsubj	_	_
 2	गलाई	_	VERB	VM	_	5	advcl	_	_
-3	के	_	ADP	PSP	_	3	case	_	_
+3	के	_	ADP	PSP	_	2	case	_	_
 4	बाहर	_	ADV	RB	_	5	advmod	_	_
 5	चली	_	VERB	VM	_	0	root	_	_
 6	गेई	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
@@ -2920,9 +2920,9 @@
 # text = राजा राणी  दोयो तित्थू सौई गे।
 1	राजा	_	NOUN	NN	_	2	compound	_	_
 2	राणी	_	NOUN	NN	_	5	nsubj	_	_
-3	दोयो	_	DET	DEM	_	1	det	_	_
+3	दोयो	_	DET	DEM	_	2	det	_	_
 4	तित्थू	_	ADV	RB	_	5	advmod	_	_
-5	सौई	_	VERB	VM	_	5	root	_	_
+5	सौई	_	VERB	VM	_	0	root	_	_
 6	गे	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -2972,12 +2972,12 @@
 # sent_id = 246
 # text =  सारी गल्ल तिसा जो सुणाई दित्ती।
 1	सारी	_	ADJ	JJ	_	2	amod	_	_
-2	गल्ल	_	NOUN	NN	_	3	obj	_	_
-3	तिसा	_	PRON	PRP	_	6	obl	_	_
-4	जो	_	ADP	PSP	_	5	case	_	_
+2	गल्ल	_	NOUN	NN	_	5	obj	_	_
+3	तिसा	_	PRON	PRP	_	5	obl	_	_
+4	जो	_	ADP	PSP	_	3	case	_	_
 5	सुणाई	_	VERB	VM	_	0	root	_	_
-6	दित्ती	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	6	punct	_	_
+6	दित्ती	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 247
 # text = गांह मिंजो कोई मुस्कल नी हुणी।
@@ -3138,12 +3138,12 @@
 # sent_id = 262
 # text = अपर तिहाॉ तिसदी गल्ल नी मन्नी।
 1	अपर	_	CCONJ	CC	_	5	cc	_	_
-2	तिहाॉ	_	PRON	PRP	_	5	nsubj	_	_
+2	तिहाॉ	_	PRON	PRP	_	6	nsubj	_	_
 3	तिसदी	_	PRON	PRON	_	4	nmod	_	_
-4	गल्ल	_	NOUN	NN	_	5	obj	_	_
-5	नी	_	ADV	RB	_	5	advmod	_	_
+4	गल्ल	_	NOUN	NN	_	6	obj	_	_
+5	नी	_	ADV	RB	_	6	advmod	_	_
 6	मन्नी	_	VERB	VM	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	5	punct	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 263
 # text = तिस जो अपणें आप्पे पर गुस्सा आया।
@@ -3349,9 +3349,9 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 282
-# text =  हाल्ली तिकर सूरज नी निकळेया है।
+# text = हाल्ली तिकर सूरज नी निकळेया है।
 1	हाल्ली	_	ADV	RB	_	2	compound	_	_
-2	तिकर	_	PRON	PB	_	5	advmod	_	_
+2	तिकर	_	PRON	RB	_	5	advmod	_	_
 3	सूरज	_	NOUN	NN	_	5	nsubj	_	_
 4	नी	_	ADV	RB	_	3	advmod	_	_
 5	निकळेया	_	VERB	VM	_	0	root	_	_
@@ -3372,7 +3372,7 @@
 1	अखबार	_	NOUN	NN	_	2	nsubj	_	_
 2	आई	_	VERB	VM	_	0	root	_	_
 3	चुकियो	_	AUX	VAUX	_	2	aux	_	_
-4	हुन्दी	_	VERB	VM	_	2	aux	_	_
+4	हुन्दी	_	VERB	VM	_	2	aux:pass _	_
 5	हैं	_	AUX	VAUX	_	2	aux:pass	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	2	punct	_	_
 
@@ -3468,7 +3468,7 @@
 3	कनै	_	CCONJ	CC	_	4	cc	_	_
 4	गुआन्दे	_	VERB	VM	_	1	conj	_	_
 5	मता	_	ADJ	DET	_	4	amod	_	_
-6	हन	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
+6	हन	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	1	punct	_	_
 
 # sent_id = 294
