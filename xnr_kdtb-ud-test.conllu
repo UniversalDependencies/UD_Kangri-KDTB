@@ -3145,9 +3145,9 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 262
-# text = अपर तिह्ना तिसदी गल्ल नी मन्नी।
+# text = अपर तिहाॉ तिसदी गल्ल नी मन्नी।
 1	अपर	_	CCONJ	CC	_	5	cc	_	_
-2	तिह्ना	_	PRON	PRP	_	5	nsubj	_	_
+2	तिहाॉ	_	PRON	PRP	_	5	nsubj	_	_
 3	तिसदी	_	PRON	PRON	_	4	nmod	_	_
 4	गल्ल	_	NOUN	NN	_	5	obj	_	_
 5	नी	_	ADV	RB	_	5	advmod	_	_
