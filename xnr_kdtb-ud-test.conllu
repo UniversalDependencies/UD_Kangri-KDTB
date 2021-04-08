@@ -3210,16 +3210,6 @@
 9	हुन्दे	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 282
-# text = हाल्ली तिकर सूरज नी निकळेया है।
-1	हाल्ली	_	ADV	RB	_	2	compound	_	_
-2	तिकर	_	PRON	RB	_	5	advmod	_	_
-3	सूरज	_	NOUN	NN	_	5	nsubj	_	_
-4	नी	_	ADV	RB	_	3	advmod	_	_
-5	निकळेया	_	VERB	VM	_	0	root	_	_
-6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	5	punct	_	_
-
 # sent_id = 283
 # text = डंगरे घा खाई बैठेयो हन्।
 1	डंगरे	_	NOUN	NN	_	3	nsubj	_	_
@@ -3246,20 +3236,6 @@
 4	बैठेयो	_	AUX	VAUX	_	3	aux	_	_
 5	हन्न	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	3	punct	_	_
-
-# sent_id = 286
-# text = ताह्लू तिक्कर मैं सोत देई लैन्दी कनै भाण्डेयां माँजी रक्खदी।
-1	ताह्लू	_	ADV	RB	_	2	compound	_	_
-2	तिक्कर	_	ADP	PRP	_	10	advmod	_	_
-3	मैं	_	PRON	PRP	_	10	nsubj	_	_
-4	सोत	_	VERB	VM	_	5	compound	_	_
-5	देई	_	AUX	VAUX	_	0	root	_	_
-6	लैन्दी	_	AUX	VAUX	_	7	aux	_	_
-7	कनै	_	CCONJ	CC	_	9	cc	_	_
-8	भाण्डेयां	_	NOUN	NN	_	9	obj	_	_
-9	माँजी	_	VERB	VM	_	5	conj	_	_
-10	रक्खदी	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
-11	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 287
 # text = सैह कैस दस्सी गेया है?
@@ -3527,18 +3503,6 @@
 6	सद्दी	_	VERB	VM	_	2	conj	_	_
 7	देया	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	2	punct	_	_
-
-# sent_id = 313
-# text =  मेरिया नूहां दी तबीत किछ खरी नी है।
-1	मेरिया	_	PRON	PRP	_	2	nmod	_	_
-2	नूहां	_	NOUN	NN	_	4	obl	_	_
-3	दी	_	ADP	PSP	_	2	case	_	_
-4	तबीत	_	NOUN	NN	_	8	nsubj	_	_
-5	किछ	_	ADJ	RB	_	6	advmod	_	_
-6	खरी	_	ADJ	JJ	_	0	root	_	_
-7	नी	_	ADV	RB	_	6	advmod	_	_
-8	है	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 314
 # text = कोई गल्ल नी।
