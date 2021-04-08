@@ -1472,18 +1472,6 @@
 8	है	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	!	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 122
-# text = गलाणे विच कने कमाणे विच बड़ा फर्क है।
-1	गलाणे	_	VERB	VM	_	4	conj	_	_
-2	विच	_	ADP	PSP	_	1	case	_	_
-3	कने	_	CCONJ	CC	_	4	conj	_	_
-4	कमाणे	_	VERB	VM	_	5	xcomp	_	_
-5	विच	_	ADP	PSP	_	4	case	_	_
-6	बड़ा	_	ADJ	JJ	_	7	amod	_	_
-7	फर्क	_	NOUN	NN	_	0	root	_	_
-8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
-
 # sent_id = 123
 # text = असां जो अपणे वातावरणे जो दूषित नी करने दी पूरी कोशिश करनी चाहिदी।
 1	असां	_	PRON	PRP	_	12	nsubj	_	_
@@ -1533,25 +1521,6 @@
 10	हन	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	9	punct	_	_
 
-# sent_id = 126
-# text = संसारे च देही कोई चीज़ नी है जिसा पर सूरजे दा असर नी पोंदा होए।
-1	संसारे	_	NOUN	NN	_	2	obl	_	_
-2	च	_	ADP	PSP	_	1	case	_	_
-3	देही	_	ADJ	JJ	_	4	amod	_	_
-4	कोई	_	PART	RP	_	5	nmod	_	_
-5	चीज़	_	NOUN	NN	_	14	nsubj	_	_
-6	नी	_	ADV	RB	_	5	advmod	_	_
-7	है	_	AUX	VM	_	14	advcl	_	_
-8	जिसा	_	PRON	PRP	_	15	obl	_	_
-9	पर	_	ADP	PSP	_	8	case	_	_
-10	सूरजे	_	NOUN	NN	_	12	nmod	_	_
-11	दा	_	ADP	PSP	_	10	case	_	_
-12	असर	_	NOUN	NN	_	14	obj	_	_
-13	नी	_	ADV	RB	_	14	advmod	_	_
-14	पोंदा	_	VERB	VM	_	0	root	_	_
-15	होए	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
-16	।	_	PUNCT	SYM	_	14	punct	_	_
-
 # sent_id = 127
 # text = इत्थू ओत्थू जाणे औणे तांईं गड्डियां बत्हेरियां हन क्या?
 1	इत्थू	_	PRON	PRP	_	7	advmod	_	_
@@ -1589,20 +1558,6 @@
 8	ओंदा	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	?	_	PUNCT	SYM	_	7	punct	_	_
 
-# sent_id = 130
-# text = जणासें मिंजो कने कमरे विच बड़े ढंगे ने गल्ल कित्ती।
-1	जणासें	_	NOUN	NN	_	10	nsubj	_	_
-2	मिंजो	_	PRON	PRP	_	10	nmod	_	_
-3	कने	_	ADP	NST	_	2	case	_	_
-4	कमरे	_	NOUN	NN	_	5	obl	_	_
-5	विच	_	ADP	PSP	_	4	case	_	_
-6	बड़े	_	ADJ	JJ	_	7	amod	_	_
-7	ढंगे	_	NOUN	NN	_	9	obl	_	_
-8	ने	_	ADP	PSP	_	7	case	_	_
-9	गल्ल	_	NOUN	NN	_	10	compound	_	_
-10	कित्ती	_	VERB	VM	_	0	root	_	SpaceAfter=No
-11	।	_	PUNCT	SYM	_	10	punct	_	_
-
 # sent_id = 131
 # text = अज्ज तुसां कदेह हन।
 1	अज्ज	_	ADV	RB	_	3	advmod	_	_
@@ -1610,16 +1565,6 @@
 3	कदेह	_	ADJ	JJ	_	0	root	_	_
 4	हन	_	AUX	VM	_	3	cop	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
-
-# sent_id = 132
-# text = ओढण क्या तेरें बुढ़े धोणे हन?
-1	ओढण	_	NOUN	NN	_	7	obj	_	_
-2	क्या	_	PART	RP	_	7	dep	_	_
-3	तेरें	_	PRON	PRP	_	2	amod	_	_
-4	बुढ़े	_	NOUN	NN	_	6	nmod	_	_
-5	धोणे	_	VERB	VM	_	4	root	_	_
-6	हन	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
-7	?	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 133
 # text =आई गेया मेरा पुत्तर स्कूले ते।
@@ -1768,16 +1713,6 @@
 5	बोल्ला	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 147
-# text = सैह शहर दो मील दूर है।
-1	सैह	_	DET	DEM	_	2	det	_	_
-2	शहर	_	NOUN	NN	_	5	nsubj	_	_
-3	दो	_	NUM	QT	_	4	nummod	_	_
-4	मील	_	NOUN	NN	_	5	amod	_	_
-5	दूर	_	ADJ	JJ	_	0	root	_	_
-6	है	_	VERB	VM	_	5	cop	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	5	punct	_	_
-
 # sent_id = 148
 # text =  तुसां इत्थू कैस करना आयो?
 1	तुसां	_	PRON	PRP	_	4	nsubj	_	_
@@ -1786,17 +1721,6 @@
 4	करना	_	VERB	VM	_	0	root	_	_
 5	आयो	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	4	punct	_	_
-
-# sent_id = 149
-# text =खाणा खाणे बाद दंदां जो साफ करा।
-1	खाणा	_	NOUN	NN	_	3	obj	_	_
-2	खाणे	_	VERB	VM	_	3	advcl	_	_
-3	बाद	_	SCONJ	CC	_	7	mark	_	_
-4	दंदां	_	NOUN	NN	_	7	obj	_	_
-5	जो	_	ADP	PSP	_	4	case	_	_
-6	साफ	_	NOUN	NN	_	7	compound	_	_
-7	करा	_	VERB	VM	_	0	root	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 150
 # text = इस जो अपणा घर ही समझा।
