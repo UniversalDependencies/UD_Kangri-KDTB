@@ -1230,16 +1230,6 @@
 6	दुआएं	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 97
-# text =  कहाणी म्हारिया जिंदगिया दी जरूरत है।
-1	कहाणी	_	NOUN	NN	_	6	nsubj	_	_
-2	म्हारिया	_	PRON	PRP	_	3	nmod	_	_
-3	जिंदगिया	_	NOUN	NN	_	5	nmod	_	_
-4	दी	_	ADP	PSP	_	3	case	_	_
-5	जरूरत	_	NOUN	NN	_	0	root	_	_
-6	है	_	AUX	VM	_	5	cop	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	5	punct	_	_
-
 # sent_id = 98
 # text = रामें मूहणे जो नीली क़ताब दित्ती।
 1	रामें	_	PROPN	NNP	_	6	nsubj	_	_
@@ -1314,18 +1304,6 @@
 5	उठदे	_	VERB	VM	_	0	root	_	_
 6	हन	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	?	_	PUNCT	SYM	_	5	punct	_	_
-
-# sent_id = 106
-# text = तिह्नां जो अपणे लायक पुतरे पर गमान है।
-1	तिह्नां	_	PRON	PRP	_	8	obl	_	_
-2	जो	_	ADP	PSP	_	1	case	_	_
-3	अपणे	_	PRON	PRP	_	1	case	_	_
-4	लायक	_	ADJ	JJ	_	7	amod	_	_
-5	पुतरे	_	NOUN	NN	_	4	case	_	_
-6	पर	_	ADP	PSP	_	5	case	_	_
-7	गमान	_	NOUN	NN	_	0	root	_	_
-8	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 107
 # text = मैं तिज्जो ते जादा छैल़ हैं।
