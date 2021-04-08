@@ -1724,12 +1724,12 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 136
-# text = तिन्नी अपणे भविष्य तांईं बहिफज़त मसूस कित्ता।
+# text = तिन्नी अपणे भविष्य तांईं बहिफजत मसूस कित्ता।
 1	तिन्नी	_	PRON	PRP	_	6	nsubj	_	_
 2	अपणे	_	PRON	RRP	_	3	nmod	_	_
 3	भविष्य	_	NOUN	NN	_	6	obl	_	_
 4	तांईं	_	ADP	NST	_	3	case	_	_
-5	बहिफज़त	_	ADJ	JJ	_	6	nmod	_	_
+5	बहिफजत	_	ADJ	JJ	_	6	nmod	_	_
 6	मसूस	_	VERB	VM	_	0	root	_	_
 7	कित्ता	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
@@ -1887,7 +1887,7 @@
 4	होणे	_	VERB	VM	_	6	advcl	_	_
 5	दा	_	SCONJ	CC	_	4	mark	_	_
 6	फायदा	_	NOUN	NN	_	7	obj	_	_
-7	लेया	_	VERB	VM	_	0	root	_	SpaceAfter=No
+7	लिया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 152
