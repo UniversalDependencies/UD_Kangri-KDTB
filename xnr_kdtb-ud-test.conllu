@@ -3047,7 +3047,7 @@
 1	अखबार	_	NOUN	NN	_	2	nsubj	_	_
 2	आई	_	VERB	VM	_	0	root	_	_
 3	चुकियो	_	AUX	VAUX	_	2	aux	_	_
-4	हुन्दी	_	VERB	VM	_	2	aux:pass _	_
+4	हुन्दी	_	VERB	VM	_	2	aux:pass	_	_
 5	हैं	_	AUX	VAUX	_	2	aux:pass	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	2	punct	_	_
 
