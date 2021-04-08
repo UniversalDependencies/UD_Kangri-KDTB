@@ -116,19 +116,6 @@
 12	हन	_	AUX	VM	_	11	cop	_	SpaceAfter=No
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
-# sent_id = 9
-# text = पर ऋतु एह कम्म करने ताईं त्यार नी है।
-1	पर	_	CCONJ	CC	_	9	cc	_	_
-2	ऋतु	_	PROPN	NNP	_	9	nsubj	_	_
-3	एह	_	DET	DEM	_	4	det	_	_
-4	कम्म	_	NOUN	NN	_	5	obj	_	_
-5	करने	_	VERB	VM	_	9	xcomp	_	_
-6	ताईं	_	ADP	NST	_	5	mark	_	_
-7	त्यार	_	ADJ	JJ	_	0	root	_	_
-8	नी	_	PART	ADV	_	7	advmod	_	_
-9	है	_	AUX	VM	_	7	cop	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	7	punct	_	_
-
 # sent_id = 10
 # text = काळुए दा एह पहला पक्का घर है।
 1	काळुए	_	PROPN	NNP	_	3	nmod	_	_
@@ -193,22 +180,6 @@
 7	पुजदा	_	VERB	VM	_	0	root	_	_
 8	था	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	7	punct	_	_
-
-# sent_id = 15
-# text = पंचायता विच जाहलू एह गल्ल होई तां काळू प्रधान तित्थू नी था।
-1	पंचायता	_	NOUN	NN	_	6	compound	_	_
-2	विच	_	ADP	PSP	_	1	case	_	_
-3	जाहलू	_	PRON	PRP	_	6	nmod	_	_
-4	एह	_	DET	DEM	_	5	det	_	_
-5	गल्ल	_	NOUN	NN	_	6	compound	_	_
-6	होई	_	VERB	VM	_	0	root	_	_
-7	तां	_	ADV	RB	_	6	advmod	_	_
-8	काळू	_	PROPN	NNP	_	9	compound	_	_
-9	प्रधान	_	NOUN	NN	_	12	nsubj	_	_
-10	तित्थू	_	ADV	RB	_	12	advmod	_	_
-11	नी	_	PART	NEG	_	12	advmod	_	_
-12	था	_	AUX	VM	_	6	cop	_	SpaceAfter=No
-13	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 16
 # text = कराळी दे पत्तर भी घट्ट गिणतिया विच थे।
@@ -1258,17 +1229,6 @@
 5	कताब	_	NOUN	NN	_	6	obj	_	_
 6	दुआएं	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	2	punct	_	_
-
-# sent_id = 96
-# text = आतिफें तोहफा मोना जो सबनां साह्मणे दित्ता।
-1	आतिफें	_	PROPN	NNP	_	7	nsubj	_	_
-2	तोहफा	_	NOUN	NN	_	7	obj	_	_
-3	मोना	_	PROPN	VM	_	7	iobj	_	_
-4	जो	_	ADP	PSP	_	3	case	_	_
-5	सबनां	_	DET	DEM	_	6	det	_	_
-6	साह्मणे	_	ADP	NST	_	5	case	_	_
-7	दित्ता	_	VERB	VM	_	0	root	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 97
 # text =  कहाणी म्हारिया जिंदगिया दी जरूरत है।
