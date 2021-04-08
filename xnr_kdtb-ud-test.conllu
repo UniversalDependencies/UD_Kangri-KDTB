@@ -1489,24 +1489,6 @@
 13	चाहिदी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	12	punct	_	_
 
-# sent_id = 124
-# text = इसा कारा च इतणी ताकत है जे एह पहाड़े तक सानिया ने जाई सकदी।
-1	इसा	_	DET	DEM	_	2	det	_	_
-2	कारा	_	NOUN	NN	_	13	nsubj	_	_
-3	च	_	ADP	PSP	_	2	case	_	_
-4	इतणी	_	ADJ	JJ	_	5	nmod	_	_
-5	ताकत	_	NOUN	NN	_	6	obl	_	_
-6	है	_	AUX	VM	_	13	advcl	_	_
-7	जे	_	CCONJ	CC	_	13	conj	_	_
-8	एह	_	PRON	PRP	_	9	nmod	_	_
-9	पहाड़े	_	NOUN	NN	_	13	obl	_	_
-10	तक	_	ADP	NST	_	9	case	_	_
-11	सानिया	_	NOUN	NN	_	13	amod	_	_
-12	ने	_	ADP	PSP	_	11	case	_	_
-13	जाई	_	VERB	VM	_	0	root	_	_
-14	सकदी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	13	punct	_	_
-
 # sent_id = 125
 # text =  अम्मा बापू अपणेयां बच्चेयां दिया हिफाजती तांईं जिम्मेदार हुन्दे हन।
 1	अम्मा	_	NOUN	NNC	_	2	compound	_	_
@@ -1910,38 +1892,6 @@
 6	मत	_	PART	NEG	_	5	advmod	_	_
 7	भुलदे	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
-
-# sent_id = 172
-# text = कल मेरे बड्डे भाउये ने मेरा झगड़ा होया था।
-1	कल	_	PRON	PRP	_	8	advmod	_	_
-2	मेरे	_	PRON	PRP	_	4	nmod	_	_
-3	बड्डे	_	ADJ	JJ	_	4	nmod	_	_
-4	भाउये	_	NOUN	NN	_	8	obl	_	_
-5	ने	_	ADP	PSP	_	4	case	_	_
-6	मेरा	_	ADJ	JJ	_	8	amod	_	_
-7	झगड़ा	_	NOUN	NN	_	8	compound	_	_
-8	होया	_	AUX	VAUX	_	0	root	_	_
-9	था	_	AUX	VAUX	_	8	aux:pass	_	SpaceAfter=No
-10	।	_	PUNCT	SYM	_	8	punct	_	_
-
-# sent_id = 173
-# text = मैं इस वक्त कम्म नी करी सकदी कैंहजेो मेरे सिरे च बड़ी जादा पीड़ ऐ।
-1	मैं	_	PRON	PRP	_	6	nsubj	_	_
-2	इस	_	DET	DEM	_	3	det	_	_
-3	वक्त	_	NOUN	NN	_	6	nmod	_	_
-4	कम्म	_	NOUN	NN	_	6	obl	_	_
-5	नी	_	ADV	RB	_	4	advmod	_	_
-6	करी	_	VERB	VM	_	0	root	_	_
-7	सकदी	_	AUX	VAUX	_	6	aux	_	_
-8	कैंहजेो	_	CCONJ	CC	_	15	mark	_	_
-9	मेरे	_	PRON	PRP	_	10	nmod	_	_
-10	सिरे	_	NOUN	NN	_	14	obl	_	_
-11	च	_	ADP	PSP	_	11	case	_	_
-12	बड़ी	_	ADJ	JJ	_	14	compound	_	_
-13	जादा	_	ADJ	JJ	_	14	advmod	_	_
-14	पीड़	_	NOUN	NN	_	15	obj	_	_
-15	ऐ	_	AUX	VM	_	16	advcl	_	SpaceAfter=No
-16	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 174
 # text = मैं इक टैलीस्कोपे कने इक्की बिटिया जो दिक्खेया।
