@@ -1814,7 +1814,7 @@
 1	सैह	_	PRON	PRP	_	4	nsubj	_	_
 2	उमर	_	NOUN	NN	_	4	nmod	_	_
 3	भर	_	ADV	RB	_	2	advmod	_	_
-4	किल्ही	_	NOUN	NN	_	0	root	_	_
+4	किह्ल्ही	_	NOUN	NN	_	0	root	_	_
 5	रेही	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
@@ -1832,7 +1832,7 @@
 1	तिह्नां	_	PRON	PRP	_	4	nsubj	_	_
 2	मददा	_	NOUN	NN	_	4	nmod	_	_
 3	तांईं	_	ADP	PSP	_	2	case	_	_
-4	उआज	_	NOUN	NN	_	0	root	_	_
+4	आवाज़	_	NOUN	NN	_	0	root	_	_
 5	लगाई	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
@@ -1921,7 +1921,7 @@
 3	ते	_	ADP	PSP	_	2	case	_	_
 4	भी	_	PART	RP	_	2	dep	_	_
 5	तेज	_	ADV	RB	_	0	root	_	_
-6	ऐ	_	AUX	VM	_	5	cop	_	SpaceAfter=No
+6	है	_	AUX	VM	_	5	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 158
@@ -2575,7 +2575,7 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 212
-# text =  तिन्नां तिन्हां जो रात्ती केइयां किस्मा दे खाणें बणाई के खुआए।
+# text = तिह्नां तिन्हां जो रात्ती केइयां किस्मा दे खाणें बणाई के खुआए।
 1	तिह्नां	_	PRON	PRP	_	11	nsubj	_	_
 2	तिन्हां	_	PRON	PRP	_	11	obj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
@@ -3287,7 +3287,7 @@
 1	इन्हां	_	DET	DEM	_	2	det	_	_
 2	प्रोग्रामां	_	NOUN	NN	_	5	amod	_	_
 3	दा	_	ADP	PSP	_	2	case	_	_
-4	देह्याा	_	ADJ	JJ	_	5	compound	_	_
+4	देह्या	_	ADJ	JJ	_	5	compound	_	_
 5	फायदा	_	NOUN	NN	_	10	obj	_	_
 6	म्हारे	_	PRON	PRP	_	7	nmod	_	_
 7	हाळियां	_	NOUN	NN	_	8	compound	_	_
