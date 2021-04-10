@@ -1709,7 +1709,7 @@
 4	होणे	_	VERB	VM	_	6	advcl	_	_
 5	दा	_	SCONJ	CC	_	4	mark	_	_
 6	फायदा	_	NOUN	NN	_	7	obj	_	_
-7	लिया	_	VERB	VM	_	0	root	_	SpaceAfter=No
+7	लेया	_	VERB	VM	_	0	root	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 137
