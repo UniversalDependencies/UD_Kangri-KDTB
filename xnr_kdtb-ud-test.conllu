@@ -234,11 +234,11 @@
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 18
-# text = शर्माजी अट्ठ साल पहलें स्कूले दे मास्टर रेह्यो थे।
+# text = शर्माजी अट्ठ साल पहले स्कूले दे मास्टर रेह्यो थे।
 1	शर्माजी	_	PROPN	NNP	_	8	nsubj	_	_
 2	अट्ठ	_	NUM	QC	_	3	nummod	_	_
 3	साल	_	NOUN	NN	_	8	obl	_	_
-4	पहलें	_	ADP	NST	_	3	case	_	_
+4	पहले	_	ADP	NST	_	3	case	_	_
 5	स्कूले	_	NOUN	NN	_	7	nmod	_	_
 6	दे	_	ADP	PSP	_	5	case	_	_
 7	मास्टर	_	NOUN	NN	_	8	xcomp	_	_
