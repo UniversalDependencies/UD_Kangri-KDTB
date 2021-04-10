@@ -1648,7 +1648,7 @@
 # text = असां सारे तेरिया सेहता तांईं चिन्ता च हन।
 1	असां	_	PRON	RRP	_	6	nsubj	_	_
 2	सारे	_	NOUN	NN	_	1	nmod	_	_
-3	तेरे	_	PRON	PRP	_	4	nmod	_	_
+3	तेरिया	_	PRON	PRP	_	4	nmod	_	_
 4	सेहता	_	NOUN	NN	_	6	obl	_	_
 5	तांईं	_	ADP	PSP	_	6	case	_	_
 6	चिन्ता	_	NOUN	NN	_	0	root	_	_
