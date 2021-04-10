@@ -1800,21 +1800,21 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 145
-# text = सैह दूरा ते परी लगदी ऐ।
+# text = सैह दूरा ते परी लगदी है।
 1	सैह	_	PRON	PRP	_	5	nsubj	_	_
 2	दूरा	_	NOUN	NST	_	4	nmod	_	_
 3	ते	_	ADP	PSP	_	2	case	_	_
 4	परी	_	NOUN	NN	_	5	obl	_	_
 5	लगदी	_	VERB	VM	_	0	root	_	_
-6	ऐ	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+6	है	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 146
-# text = सैह उमर भर किह्ल्ली रेही।
+# text = सैह उमर भर किहल्ली रेही।
 1	सैह	_	PRON	PRP	_	4	nsubj	_	_
 2	उमर	_	NOUN	NN	_	4	nmod	_	_
 3	भर	_	ADV	RB	_	2	advmod	_	_
-4	किह्ल्ही	_	NOUN	NN	_	0	root	_	_
+4	किहल्ली	_	NOUN	NN	_	0	root	_	_
 5	रेही	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
@@ -1828,11 +1828,11 @@
 6	|	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 148
-# text = तिह्नां मददा तांईं आवाज़ लगाई।
+# text = तिह्नां मददा तांईं आवाज लगाई।
 1	तिह्नां	_	PRON	PRP	_	4	nsubj	_	_
 2	मददा	_	NOUN	NN	_	4	nmod	_	_
 3	तांईं	_	ADP	PSP	_	2	case	_	_
-4	आवाज़	_	NOUN	NN	_	0	root	_	_
+4	आवाज	_	NOUN	NN	_	0	root	_	_
 5	लगाई	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
