@@ -3043,15 +3043,6 @@
 6	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 257
-# text =  डंगरे घा खाई बैठेयो हन्न।
-1	डंगरे	_	NOUN	NN	_	3	nsubj	_	_
-2	घा	_	NOUN	NN	_	3	obj	_	_
-3	खाई	_	VERB	VM	_	0	root	_	_
-4	बैठेयो	_	AUX	VAUX	_	3	aux	_	_
-5	हन्न	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
-6	।	_	PUNCT	SYM	_	3	punct	_	_
-
-# sent_id = 258
 # text = सैह कैस दस्सी गेया है?
 1	सैह	_	PRON	PRP	_	3	nsubj	_	_
 2	कैस	_	PRON	PRP	_	3	obj	_	_
@@ -3060,7 +3051,7 @@
 5	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 259
+# sent_id = 258
 # text = अज्ज नळकें पाणीं नी औणा , फीटर आया था।
 1	अज्ज	_	ADV	RB	_	5	advmod	_	_
 2	नळकें	_	NOUN	NN	_	3	nmod	_	_
@@ -3073,7 +3064,7 @@
 9	था	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 260
+# sent_id = 259
 # text = दो घड़े नाड़ेयां ते लेई ओआ।
 1	दो	_	NUM	QC	_	2	nmod	_	_
 2	घड़े	_	NOUN	NN	_	5	nmod	_	_
@@ -3083,7 +3074,7 @@
 6	ओआ	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 261
+# sent_id = 260
 # text = जरा सम्ह्ळी के चलणा।
 1	जरा	_	ADJ	JJ	_	4	amod	_	_
 2	सम्ह्ळी	_	VERB	VM	_	4	advcl	_	_
@@ -3091,7 +3082,7 @@
 4	चलणा	_	VERB	VM	_	0	root	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 262
+# sent_id = 261
 # text = बान्दर मते होई गेयो हन।
 1	बान्दर	_	NOUN	NN	_	3	nsubj	_	_
 2	मते	_	ADJ	JJ	_	1	amod	_	_
@@ -3100,7 +3091,7 @@
 5	हन	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 263
+# sent_id = 262
 # text = फसलां जो तैह्स - नैह्स करी देया दे हन।
 1	फसलां	_	NOUN	NN	_	6	obj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
@@ -3113,7 +3104,7 @@
 9	हन	_	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 264
+# sent_id = 263
 # text = खान्दे घट्ट कनै गुआन्दे मता हन।
 1	खान्दे	_	VERB	VM	_	0	root	_	_
 2	घट्ट	_	ADJ	JJ	_	1	amod	_	_
@@ -3123,7 +3114,7 @@
 6	हन	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	1	punct	_	_
 
-# sent_id = 265
+# sent_id = 264
 # text = राजुए जो भेज्जेआ है।
 1	राजुए	_	PROPN	NNP	_	3	nmod	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
@@ -3131,7 +3122,7 @@
 4	है	_	AUX	VAUX	_	3	cop	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 266
+# sent_id = 265
 # text = दर - दर भटके गऊ माता।
 1	दर	_	NOUN	NN	_	4	nmod	_	_
 2	-	_	PUNCT	SYM	_	1	punct	_	_
@@ -3141,7 +3132,7 @@
 6	माता	_	NOUN	NN	_	4	compound	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 267
+# sent_id = 266
 # text = इक्क कवता विच कविएं क्या बोलेया है?
 1	इक्क	_	NUM	QC	_	2	nsubj	_	_
 2	कवता	_	NOUN	NN	_	6	compound	_	_
@@ -3152,7 +3143,7 @@
 7	है	_	AUX	VAUX	_	6	cop	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 268
+# sent_id = 267
 # text =  कदेया बेला आई गेया है?
 1	कदेया	_	PART	PRP	_	2	compound	_	_
 2	बेला	_	NOUN	NN	_	3	nsubj	_	_
@@ -3161,7 +3152,7 @@
 5	है	_	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No
 6	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 269
+# sent_id = 268
 # text =  एह् भी तां बे मौसमी हुन्दी जा दी है।
 1	एह्	_	DET	DEM	_	6	det	_	_
 2	भी	_	PART	RP	_	3	compound	_	_
@@ -3174,7 +3165,7 @@
 9	है	_	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 270
+# sent_id = 269
 # text = गांह् - गांह् दिक्खा क्या हुन्दा है?
 1	गांह्	_	NOUN	NN	_	6	obl	_	_
 2	-	_	PUNCT	SYM	_	1	punct	_	_
@@ -3185,7 +3176,7 @@
 7	है	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 271
+# sent_id = 270
 # text =  मितरा ! एह खरे लच्छण नी हन्।
 1	मितरा	_	NOUN	NN	_	5	obl	_	_
 2	!	_	PUNCT	SYM	_	5	punct	_	_
@@ -3196,7 +3187,7 @@
 7	हन्	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 272
+# sent_id = 271
 # text = वातावरण जो परदूषणे ते बचाणे बिच पूरे तरीकें समर्पित होणें दी भी जरूरत है।
 1	वातावरण	_	NOUN	NN	_	13	obj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
@@ -3214,7 +3205,7 @@
 14	है	_	AUX	VM	_	13	cop	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 273
+# sent_id = 272
 # text =  बरखा लगणे वाळी है।
 1	बरखा	_	NOUN	NN	_	2	nsubj	_	_
 2	लगणे	_	VERB	VM	_	0	root	_	_
@@ -3222,7 +3213,7 @@
 4	है	_	AUX	VAUX	_	2	aux:pass	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 274
+# sent_id = 273
 # text = चाह् बणी गेइयो है तां लेई ओआ।
 1	चाह्	_	NOUN	NN	_	2	nsubj	_	_
 2	बणी	_	VERB	VM	_	6	advcl	_	_
@@ -3233,7 +3224,7 @@
 7	ओआ	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 275
+# sent_id = 274
 # text = चाह पी लैन्दे हन।
 1	चाह	_	NOUN	NN	_	3	obj	_	_
 2	पी	_	VERB	VM	_	3	compound	_	_
@@ -3241,7 +3232,7 @@
 4	हन	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 276
+# sent_id = 275
 # text = मिंजो कजो याद कित्ता?
 1	मिंजो	_	PRON	PRP	_	3	obj	_	_
 2	कजो	_	ADV	RB	_	3	advmod	_	_
@@ -3249,7 +3240,7 @@
 4	कित्ता	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
 5	?	_	PUNCT	SYM	_	3	punct	_	_
 
-# sent_id = 277
+# sent_id = 276
 # text = मिंजो कोई मुश्कल नी हुणीं।
 1	मिंजो	_	PRON	PRP	_	5	nsubj	_	_
 2	कोई	_	PRON	PRP	_	3	dep	_	_
@@ -3258,21 +3249,21 @@
 5	हुणीं	_	VERB	VM	_	0	root	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 278
+# sent_id = 277
 # text = मैं सम्हाळी लैह्ंगी।
 1	मैं	_	PRON	PRP	_	2	nsubj	_	_
 2	सम्हाळी	_	VERB	VM	_	0	root	_	_
 3	लैह्ंगी	_	AUX	VAUX	_	2	aux	_	SpaceAfter=No
 4	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 279
+# sent_id = 278
 # text = सैह ढेई गेया।
 1	सैह	_	PRON	PRP	_	2	nsubj	_	_
 2	ढेई	_	VERB	VM	_	0	root	_	_
 3	गेया	_	AUX	VAUX	_	2	aux	_	SpaceAfter=No
 4	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 280
+# sent_id = 279
 # text = तुसां अप्पू दसगे तां ठीक होणा।
 1	तुसां	_	PRON	PRP	_	5	nsubj	_	_
 2	अप्पू	_	PRON	PSP	_	1	obl	_	_
@@ -3282,7 +3273,7 @@
 6	होणा	_	AUX	VM	_	0	root	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
-# sent_id = 281
+# sent_id = 280
 # text = इन्हां प्रोग्रामां दा देह्या फायदा म्हारे हाळियां भाऊआं जो होन्दा है।
 1	इन्हां	_	DET	DEM	_	2	det	_	_
 2	प्रोग्रामां	_	NOUN	NN	_	5	amod	_	_
@@ -3297,7 +3288,7 @@
 11	है	_	AUX	VAUX	_	10	aux:pass	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	10	punct	_	_
 
-# sent_id = 282
+# sent_id = 281
 # text = सबना दा हाल इक्को देह्या है।
 1	सबना	_	NOUN	NN	_	3	obl	_	_
 2	दा	_	ADP	PSP	_	1	case	_	_
@@ -3307,7 +3298,7 @@
 6	है	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 283
+# sent_id = 282
 # text =  ओ भाऊ ! जरा एम्बुलेन्सा सद्दी देया।
 1	ओ	_	INTJ	INJ	_	2	discourse	_	_
 2	भाऊ	_	NOUN	NN	_	0	root	_	_
@@ -3318,14 +3309,14 @@
 7	देया	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 284
+# sent_id = 283
 # text = कोई गल्ल नी।
 1	कोई	_	PART	RP	_	2	dep	_	_
 2	गल्ल	_	NOUN	NN	_	0	root	_	_
 3	नी	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	।	_	PUNCT	SYM	_	2	punct	_	_
 
-# sent_id = 285
+# sent_id = 284
 # text = तिन्नी पखलें माहणुएं बुढड़े सौह्रे जो जवाब दित्ता।
 1	तिन्नी	_	DET	DEM	_	3	det	_	_
 2	पखलें	_	ADJ	JJ	_	3	nmod	_	_
@@ -3337,7 +3328,7 @@
 8	दित्ता	_	VERB	VM	_	0	root	_	SpaceAfter=No
 9	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 286
+# sent_id = 285
 # text = क्या तुसां वाह्ल मोबाईल फोन नी है?
 1	क्या	_	PART	RP	_	5	dep	_	_
 2	तुसां	_	PRON	PRP	_	5	nmod	_	_
@@ -3348,7 +3339,7 @@
 7	है	_	AUX	VAUX	_	5	cop	_	SpaceAfter=No
 8	?	_	PUNCT	SYM	_	5	punct	_	_
 
-# sent_id = 287
+# sent_id = 286
 # text = अपणे आप एम्बुलेंस ओंदी है।
 1	अपणे	_	PRON	PRP	_	2	compound	_	_
 2	आप	_	PRON	PRP	_	4	amod	_	_
@@ -3357,7 +3348,7 @@
 5	है	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
-# sent_id = 288
+# sent_id = 287
 # text = मैं फोन खरीदी भी लेयां ता मिंजो बरतणा ही नी ओणा।
 1	मैं	_	PRON	PRP	_	3	nsubj	_	_
 2	फोन	_	NOUN	RB	_	3	obj	_	_
@@ -3372,7 +3363,7 @@
 11	ओणा	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
 12	।	_	PUNCT	SYM	_	8	punct	_	_
 
-# sent_id = 289
+# sent_id = 288
 # text = असां दे जमाने बिच मदरसे नेडे नी हुन्दे थे।
 1	असां	_	PRON	PRP	_	3	nsubj	_	_
 2	दे	_	ADP	PSP	_	1	case	_	_
