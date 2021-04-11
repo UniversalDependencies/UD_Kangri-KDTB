@@ -2397,9 +2397,9 @@
 6	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 197
-# text = सैह पानी पीन्दा रेह्या।
+# text = सैह पाणी पीन्दा रेह्या।
 1	सैह	_	PRON	PRP	_	3	nsubj	_	_
-2	पानी	_	NOUN	NN	_	3	nmod	_	_
+2	पाणी	_	NOUN	NN	_	3	nmod	_	_
 3	पीन्दा	_	VERB	VM	_	0	root	_	_
 4	रेह्या	_	AUX	VAUX	_	3	aux	_	SpaceAfter=No
 5	।	_	PUNCT	SYM	_	4	punct	_	_
