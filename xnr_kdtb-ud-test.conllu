@@ -894,12 +894,12 @@
 12	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 66
-# text = मन्दरे दे चन्ने बड्डा त्ळाई है।
+# text = मन्दरे दे चन्ने बड्डा त्ळा है।
 1	मन्दरे	_	NOUN	NN	_	5	nmod	_	_
 2	दे	_	ADP	PSP	_	1	case	_	_
 3	चन्ने	_	NOUN	NN	_	1	case	_	_
 4	बड्डा	_	ADJ	JJ	_	5	amod	_	_
-5	त्ळाई	_	NOUN	NN	_	0	root	_	_
+5	त्ळा	_	NOUN	NN	_	0	root	_	_
 6	है	_	AUX	VM	_	5	cop	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -1188,9 +1188,9 @@
 4	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 89
-# text = रामें मूहणे जो नीली कताब दित्ती।
+# text = रामें मोहन जो नीली कताब दित्ती।
 1	रामें	_	PROPN	NNP	_	6	nsubj	_	_
-2	मूहणे	_	PROPN	NNP	_	6	iobj	_	_
+2	मोहन	_	PROPN	NNP	_	6	iobj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
 4	नीली	_	ADJ	JJ	_	5	amod	_	_
 5	कताब	_	NOUN	NN	_	6	obj	_	_
@@ -1231,12 +1231,12 @@
 7	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 93
-# text = रामें मोहने जो नीली क़ताब दित्ती।
+# text = रामें मोहने जो नीली किताब दित्ती।
 1	रामें	_	PROPN	NNP	_	6	nsubj	_	_
 2	मोहने	_	PROPN	NNP	_	6	iobj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
 4	नीली	_	ADJ	JJ	_	5	amod	_	_
-5	क़ताब	_	NOUN	NN	_	6	obj	_	_
+5	किताब	_	NOUN	NN	_	6	obj	_	_
 6	दित्ती	_	VERB	VM	_	0	root	_	SpaceAfter=No
 7	।	_	PUNCT	SYM	_	6	punct	_	_
 
@@ -1713,21 +1713,21 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 137
-# text = तुसां बाहरले मुलखां कदी ते हन।
+# text = तुसां बाहरले मुलखां कदी ते हन?
 1	तुसां	_	PRON	PRP	_	6	nsubj	_	_
 2	बाहरले	_	NOUN	NN	_	3	nmod	_	_
 3	मुलखां	_	NOUN	NN	_	6	nmod	_	_
 4	कदी	_	ADV	RB	_	6	advmod	_	_
 5	ते	_	ADP	PSP	_	4	case	_	_
 6	हन	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	6	punct	_	_
+7	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 138
-# text = तिसा जो कुसी वी चीजा दा डर नी है।
+# text = तिसा जो कुसी भी चीजा दा डर नी है।
 1	तिसा	_	PRON	PRP	_	7	nsubj	_	_
 2	जो	_	ADP	PSP	_	1	case	_	_
 3	कुसी	_	PRON	PRP	_	5	obl	_	_
-4	वी	_	PART	RP	_	5	dep	_	_
+4	भी	_	PART	RP	_	5	dep	_	_
 5	चीजा	_	NOUN	NN	_	7	obl	_	_
 6	दा	_	ADP	PSP	_	5	case	_	_
 7	डर	_	NOUN	NN	_	0	root	_	_
@@ -1787,13 +1787,13 @@
 8	?	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 144
-# text = तिन्नी असां तांई बड़ा ही छैल़ खाणा त्यार कित्ता।
+# text = तिन्नी असां तांई बड़ा ही छैळ खाणा त्यार कित्ता।
 1	तिन्नी	_	PRON	NNP	_	8	nsubj	_	_
 2	असां	_	PRON	PRP	_	8	obl	_	_
 3	तांई	_	ADP	NST	_	2	case	_	_
 4	बड़ा	_	ADJ	JJ	_	7	nmod	_	_
 5	ही	_	PART	RP	_	4	dep	_	_
-6	छैल़	_	ADJ	JJ	_	7	nmod	_	_
+6	छैळ	_	ADJ	JJ	_	7	nmod	_	_
 7	खाणा	_	NOUN	NN	_	8	nsubj	_	_
 8	त्यार	_	NOUN	NN	_	0	root	_	_
 9	कित्ता	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
@@ -1872,23 +1872,23 @@
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 153
-# text = इस सुआले दे सारे जवाब गल़त थे।
+# text = इस सुआले दे सारे जवाब गळत थे।
 1	इस	_	DET	DEM	_	2	det	_	_
 2	सुआले	_	NOUN	NN	_	6	nmod	_	_
 3	दे	_	ADP	PSP	_	2	case	_	_
 4	सारे	_	ADJ	JJ	_	5	compound	_	_
 5	जवाब	_	ADJ	JJ	_	6	nmod	_	_
-6	गल़त	_	NOUN	NN	_	0	root	_	_
+6	गळत	_	NOUN	NN	_	0	root	_	_
 7	थे	_	AUX	VM	_	6	cop	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 154
-# text = कल इत्थू सत बजे पुज्जणाा मत भुलदे।
+# text = कल इत्थू सत बजे पुज्जणा मत भुलदे।
 1	कल	_	NOUN	NN	_	5	nmod	_	_
 2	इत्थू	_	DET	DEM	_	5	det	_	_
 3	सत	_	NUM	QC	_	4	nummod	_	_
 4	बजे	_	NOUN	NN	_	5	nmod	_	_
-5	पुज्जणाा	_	VERB	VM	_	0	root	_	_
+5	पुज्जणा	_	VERB	VM	_	0	root	_	_
 6	मत	_	PART	NEG	_	5	advmod	_	_
 7	भुलदे	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
 8	।	_	PUNCT	SYM	_	5	punct	_	_
@@ -1991,11 +1991,11 @@
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 165
-# text = सै बाल्टिया जो पाणियें ने भरदे हन।
+# text = सै बाल्टिया जो पाणिए ने भरदे हन।
 1	सै	_	PRON	PRP	_	6	nsubj	_	_
 2	बाल्टिया	_	NOUN	NN	_	6	obl	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
-4	पाणियें	_	NOUN	NN	_	6	amod	_	_
+4	पाणिए	_	NOUN	NN	_	6	amod	_	_
 5	ने	_	ADP	PSP	_	4	case	_	_
 6	भरदे	_	VERB	AUX	_	0	root	_	_
 7	हन	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
@@ -2575,9 +2575,9 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 212
-# text = तिह्नां तिन्हां जो रात्ती केइयां किस्मा दे खाणें बणाई के खुआए।
-1	तिह्नां	_	PRON	PRP	_	11	nsubj	_	_
-2	तिन्हां	_	PRON	PRP	_	11	obj	_	_
+# text =  तिन्ना तिह्नां जो रात्ती केइयां किस्मा दे खाणें बणाई के खुआए।
+1	तिन्ना	_	PRON	PRP	_	11	nsubj	_	_
+2	तिह्नां	_	PRON	PRP	_	11	obj	_	_
 3	जो	_	ADP	PSP	_	2	case	_	_
 4	रात्ती	_	NOUN	NN	_	11	obl	_	_
 5	केइयां	_	ADJ	JJ	_	6	amod	_	_
@@ -3349,12 +3349,12 @@
 8	?	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 287
-# text = अपणे आप एम्बुलेंस ओंदी ऐ।
+# text = अपणे आप एम्बुलेंस ओंदी है।
 1	अपणे	_	PRON	PRP	_	2	compound	_	_
 2	आप	_	PRON	PRP	_	4	amod	_	_
 3	एम्बुलेंस	_	NOUN	NN	_	4	obj	_	_
 4	ओंदी	_	VERB	VM	_	0	root	_	_
-5	ऐ	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
+5	है	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 288
