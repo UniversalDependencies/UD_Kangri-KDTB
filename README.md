@@ -1,16 +1,15 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+The Kangri UD Treebank (KDTB) is a part of the Universal Dependency treebank project.
 
 # Introduction
-
-...
+The Kangri UD Treebank (KDTB) v2.8 consists of 2,249 tokens and 1108 vocabulary (288 sentences). This Treebank is a part of the Universal Dependency treebank project.Department of Language Art and Culture, Shimla, Himachal Pradesh, India helps to provide annotators for universal tagging. KDTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part of Speech (POS) tagset.
 
 
 # Acknowledgments
 
-...
+1.	Mr. Bhupender Bhupi 
+2.	Dr. Rajiv Trigarti
 
 ## References
 
@@ -34,8 +33,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Chauhan, Shweta
-Contributing: elsewhere
-Contact: shweta@nith.ac.in
+Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon. 
+Contributing: here
+Contact: shweta@nith.ac.in , shefali@nith.ac.in, apoorva.jha@gmail.com , phildani7@nith.ac.in
 ===============================================================================
 </pre>
