@@ -8,7 +8,7 @@ The Kangri UD Treebank (KDTB) consists of 2,249 tokens and 1108 vocabulary (288 
 
 # Acknowledgments
 
-1.	Mr. Bhupender Bhupi 
+1.	Mr. Bhupender Bhupi
 2.	Dr. Rajeev Kumar Trigarti
 
 ## References
@@ -33,7 +33,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon. 
+Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon
 Contributing: here
 Contact: shweta@nith.ac.in , shefali@nith.ac.in, apoorva.jha@gmail.com , phildani7@nith.ac.in
 ===============================================================================
