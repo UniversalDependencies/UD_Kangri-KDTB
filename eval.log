@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Kangri-KDTB:
-commit 697e5f2b76f166e627d7a1e6eda44eba1777f43f
+commit 5d43babb9d0a3cb8048f0b9eb0baa99e58685439
+Merge: 9f0ff2b b73dcc0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 12 21:02:43 2021 +0200
 Size: counted 2514 of 2514 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.84375022033611.
 Size: maximum value 13.815511 is for 1000000 words or more.
