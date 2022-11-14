@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Kangri-KDTB:
-commit 66e926476bafd9511c4d5a859b7ce3b4a8462630
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 16:39:35 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Kangri-KDTB:
+commit b0feb6b5f31313f5c56ff8f9105f4612d39f7777
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 14:49:37 2022 +0200
 Size: counted 2514 of 2514 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.84375022033611.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,8 +25,14 @@ Udapi: found 603 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 2514 words.
 Genres: found 2 out of 17 known.
 validate.py --lang xnr --max-err=10 UD_Kangri-KDTB/xnr_kdtb-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 474 Sent 33 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1395 Sent 108 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1798 Sent 144 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2137 Sent 176 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 4
+*** FAILED *** with 4 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -35,6 +41,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.497297297297297) = 0.0382536382536383
-(TOTAL score=0.14094951380391) * (availability=1) * (validity=1) = 0.14094951380391
-STARS = 0.5
-UD_Kangri-KDTB	0.14094951380391	0.5
+(TOTAL score=0.14094951380391) * (availability=1) * (validity=0.01) = 0.0014094951380391
+STARS = 0
+UD_Kangri-KDTB	0.0014094951380391	0
