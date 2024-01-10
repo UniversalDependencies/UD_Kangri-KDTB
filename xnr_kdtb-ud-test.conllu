@@ -1417,8 +1417,8 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	Translit=.
 
 # sent_id = 102
-# text =  इन्हां सवालां दा जवाब देणा सौखा है|
-# translit = inhāṁ savālāṁ dā javāba deṇā saukhā hai|
+# text =  इन्हां सवालां दा जवाब देणा सौखा है।
+# translit = inhāṁ savālāṁ dā javāba deṇā saukhā hai.
 1	इन्हां	_	DET	DET	_	2	det	_	Translit=inhāṁ
 2	सवालां	_	NOUN	NN	_	4	nmod	_	Translit=savālāṁ
 3	दा	_	ADP	PSP	_	2	case	_	Translit=dā
@@ -1874,8 +1874,8 @@
 10	।	_	PUNCT	SYM	_	7	punct	_	Translit=.
 
 # sent_id = 139
-# text = राजें मुलखे पर हकूमत कित्ती|
-# translit = rājeṁ mulakhe para hakūmata kittī|
+# text = राजें मुलखे पर हकूमत कित्ती।
+# translit = rājeṁ mulakhe para hakūmata kittī.
 1	राजें	_	NOUN	NN	_	5	nmod	_	Translit=rājeṁ
 2	मुलखे	_	NOUN	NN	_	5	nmod	_	Translit=mulakhe
 3	पर	_	ADP	PSP	_	2	case	_	Translit=para
@@ -1965,8 +1965,8 @@
 6	।	_	PUNCT	SYM	_	4	punct	_	Translit=.
 
 # sent_id = 147
-# text = सैह पुळस अफसर बणी गेया|
-# translit = saiha puḷasa aphasara baṇī geyā|
+# text = सैह पुळस अफसर बणी गेया।
+# translit = saiha puḷasa aphasara baṇī geyā.
 1	सैह	_	PRON	PRP	_	4	nsubj	_	Translit=saiha
 2	पुळस	_	NOUN	NN	_	3	compound	_	Translit=puḷasa
 3	अफसर	_	NOUN	NN	_	4	obl	_	Translit=aphasara
@@ -2099,8 +2099,8 @@
 4	।	_	PUNCT	SYM	_	2	punct	_	Translit=.
 
 # sent_id = 160
-# text = मैं तुसां जो तिह्नां दी अपणी रै दसगा|
-# translit = maiṁ tusāṁ jo tihnāṁ dī apaṇī rai dasagā|
+# text = मैं तुसां जो तिह्नां दी अपणी रै दसगा।
+# translit = maiṁ tusāṁ jo tihnāṁ dī apaṇī rai dasagā.
 1	मैं	_	PRON	PRP	_	7	nsubj	_	Translit=maiṁ
 2	तुसां	_	PRON	PRP	_	7	obl	_	Translit=tusāṁ
 3	जो	_	ADP	PSP	_	2	case	_	Translit=jo
