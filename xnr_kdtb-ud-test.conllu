@@ -501,7 +501,7 @@
 2	मते	_	DET	QF	_	3	amod	_	Translit=mate
 3	वक़्ते	_	NOUN	NN	_	9	obl	_	Translit=vaqte
 4	ते	_	ADP	PSP	_	3	case	_	Translit=te
-5	डोगरे	_	PROPN	NNP	_	8	nsubj	_	Translit=ḍogare
+5	डोगरे	_	PROPN	NNP	_	8	obj	_	Translit=ḍogare
 6	ते	_	ADP	PSP	_	5	case	_	Translit=te
 7	लाह्दी	_	ADJ	JJ	_	8	compound	_	Translit=lāhdī
 8	रेह्या	_	VERB	VM	_	9	compound	_	Translit=rehyā
@@ -1426,7 +1426,7 @@
 5	देणा	_	VERB	VM	_	6	advcl	_	Translit=deṇā
 6	सौखा	_	ADJ	JJ	_	0	root	_	Translit=saukhā
 7	है	_	AUX	VM	_	6	cop	_	SpaceAfter=No|Translit=hai
-8	|	_	PUNCT	SYM	_	6	punct	_	Translit=|
+8	।	_	PUNCT	SYM	_	6	punct	_	Translit=.
 
 # sent_id = 103
 # text = मैं अपणियां नांनियां ने हफ्ते च दो बरी मिलणा जांदा हैं।
@@ -1502,10 +1502,10 @@
 2	घरोणा	_	VERB	VM	_	3	amod	_	Translit=gharoṇā
 3	लगी	_	AUX	VAUX	_	0	root	_	Translit=lagī
 4	पेया	_	AUX	VAUX	_	3	aux	_	Translit=peyā
-5	तिज्जो	_	PRON	PRP	_	3	nsubj	_	Translit=tijjo
+5	तिज्जो	_	PRON	PRP	_	8	nsubj	_	Translit=tijjo
 6	घरे	_	NOUN	NN	_	8	obl	_	Translit=ghare
 7	जो	_	ADP	PSP	_	6	case	_	Translit=jo
-8	जाणा	_	VERB	VM	_	3	compound	_	Translit=jāṇā
+8	जाणा	_	VERB	VM	_	3	conj	_	Translit=jāṇā
 9	चाहिदा	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No|Translit=cāhidā
 10	।	_	PUNCT	SYM	_	3	punct	_	Translit=.
 
@@ -1881,7 +1881,7 @@
 3	पर	_	ADP	PSP	_	2	case	_	Translit=para
 4	हकूमत	_	NOUN	NN	_	5	obj	_	Translit=hakūmata
 5	कित्ती	_	VERB	VM	_	0	root	_	SpaceAfter=No|Translit=kittī
-6	|	_	PUNCT	SYM	_	5	punct	_	Translit=|
+6	।	_	PUNCT	SYM	_	5	punct	_	Translit=.
 
 # sent_id = 140
 # text = अज मेरिया बैहणी दा जन्म दिहाड़ा है।
@@ -1938,7 +1938,7 @@
 4	बड़ा	_	ADJ	JJ	_	7	nmod	_	Translit=baṛā
 5	ही	_	PART	RP	_	4	dep	_	Translit=hī
 6	छैळ	_	ADJ	JJ	_	7	nmod	_	Translit=chaiḷa
-7	खाणा	_	NOUN	NN	_	8	nsubj	_	Translit=khāṇā
+7	खाणा	_	NOUN	NN	_	8	obj	_	Translit=khāṇā
 8	त्यार	_	NOUN	NN	_	0	root	_	Translit=tyāra
 9	कित्ता	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No|Translit=kittā
 10	।	_	PUNCT	SYM	_	8	punct	_	Translit=.
@@ -1972,7 +1972,7 @@
 3	अफसर	_	NOUN	NN	_	4	obl	_	Translit=aphasara
 4	बणी	_	VERB	NN	_	0	root	_	Translit=baṇī
 5	गेया	_	AUX	VAUX	_	4	aux	_	SpaceAfter=No|Translit=geyā
-6	|	_	PUNCT	SYM	_	4	punct	_	Translit=|
+6	।	_	PUNCT	SYM	_	4	punct	_	Translit=.
 
 # sent_id = 148
 # text = तिह्नां मददा तांईं आवाज लगाई।
@@ -2109,7 +2109,7 @@
 6	अपणी	_	ADJ	JJ	_	7	compound	_	Translit=apaṇī
 7	रै	_	NOUN	NN	_	0	root	_	Translit=rai
 8	दसगा	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No|Translit=dasagā
-9	|	_	PUNCT	SYM	_	7	punct	_	Translit=|
+9	।	_	PUNCT	SYM	_	7	punct	_	Translit=.
 
 # sent_id = 161
 # text = तुसां हमेसा इतणा सक कैह्जो करदे।
@@ -2301,9 +2301,9 @@
 2	देविया	_	NOUN	NN	_	4	nmod	_	Translit=deviyā
 3	दा	_	ADP	PSP	_	2	case	_	Translit=dā
 4	स्थान	_	NOUN	NN	_	14	nsubj	_	Translit=sthāna
-5	कांगड़े	_	PROPN	NNP	_	14	nmod	_	Translit=kāṁgaṛe
+5	कांगड़े	_	PROPN	NNP	_	14	obl	_	Translit=kāṁgaṛe
 6	विच	_	ADP	PSP	_	5	case	_	Translit=vica
-7	कुलदेवी	_	NOUN	NN	_	14	nsubj	_	Translit=kuladevī
+7	कुलदेवी	_	NOUN	NN	_	14	obl	_	Translit=kuladevī
 8	या	_	CCONJ	CC	_	9	cc	_	Translit=yā
 9	अधिष्ठात्री	_	ADJ	JJ	_	7	conj	_	Translit=adhiṣṭhātrī
 10	देविया	_	NOUN	NN	_	9	nmod	_	Translit=deviyā
