@@ -743,7 +743,7 @@
 9	मूर्तियां	मूर्ति	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	nmod	_	Translit=mūrtiyāṁ|LTranslit=mūrti
 10	दी	दे	ADP	PSP	AdpType=Post	9	case	_	Translit=dī|LTranslit=de
 11	स्थापना	स्थापना	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=sthāpanā|LTranslit=sthāpanā
-12	कित्ती	कित्ती	VERB	VM	NumType=Card	0	root	_	Translit=kittī|LTranslit=kittī
+12	कित्ती	कित्ती	VERB	VM	_	0	root	_	Translit=kittī|LTranslit=kittī
 13	गेइयो	गेइयो	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	Translit=geiyo|LTranslit=geiyo
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 15	।	।	PUNCT	SYM	_	12	punct	_	Translit=.|LTranslit=.
