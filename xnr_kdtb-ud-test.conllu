@@ -513,7 +513,7 @@
 # text = दस्सेया गेया है जे ग्रांएं विच बरखा लगी पेइयो है।
 # translit = dasseyā geyā hai je grāṁeṁ vica barakhā lagī peiyo hai.
 1	दस्सेया	दस्सेया	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=dasseyā|LTranslit=dasseyā
-2	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	aux	_	Translit=geyā|LTranslit=ge
+2	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	aux	_	Translit=geyā|LTranslit=jā
 3	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	Translit=hai|LTranslit=hai
 4	जे	जे	SCONJ	CC	_	8	mark	_	Translit=je|LTranslit=je
 5	ग्रांएं	ग्रां	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	obl	_	Translit=grāṁeṁ|LTranslit=grāṁ
@@ -654,7 +654,7 @@
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	Translit=hai|LTranslit=hai
 8	कि	कि	CCONJ	CC	_	4	cc	_	Translit=ki|LTranslit=ki
 9	चला	चल	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass	4	conj	_	Translit=calā|LTranslit=cala
-10	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=ge
+10	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=jā
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	Translit=hai|LTranslit=hai
 12	घरे	घरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	obj	_	Translit=ghare|LTranslit=gharā
 13	जो	जो	ADP	PSP	AdpType=Post	12	case	_	SpaceAfter=No|Translit=jo|LTranslit=jo
@@ -1182,7 +1182,7 @@
 7	विच	विच	ADP	PSP	AdpType=Post	6	case	_	Translit=vica|LTranslit=vica
 8	भी	भी	PART	RP	_	6	dep	_	Translit=bhī|LTranslit=bhī
 9	पुजी	पुज	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=pujī|LTranslit=puja
-10	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=ge
+10	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=jā
 11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=thā|LTranslit=thā
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -1340,7 +1340,7 @@
 2	सरपे	सरपा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	obj	_	Translit=sarape|LTranslit=sarapā
 3	दिक्खी	दिक्खी	ADV	RB	_	4	advmod	_	Translit=dikkhī|LTranslit=dikkhī
 4	डरी	डर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=ḍarī|LTranslit=ḍara
-5	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+5	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 95
@@ -1557,7 +1557,7 @@
 4	पाणिए	पाणिए	NOUN	NN	Gender=Masc|Number=Sing|Person=3	6	obl	_	Translit=pāṇie|LTranslit=pāṇie
 5	च	च	ADP	PSP	AdpType=Post	4	case	_	Translit=ca|LTranslit=ca
 6	कुद्दी	कुद्दी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kuddī|LTranslit=kuddī
-7	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+7	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 113
@@ -1658,7 +1658,7 @@
 # text = आई गेया मेरा पुत्तर स्कूले ते!
 # translit = āī geyā merā puttara skūle te!
 1	आई	आ	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=āī|LTranslit=ā
-2	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	1	aux	_	Translit=geyā|LTranslit=ge
+2	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	1	aux	_	Translit=geyā|LTranslit=jā
 3	मेरा	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	Translit=merā|LTranslit=maiṁ
 4	पुत्तर	पुत्तर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	nsubj	_	Translit=puttara|LTranslit=puttara
 5	स्कूले	स्कूला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	nmod	_	Translit=skūle|LTranslit=skūlā
@@ -1900,10 +1900,10 @@
 # translit = je hoī geyā saiha hoī geyā.
 1	जे	जे	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Translit=je|LTranslit=je
 2	होई	होई	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=hoī|LTranslit=hoī
-3	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	Translit=geyā|LTranslit=ge
+3	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	Translit=geyā|LTranslit=jā
 4	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	_	Translit=saiha|LTranslit=saiha
 5	होई	हो	VERB	VM	Number=Sing|Voice=Act	2	conj	_	Translit=hoī|LTranslit=ho
-6	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+6	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 7	।	।	PUNCT	SYM	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 142
@@ -1971,7 +1971,7 @@
 2	पुळस	पुळस	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	Translit=puḷasa|LTranslit=puḷasa
 3	अफसर	अफसर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	obl	_	Translit=aphasara|LTranslit=aphasara
 4	बणी	बण	VERB	NN	Number=Sing|Voice=Act	0	root	_	Translit=baṇī|LTranslit=baṇa
-5	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+5	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 148
@@ -2001,7 +2001,7 @@
 2	रुक्खे	रुक्खा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=rukkhe|LTranslit=rukkhā
 3	गास	गास	ADP	NST	AdpType=Post	2	case	_	Translit=gāsa|LTranslit=gāsa
 4	गोही	गोही	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=gohī|LTranslit=gohī
-5	गेई	गे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geī|LTranslit=ge
+5	गेई	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geī|LTranslit=jā
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 151
@@ -2651,7 +2651,7 @@
 6	दा	दा	ADP	PSP	AdpType=Post	5	case	_	Translit=dā|LTranslit=dā
 7	मुंह	मुँह	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=muṁha|LTranslit=mum̃ha
 8	उतरी	उतर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=utarī|LTranslit=utara
-9	गिया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	aux	_	SpaceAfter=No|Translit=giyā|LTranslit=ge
+9	गिया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	aux	_	SpaceAfter=No|Translit=giyā|LTranslit=jā
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 202
@@ -2850,7 +2850,7 @@
 3	दोयो	दोयो	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	det	_	Translit=doyo|LTranslit=doyo
 4	तित्थू	तित्थू	ADV	RB	_	5	advmod	_	Translit=titthū|LTranslit=titthū
 5	सौई	सौई	VERB	VM	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=sauī|LTranslit=sauī
-6	गे	गे	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=ge|LTranslit=ge
+6	गे	जा	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=ge|LTranslit=jā
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 218
@@ -2885,7 +2885,7 @@
 5	तफान	तफान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=taphāna|LTranslit=taphāna
 6	भी	भी	PART	RP	_	5	dep	_	Translit=bhī|LTranslit=bhī
 7	थमी	थम	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=thamī|LTranslit=thama
-8	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+8	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 221
@@ -2953,7 +2953,7 @@
 7	पताळे	पताळा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obl	_	Translit=patāḷe|LTranslit=patāḷā
 8	विच	विच	ADP	PSP	AdpType=Post	7	case	_	Translit=vica|LTranslit=vica
 9	पुज्जी	पुज्जी	VERB	VM	Gender=Masc|Number=Sing|Voice=Act	0	root	_	Translit=pujjī|LTranslit=pujjī
-10	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=ge
+10	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geyā|LTranslit=jā
 11	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=thā|LTranslit=thā
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -3037,7 +3037,7 @@
 2	उच्ची	उच्चा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	Translit=uccī|LTranslit=uccā
 3	दुआल	दुआल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	obj	_	Translit=duāla|LTranslit=duāla
 4	दुस्सी	दुस्सी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=dussī|LTranslit=dussī
-5	गेई	गे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geī|LTranslit=ge
+5	गेई	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geī|LTranslit=jā
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 234
@@ -3105,7 +3105,7 @@
 6	तित्थू	तित्थू	PRON	PRP	_	8	amod	_	Translit=titthū|LTranslit=titthū
 7	ते	ते	ADP	PSP	AdpType=Post	6	case	_	Translit=te|LTranslit=te
 8	नह्ठी	नह्ठा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=nahṭhī|LTranslit=nahṭhā
-9	गे	गे	AUX	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	aux	_	SpaceAfter=No|Translit=ge|LTranslit=ge
+9	गे	जा	AUX	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	aux	_	SpaceAfter=No|Translit=ge|LTranslit=jā
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 240
@@ -3304,7 +3304,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	Translit=saiha|LTranslit=saiha
 2	कैस	कैस	PRON	PRP	PronType=Int	3	obj	_	Translit=kaisa|LTranslit=kaisa
 3	दस्सी	दस्सी	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=dassī|LTranslit=dassī
-4	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyā|LTranslit=ge
+4	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyā|LTranslit=jā
 5	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 6	?	?	PUNCT	SYM	_	3	punct	_	Translit=?|LTranslit=?
 
@@ -3415,7 +3415,7 @@
 1	कदेया	कदेया	PART	PRP	PronType=Int	2	compound	_	Translit=kadeyā|LTranslit=kadeyā
 2	बेला	बेला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=belā|LTranslit=belā
 3	आई	आ	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=āī|LTranslit=ā
-4	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyā|LTranslit=ge
+4	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyā|LTranslit=jā
 5	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 6	?	?	PUNCT	SYM	_	3	punct	_	Translit=?|LTranslit=?
 
@@ -3538,7 +3538,7 @@
 # translit = saiha ḍheī geyā.
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Translit=saiha|LTranslit=saiha
 2	ढेई	ढेई	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=ḍheī|LTranslit=ḍheī
-3	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
+3	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 4	।	।	PUNCT	SYM	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 279

@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>288</sentences><tokens>2514</tokens><words>2514</words><fused>0</fused></test>
   </size>
-  <lemmas unique="961" /><!-- ।, है, दे, विच, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी, हो -->
+  <lemmas unique="960" /><!-- ।, है, दे, विच, जा, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी -->
   <forms unique="1049" /><!-- ।, है, विच, दा, जो, हन, दी, नी, दे, सैह, ते, ही, ?, तुसां, भी -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">129</tag><!-- खरा, सारा, बड़ा, खुश, छैळ, नीला, पक्का, बड्डा, मता, अगला -->
     <tag name="ADP">313</tag><!-- दे, विच, जो, दा, ते, ने, का, पर, कना, च -->
     <tag name="ADV">93</tag><!-- नी, तित्थू, ने, हुण, कदी, काह्लू, जाह्लू, ना, रोज, अज्ज -->
-    <tag name="AUX">276</tag><!-- है, था, गे, जा, कर, रेह, सक, चाहिदा, जया, गेइयो -->
+    <tag name="AUX">276</tag><!-- है, जा, था, कर, रेह, सक, चाहिदा, जया, गेइयो, पे -->
     <tag name="CCONJ">27</tag><!-- कने, कनै, अपर, जे, तां, पर, कि, बल्कि, या -->
     <tag name="DET">58</tag><!-- यह, कोई, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह् -->
     <tag name="INTJ">3</tag><!-- ओ -->
