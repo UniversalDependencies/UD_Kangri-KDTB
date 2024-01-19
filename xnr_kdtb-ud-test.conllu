@@ -1381,7 +1381,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=saiha|LTranslit=saiha
 2	झटपट	झटपट	ADV	RB	_	3	advmod	_	Translit=jhaṭapaṭa|LTranslit=jhaṭapaṭa
 3	लिखा	लिख	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=likhā|LTranslit=likha
-4	दा	दा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=dā|LTranslit=dā
+4	दा	दे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=dā|LTranslit=de
 5	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No|Translit=thā|LTranslit=thā
 6	।	।	PUNCT	SYM	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -2467,7 +2467,7 @@
 7	बुरा	बुरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	Translit=burā|LTranslit=burā
 8	असर	असर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	obj	_	Translit=asara|LTranslit=asara
 9	पौआ	पौआ	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=pauā|LTranslit=pauā
-10	दा	दा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=dā|LTranslit=dā
+10	दा	दे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=dā|LTranslit=de
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
