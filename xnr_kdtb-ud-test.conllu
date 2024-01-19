@@ -3021,7 +3021,7 @@
 # text = जरा करी बक्खें बेही के किच्छ सोचदा रेह्या।
 # translit = jarā karī bakkheṁ behī ke kiccha socadā rehyā.
 1	जरा	जरा	DET	DEM	_	2	dep	_	Translit=jarā|LTranslit=jarā
-2	करी	कर	PRON	PRP	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	obl	_	Translit=karī|LTranslit=kara
+2	करी	कर	PRON	PRP	Gender=Fem|Number=Sing	3	obl	_	Translit=karī|LTranslit=kara
 3	बक्खें	बक्ख	ADV	RB	_	7	obl	_	Translit=bakkheṁ|LTranslit=bakkha
 4	बेही	बेही	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	advcl	_	Translit=behī|LTranslit=behī
 5	के	का	ADP	PSP	AdpType=Post	4	case	_	Translit=ke|LTranslit=kā
