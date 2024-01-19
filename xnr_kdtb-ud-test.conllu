@@ -1697,7 +1697,7 @@
 4	तांईं	तांईं	ADP	NST	AdpType=Post	3	case	_	Translit=tāṁīṁ|LTranslit=tāṁīṁ
 5	बेहिफाजत	बेहिफाजत	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	_	Translit=behiphājata|LTranslit=behiphājata
 6	मसूस	मसूस	VERB	VM	_	0	root	_	Translit=masūsa|LTranslit=masūsa
-7	कित्ता	कित्त	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kitta
+7	कित्ता	कर	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kara
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 124
