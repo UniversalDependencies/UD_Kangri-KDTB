@@ -1744,7 +1744,7 @@
 7	पुठ्ठे	पुठ्ठा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	amod	_	Translit=puṭhṭhe|LTranslit=puṭhṭhā
 8	कम	कम	NOUN	NN	Person=3	9	obj	_	Translit=kama|LTranslit=kama
 9	करदे	कर	VERB	VM	VerbForm=Conv	0	root	_	Translit=karade|LTranslit=kara
-10	रैंहदे	रैंह	AUX	VAUX	Gender=Masc|Number=Plur	9	aux	_	Translit=raiṁhade|LTranslit=raiṁha
+10	रैंहदे	रेह	AUX	VAUX	Gender=Masc|Number=Plur	9	aux	_	Translit=raiṁhade|LTranslit=reha
 11	हन	है	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 

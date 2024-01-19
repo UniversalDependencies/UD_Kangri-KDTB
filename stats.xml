@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>288</sentences><tokens>2514</tokens><words>2514</words><fused>0</fused></test>
   </size>
-  <lemmas unique="950" /><!-- ।, है, दे, जा, विच, जो, दा, कर, यह, था, सैह, ते, ही, ?, नी -->
+  <lemmas unique="949" /><!-- ।, है, दे, जा, विच, जो, दा, कर, यह, था, सैह, ते, ही, ?, नी -->
   <forms unique="1049" /><!-- ।, है, विच, दा, जो, हन, दी, नी, दे, सैह, ते, ही, ?, तुसां, भी -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
