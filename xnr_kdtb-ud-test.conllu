@@ -567,7 +567,7 @@
 4	50	50	NUM	QC	NumType=Card	5	nummod	_	Translit=50|LTranslit=50
 5	जातरू	जातरू	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	Translit=jātarū|LTranslit=jātarū
 6	तिह्नां	तिह्नां	PRON	PRP	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	obl	_	Translit=tihnāṁ|LTranslit=tihnāṁ
-7	कने	कन	ADP	VST	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	6	case	_	Translit=kane|LTranslit=kana
+7	कने	कन	ADP	VST	AdpType=Post	6	case	_	Translit=kane|LTranslit=kana
 8	थे	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=the|LTranslit=thā
 9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
