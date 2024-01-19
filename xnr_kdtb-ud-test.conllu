@@ -1215,7 +1215,7 @@
 7	बड्डी	बड्डी	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Translit=baḍḍī|LTranslit=baḍḍī
 8	योजना	योजना	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obj	_	Translit=yojanā|LTranslit=yojanā
 9	बणाई	बणा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=baṇāī|LTranslit=baṇā
-10	गेइयो	गेइय	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geiyo|LTranslit=geiya
+10	गेइयो	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=geiyo|LTranslit=jā
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
