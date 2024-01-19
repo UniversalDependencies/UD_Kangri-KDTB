@@ -2760,7 +2760,7 @@
 2	तां	ताँ	PART	RP	_	1	dep	_	Translit=tāṁ|LTranslit=tām̃
 3	हल्ल	हल्ल	NOUN	NN	Person=3	4	compound	_	Translit=halla|LTranslit=halla
 4	होई	हो	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=hoī|LTranslit=ho
-5	गेया	जया	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jayā
+5	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 210
@@ -2828,7 +2828,7 @@
 # translit = rājadarabāra lagī geyā.
 1	राजदरबार	राजदरबार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Translit=rājadarabāra|LTranslit=rājadarabāra
 2	लगी	लग	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=lagī|LTranslit=laga
-3	गेया	जया	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jayā
+3	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 4	।	।	PUNCT	SYM	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 216
@@ -2897,7 +2897,7 @@
 4	भी	भी	PART	RP	_	3	dep	_	Translit=bhī|LTranslit=bhī
 5	नराज	नराज	NOUN	NN	Person=3	6	compound	_	Translit=narāja|LTranslit=narāja
 6	होई	हो	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=hoī|LTranslit=ho
-7	गेया	जया	AUX	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jayā
+7	गेया	जा	AUX	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=jā
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 222
@@ -3138,7 +3138,7 @@
 3	दा	दा	ADP	PSP	AdpType=Post	2	case	_	Translit=dā|LTranslit=dā
 4	सुर्गवास	सुर्गवास	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Translit=surgavāsa|LTranslit=surgavāsa
 5	होई	हो	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Pass	0	root	_	Translit=hoī|LTranslit=ho
-6	गेया	जया	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	Translit=geyā|LTranslit=jayā
+6	गेया	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	Translit=geyā|LTranslit=jā
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
