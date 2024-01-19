@@ -2067,7 +2067,7 @@
 2	मच्छियां	मच्छी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	3	obl	_	Translit=macchiyāṁ|LTranslit=macchī
 3	पकड़ना	पकड	VERB	VM	Case=Nom|VerbForm=Inf	0	root	_	Translit=pakaṛanā|LTranslit=pakaḍa
 4	जा	जा	AUX	VAUX	Number=Sing|Person=3|Voice=Act	3	aux	_	Translit=jā|LTranslit=jā
-5	दा	द	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux:pass	_	SpaceAfter=No|Translit=dā|LTranslit=da
+5	दा	दे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux:pass	_	SpaceAfter=No|Translit=dā|LTranslit=de
 6	।	।	PUNCT	SYM	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 157
@@ -2545,7 +2545,7 @@
 9	ही	ही	PART	RP	_	8	dep	_	Translit=hī|LTranslit=hī
 10	नी	ने	ADV	RB	_	8	advmod	_	Translit=nī|LTranslit=ne
 11	जा	जा	VERB	VM	_	0	root	_	Translit=jā|LTranslit=jā
-12	दा	द	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	Translit=dā|LTranslit=da
+12	दा	दे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	Translit=dā|LTranslit=de
 13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 14	।	।	PUNCT	SYM	_	11	punct	_	Translit=.|LTranslit=.
 
