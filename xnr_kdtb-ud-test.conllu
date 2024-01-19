@@ -3647,7 +3647,7 @@
 8	बरतणा	बरतणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=barataṇā|LTranslit=barataṇā
 9	ही	ही	PART	RP	_	8	dep	_	Translit=hī|LTranslit=hī
 10	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	8	advmod	_	Translit=nī|LTranslit=nī
-11	ओणा	ओण	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	aux	_	SpaceAfter=No|Translit=oṇā|LTranslit=oṇa
+11	ओणा	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	aux	_	SpaceAfter=No|Translit=oṇā|LTranslit=au
 12	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 288
