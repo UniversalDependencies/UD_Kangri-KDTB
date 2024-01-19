@@ -1501,7 +1501,7 @@
 1	दिन	दिन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=dina|LTranslit=dina
 2	घरोणा	घरोणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	amod	_	Translit=gharoṇā|LTranslit=gharoṇā
 3	लगी	लग	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=lagī|LTranslit=laga
-4	पेया	पेया	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	aux	_	Translit=peyā|LTranslit=peyā
+4	पेया	पे	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	aux	_	Translit=peyā|LTranslit=pe
 5	तिज्जो	तिज्जो	PRON	PRP	_	8	nsubj	_	Translit=tijjo|LTranslit=tijjo
 6	घरे	घरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=ghare|LTranslit=gharā
 7	जो	जो	ADP	PSP	AdpType=Post	6	case	_	Translit=jo|LTranslit=jo
