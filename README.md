@@ -20,6 +20,7 @@ The Kangri UD Treebank (KDTB) consists of 2,249 tokens and 1108 vocabulary (288 
 
 * 2024-05-15 v2.14
   * Added transliteration.
+  * Added lemmas and features predicted by UDPipe trained on UD Hindi HDTB 2.12.
 * 2021-05-15 v2.8
   * Initial release in Universal Dependencies.
 
@@ -30,10 +31,10 @@ Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
-Lemmas: converted from manual
+Lemmas: automatic
 UPOS: converted from manual
 XPOS: manual native
-Features: converted from manual
+Features: automatic
 Relations: converted from manual
 Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon
 Contributing: here
