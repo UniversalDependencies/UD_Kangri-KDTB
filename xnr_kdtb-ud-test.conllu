@@ -498,7 +498,7 @@
 # text = सैह मते वक़्ते ते डोगरे ते लाह्दी रेह्या करदी है।
 # translit = saiha mate vaqte te ḍogare te lāhdī rehyā karadī hai.
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit=saiha|LTranslit=saiha
-2	मते	मत	DET	QF	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	3	amod	_	Translit=mate|LTranslit=mata
+2	मते	मत	DET	QF	Gender=Masc|Number=Plur	3	amod	_	Translit=mate|LTranslit=mata
 3	वक़्ते	वक़्ता	NOUN	NN	Case=Acc|Gender=Masc	9	obl	_	Translit=vaqte|LTranslit=vaqtā
 4	ते	ते	ADP	PSP	AdpType=Post	3	case	_	Translit=te|LTranslit=te
 5	डोगरे	डोगरा	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=ḍogare|LTranslit=ḍogarā
