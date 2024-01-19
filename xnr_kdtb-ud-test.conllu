@@ -1492,7 +1492,7 @@
 5	सारे	सारा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	7	amod	_	Translit=sāre|LTranslit=sārā
 6	तारे	तारा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	obj	_	Translit=tāre|LTranslit=tārā
 7	नजरी	नजरी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=najarī|LTranslit=najarī
-8	औणे	औण	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No|Translit=auṇe|LTranslit=auṇa
+8	औणे	औ	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No|Translit=auṇe|LTranslit=au
 9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 108
