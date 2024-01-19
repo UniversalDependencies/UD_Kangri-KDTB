@@ -1500,7 +1500,7 @@
 # translit = dina gharoṇā lagī peyā tijjo ghare jo jāṇā cāhidā.
 1	दिन	दिन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=dina|LTranslit=dina
 2	घरोणा	घरोणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	amod	_	Translit=gharoṇā|LTranslit=gharoṇā
-3	लगी	लग	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=lagī|LTranslit=laga
+3	लगी	लग	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=lagī|LTranslit=laga
 4	पेया	पे	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	aux	_	Translit=peyā|LTranslit=pe
 5	तिज्जो	तिज्जो	PRON	PRP	_	8	nsubj	_	Translit=tijjo|LTranslit=tijjo
 6	घरे	घरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=ghare|LTranslit=gharā
@@ -1977,12 +1977,12 @@
 # sent_id = 148
 # text = तिह्नां मददा तांईं आवाज लगाई।
 # translit = tihnāṁ madadā tāṁīṁ āvāja lagāī.
-1	तिह्नां	तिह्नां	PRON	PRP	_	4	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ
+1	तिह्नां	तिह्नां	PRON	PRP	_	5	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ
 2	मददा	मददा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=madadā|LTranslit=madadā
 3	तांईं	तांईं	ADP	PSP	AdpType=Post	2	case	_	Translit=tāṁīṁ|LTranslit=tāṁīṁ
-4	आवाज	आवाज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=āvāja|LTranslit=āvāja
-5	लगाई	लग	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	4	aux	_	SpaceAfter=No|Translit=lagāī|LTranslit=laga
-6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
+4	आवाज	आवाज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	xcomp	_	Translit=āvāja|LTranslit=āvāja
+5	लगाई	लग	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=lagāī|LTranslit=laga
+6	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 149
 # text = तुसां दोयो क्या करा दे?
@@ -2658,15 +2658,15 @@
 # text = सारे लोक बुड्ढे पास्सें गौरा ने दिक्खणा लगी पे।
 # translit = sāre loka buḍḍhe pāsseṁ gaurā ne dikkhaṇā lagī pe.
 1	सारे	सारा	DET	DEM	Case=Nom|Gender=Masc|Number=Plur	2	det	_	Translit=sāre|LTranslit=sārā
-2	लोक	लोक	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	Translit=loka|LTranslit=loka
-3	बुड्ढे	बुड्ढा	NOUN	JJ	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	Translit=buḍḍhe|LTranslit=buḍḍhā
+2	लोक	लोक	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	Translit=loka|LTranslit=loka
+3	बुड्ढे	बुड्ढा	NOUN	JJ	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	obj	_	Translit=buḍḍhe|LTranslit=buḍḍhā
 4	पास्सें	पास्स	ADP	PSP	AdpType=Post	3	case	_	Translit=pāsseṁ|LTranslit=pāssa
-5	गौरा	गौरा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	_	Translit=gaurā|LTranslit=gaurā
+5	गौरा	गौरा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=gaurā|LTranslit=gaurā
 6	ने	ने	ADP	PSP	AdpType=Post	5	case	_	Translit=ne|LTranslit=ne
-7	दिक्खणा	दिक्खणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=dikkhaṇā|LTranslit=dikkhaṇā
-8	लगी	लग	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	Translit=lagī|LTranslit=laga
-9	पे	पे	AUX	VAUX	_	7	aux	_	SpaceAfter=No|Translit=pe|LTranslit=pe
-10	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
+7	दिक्खणा	दिक्खणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	xcomp	_	Translit=dikkhaṇā|LTranslit=dikkhaṇā
+8	लगी	लग	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=lagī|LTranslit=laga
+9	पे	पे	AUX	VAUX	_	8	aux	_	SpaceAfter=No|Translit=pe|LTranslit=pe
+10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 203
 # text = ऊञा एह जम्मणी दा बूट्टा प्रेमुएं दा ही है।
@@ -3167,17 +3167,17 @@
 # sent_id = 245
 # text = तित्थू सैह् किस्मां - किस्मा दे पकवान त्यार करना लग्गी।
 # translit = titthū saih kismāṁ - kismā de pakavāna tyāra karanā laggī.
-1	तित्थू	तित्थू	ADV	RB	_	9	advmod	_	Translit=titthū|LTranslit=titthū
-2	सैह्	सैह्	PRON	PRP	_	9	nsubj	_	Translit=saih|LTranslit=saih
+1	तित्थू	तित्थू	ADV	RB	_	10	advmod	_	Translit=titthū|LTranslit=titthū
+2	सैह्	सैह्	PRON	PRP	_	10	nsubj	_	Translit=saih|LTranslit=saih
 3	किस्मां	किस्मां	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	compound	_	Translit=kismāṁ|LTranslit=kismāṁ
 4	-	-	PUNCT	SYM	_	3	punct	_	Translit=-|LTranslit=-
 5	किस्मा	किस्मा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod	_	Translit=kismā|LTranslit=kismā
 6	दे	दे	ADP	PSP	AdpType=Post	5	case	_	Translit=de|LTranslit=de
-7	पकवान	पकवान	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obj	_	Translit=pakavāna|LTranslit=pakavāna
+7	पकवान	पकवान	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obj	_	Translit=pakavāna|LTranslit=pakavāna
 8	त्यार	त्यार	VERB	VM	_	9	compound	_	Translit=tyāra|LTranslit=tyāra
-9	करना	कर	AUX	VAUX	Case=Nom|VerbForm=Inf	0	root	_	Translit=karanā|LTranslit=kara
-10	लग्गी	लग	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	aux:pass	_	SpaceAfter=No|Translit=laggī|LTranslit=laga
-11	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
+9	करना	कर	AUX	VAUX	Case=Nom|VerbForm=Inf	10	xcomp	_	Translit=karanā|LTranslit=kara
+10	लग्गी	लग	VERB	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=laggī|LTranslit=laga
+11	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 246
 # text = तित्थू सैह् न्हौता कने हटी आया।

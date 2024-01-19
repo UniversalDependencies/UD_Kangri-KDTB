@@ -18,7 +18,7 @@
     <tag name="ADJ">129</tag><!-- खरा, सारा, बड़ा, खुश, छैळ, नीला, पक्का, बड्डा, मता, अगला -->
     <tag name="ADP">313</tag><!-- दे, विच, जो, दा, ते, ने, का, पर, कना, च -->
     <tag name="ADV">93</tag><!-- नी, तित्थू, ने, हुण, कदी, काह्लू, जाह्लू, ना, रोज, अज्ज -->
-    <tag name="AUX">276</tag><!-- है, जा, था, कर, रेह, पे, सक, चाहिदा, लग, आ -->
+    <tag name="AUX">272</tag><!-- है, जा, था, कर, रेह, पे, सक, चाहिदा, आ, ओआ -->
     <tag name="CCONJ">27</tag><!-- कने, कनै, अपर, जे, तां, पर, कि, बल्कि, या -->
     <tag name="DET">58</tag><!-- यह, कोई, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह् -->
     <tag name="INTJ">3</tag><!-- ओ -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">88</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, के, कैंहजे, तां, दा, यानिकि -->
-    <tag name="VERB">314</tag><!-- दे, हो, कर, जा, आ, चल, मिल, लग, हुन्दा, कित्ती -->
+    <tag name="VERB">318</tag><!-- दे, हो, कर, लग, जा, आ, चल, मिल, हुन्दा, कित्ती -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">
@@ -77,8 +77,8 @@
     <dep name="advcl">39</dep>
     <dep name="advmod">89</dep>
     <dep name="amod">93</dep>
-    <dep name="aux">145</dep>
-    <dep name="aux:pass">51</dep>
+    <dep name="aux">143</dep>
+    <dep name="aux:pass">50</dep>
     <dep name="case">299</dep>
     <dep name="cc">24</dep>
     <dep name="ccomp">3</dep>
@@ -98,6 +98,6 @@
     <dep name="obl">160</dep>
     <dep name="punct">310</dep>
     <dep name="root">288</dep>
-    <dep name="xcomp">33</dep>
+    <dep name="xcomp">36</dep>
   </deps>
 </treebank>
