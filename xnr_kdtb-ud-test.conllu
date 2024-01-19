@@ -3348,7 +3348,7 @@
 1	बान्दर	बान्दर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=bāndara|LTranslit=bāndara
 2	मते	मते	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	amod	_	Translit=mate|LTranslit=mate
 3	होई	होई	VERB	VM	Aspect=Perf|Gender=Masc|VerbForm=Part|Voice=Act	0	root	_	Translit=hoī|LTranslit=hoī
-4	गेयो	गेयो	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyo|LTranslit=geyo
+4	गेयो	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Translit=geyo|LTranslit=jā
 5	हन	है	AUX	VAUX	_	3	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 6	।	।	PUNCT	SYM	_	3	punct	_	Translit=.|LTranslit=.
 
