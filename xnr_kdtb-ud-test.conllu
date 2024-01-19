@@ -2118,7 +2118,7 @@
 2	हमेसा	हमेसा	ADV	RB	_	4	advmod	_	Translit=hamesā|LTranslit=hamesā
 3	इतणा	इतणा	ADV	RB	_	4	advmod	_	Translit=itaṇā|LTranslit=itaṇā
 4	सक	सक	NOUN	NN	Person=3	0	root	_	Translit=saka|LTranslit=saka
-5	कैह्जो	कैह्जो	PART	RP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	dep	_	Translit=kaihjo|LTranslit=kaihjo
+5	कैह्जो	कैह्जो	PART	RP	_	4	dep	_	Translit=kaihjo|LTranslit=kaihjo
 6	करदे	कर	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	4	aux	_	SpaceAfter=No|Translit=karade|LTranslit=kara
 7	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -2207,7 +2207,7 @@
 # sent_id = 169
 # text = इसा ही भ्यागा मेरे बापू इंगलैण्ड जो निकळी गै।
 # translit = isā hī bhyāgā mere bāpū iṁgalaiṇḍa jo nikaḷī gai.
-1	इसा	यह	PART	RP	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	compound	_	Translit=isā|LTranslit=yaha
+1	इसा	यह	PART	RP	PronType=Dem	3	compound	_	Translit=isā|LTranslit=yaha
 2	ही	ही	PART	RP	_	3	dep	_	Translit=hī|LTranslit=hī
 3	भ्यागा	भ्यागा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=bhyāgā|LTranslit=bhyāgā
 4	मेरे	मैं	ADJ	JJ	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	Translit=mere|LTranslit=maiṁ
@@ -2393,7 +2393,7 @@
 # sent_id = 182
 # text = ऊञा हुण बैह्ड़ुआं दा कम्म रेह्या नी है।
 # translit = ūñā huṇa baihṛuāṁ dā kamma rehyā nī hai.
-1	ऊञा	ऊञा	PART	RP	Case=Nom|Gender=Masc|Number=Sing	6	dep	_	Translit=ūñā|LTranslit=ūñā
+1	ऊञा	ऊञा	PART	RP	_	6	dep	_	Translit=ūñā|LTranslit=ūñā
 2	हुण	हुण	ADV	RB	_	6	advmod	_	Translit=huṇa|LTranslit=huṇa
 3	बैह्ड़ुआं	बैह्डी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	5	nmod	_	Translit=baihṛuāṁ|LTranslit=baihḍī
 4	दा	दा	ADP	PSP	AdpType=Post	3	case	_	Translit=dā|LTranslit=dā
@@ -2671,7 +2671,7 @@
 # sent_id = 203
 # text = ऊञा एह जम्मणी दा बूट्टा प्रेमुएं दा ही है।
 # translit = ūñā eha jammaṇī dā būṭṭā premueṁ dā hī hai.
-1	ऊञा	ऊञा	PART	RP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	dep	_	Translit=ūñā|LTranslit=ūñā
+1	ऊञा	ऊञा	PART	RP	_	5	dep	_	Translit=ūñā|LTranslit=ūñā
 2	एह	एह	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	det	_	Translit=eha|LTranslit=eha
 3	जम्मणी	जम्मणी	NOUN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=jammaṇī|LTranslit=jammaṇī
 4	दा	दा	ADP	PSP	AdpType=Post	3	case	_	Translit=dā|LTranslit=dā
