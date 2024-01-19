@@ -1278,9 +1278,9 @@
 # sent_id = 89
 # text = मैं बिल्ली जो काली रोटी दित्ती।
 # translit = maiṁ billī jo kālī roṭī dittī.
-1	मैं	मैं	PROPN	NNP	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
-2	बिल्ली	बिल्ली	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	iobj	_	Translit=billī|LTranslit=billī
-3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
+1	मैं	मैं	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
+2	बिल्ली	बिल्ली	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	iobj	_	Translit=billī|LTranslit=billī
+3	जो	जो	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	flat	_	Translit=jo|LTranslit=jo
 4	काली	काला	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Translit=kālī|LTranslit=kālā
 5	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=roṭī|LTranslit=roṭī
 6	दित्ती	दित्	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
