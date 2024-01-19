@@ -2476,7 +2476,7 @@
 # translit = ruttāṁ badaloā diyāṁ kanai baddaḷa phaṭā de hana.
 1	रुत्तां	रुत्तां	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	2	nsubj	_	Translit=ruttāṁ|LTranslit=ruttāṁ
 2	बदलोआ	बदल	VERB	VM	_	0	root	_	Translit=badaloā|LTranslit=badala
-3	दियां	दियाँ	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	aux	_	Translit=diyāṁ|LTranslit=diyām̃
+3	दियां	दे	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	aux	_	Translit=diyāṁ|LTranslit=de
 4	कनै	कनै	CCONJ	CC	_	6	cc	_	Translit=kanai|LTranslit=kanai
 5	बद्दळ	बद्दळ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit=baddaḷa|LTranslit=baddaḷa
 6	फटा	फटा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	_	Translit=phaṭā|LTranslit=phaṭā
