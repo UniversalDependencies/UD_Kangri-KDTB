@@ -1198,7 +1198,7 @@
 7	ज़ादा	जादा	DET	QF	_	8	det	_	Translit=zādā|LTranslit=jādā
 8	शिकायतां	शिकायतां	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	10	nsubj	_	Translit=śikāyatāṁ|LTranslit=śikāyatāṁ
 9	इह्नां	इह्नां	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	Translit=ihnāṁ|LTranslit=ihnāṁ
-10	लाक़ेयाँ	लाक़ी	NOUN	NN	Mood=Sub|Number=Sing|Person=3	0	root	_	Translit=lāqeyām̃|LTranslit=lāqī
+10	लाक़ेयाँ	लाक़ी	NOUN	NN	Number=Sing|Person=3	0	root	_	Translit=lāqeyām̃|LTranslit=lāqī
 11	ते	ते	ADP	PSP	AdpType=Post	10	case	_	Translit=te|LTranslit=te
 12	थियां	थियाँ	AUX	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Translit=thiyāṁ|LTranslit=thiyām̃
 13	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
@@ -2421,7 +2421,7 @@
 3	दूर	दूर	ADP	NST	AdpType=Post	1	compound	_	Translit=dūra|LTranslit=dūra
 4	-	-	PUNCT	SYM	_	1	punct	_	Translit=-|LTranslit=-
 5	दुरेडैं	दुरेडैं	ADP	NST	AdpType=Post	1	case	_	Translit=dureḍaiṁ|LTranslit=dureḍaiṁ
-6	ग्रां	ग्र	NOUN	NN	Mood=Sub|Number=Sing|Person=3	18	obl	_	Translit=grāṁ|LTranslit=gra
+6	ग्रां	ग्र	NOUN	NN	Number=Sing|Person=3	18	obl	_	Translit=grāṁ|LTranslit=gra
 7	विच	विच	ADP	PSP	AdpType=Post	6	case	_	Translit=vica|LTranslit=vica
 8	हल्ली	हल्ली	ADV	RB	_	10	advmod	_	Translit=hallī|LTranslit=hallī
 9	भी	भी	PART	RP	_	10	dep	_	Translit=bhī|LTranslit=bhī
