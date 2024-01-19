@@ -861,7 +861,7 @@
 # text = पर पहले साहीं स्थिति नी है।
 # translit = para pahale sāhīṁ sthiti nī hai.
 1	पर	पर	CCONJ	CC	_	4	cc	_	LTranslit=para|Translit=para
-2	पहले	पहले	ADJ	JJ	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=pahale|LTranslit=pahale
+2	पहले	पहले	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=pahale|LTranslit=pahale
 3	साहीं	साहीं	ADP	PSP	AdpType=Post	2	case	_	Translit=sāhīṁ|LTranslit=sāhīṁ
 4	स्थिति	स्थिति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=sthiti|LTranslit=sthiti
 5	नी	ना	PART	NEG	Polarity=Neg	4	advmod	_	Translit=nī|LTranslit=nā
@@ -974,7 +974,7 @@
 # translit = isade buhle pāse hī  marāḷī mandira hai.
 1	इसदे	यह	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	Translit=isade|LTranslit=yaha
 2	बुह्ले	बुह्ला	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	Translit=buhle|LTranslit=buhlā
-3	पासे	पासे	NOUN	NN	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	2	case	_	Translit=pāse|LTranslit=pāse
+3	पासे	पासे	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	case	_	Translit=pāse|LTranslit=pāse
 4	ही	ही	PART	RP	_	2	dep	_	Translit=hī|LTranslit=hī
 5	मराळी	मराळी	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	Translit=marāḷī|LTranslit=marāḷī
 6	मन्दिर	मन्दिर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=mandira|LTranslit=mandira
@@ -2647,7 +2647,7 @@
 2	गल्ला	गल्ला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	amod	_	Translit=gallā|LTranslit=gallā
 3	सुणी	सुणी	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	amod	_	Translit=suṇī|LTranslit=suṇī
 4	के	का	ADP	PSP	AdpType=Post	3	case	_	Translit=ke|LTranslit=kā
-5	पटवारिए	पटवारिए	NOUN	NN	AdpType=Post	7	nmod	_	Translit=paṭavārie|LTranslit=paṭavārie
+5	पटवारिए	पटवारिए	NOUN	NN	_	7	nmod	_	Translit=paṭavārie|LTranslit=paṭavārie
 6	दा	दा	ADP	PSP	AdpType=Post	5	case	_	Translit=dā|LTranslit=dā
 7	मुंह	मुँह	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=muṁha|LTranslit=mum̃ha
 8	उतरी	उतर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=utarī|LTranslit=utara
@@ -2703,7 +2703,7 @@
 2	दा	दा	ADP	PSP	AdpType=Post	1	case	_	Translit=dā|LTranslit=dā
 3	रुक्ख	रुक्ख	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=rukkha|LTranslit=rukkha
 4	जिञा	जिञा	ADV	RB	_	5	mark	_	Translit=jiñā|LTranslit=jiñā
-5	पहलैं	पहलैं	ADJ	JJ	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Translit=pahalaiṁ|LTranslit=pahalaiṁ
+5	पहलैं	पहलैं	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Translit=pahalaiṁ|LTranslit=pahalaiṁ
 6	था	था	AUX	VM	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Translit=thā|LTranslit=thā
 7	,	,	PUNCT	SYM	_	5	punct	_	Translit=,|LTranslit=,
 8	तिञा	तिञा	ADV	RB	_	10	advmod	_	Translit=tiñā|LTranslit=tiñā
@@ -2769,7 +2769,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	Translit=saiha|LTranslit=saiha
 2	गलाई	गलाई	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	advcl	_	Translit=galāī|LTranslit=galāī
 3	के	के	ADP	PSP	AdpType=Post	2	case	_	Translit=ke|LTranslit=ke
-4	बाहर	बाहर	ADV	RB	AdpType=Post	5	advmod	_	Translit=bāhara|LTranslit=bāhara
+4	बाहर	बाहर	ADV	RB	_	5	advmod	_	Translit=bāhara|LTranslit=bāhara
 5	चली	चल	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=calī|LTranslit=cala
 6	गेई	जा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=geī|LTranslit=jā
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.

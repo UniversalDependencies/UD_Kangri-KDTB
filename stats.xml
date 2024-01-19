@@ -33,7 +33,7 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">
-    <feat name="AdpType" value="Post" upos="ADJ,ADP,ADV,NOUN">318</feat><!-- विच, जो, दा, दी, ते, दे, ने, के, पर, कने -->
+    <feat name="AdpType" value="Post" upos="ADP">313</feat><!-- विच, जो, दा, दी, ते, दे, ने, के, पर, कने -->
     <feat name="Aspect" value="Imp" upos="ADJ,ADV,AUX,VERB">29</feat><!-- दित्ती, दित्ता, करदा, करदी, सकदा, सबते, कित्ता, जांदा, दित्ते, पीता -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,PRON,VERB">167</feat><!-- गेया, होई, करी, गेई, रेह्या, लगी, दा, दी, आई, आया -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,PART,PRON,PROPN,VERB">105</feat><!-- इस, इसा, अगले, अमेरिका, गलाई, पढ़ने, पाणिए, बचाणे, रखणे, वाळे -->
