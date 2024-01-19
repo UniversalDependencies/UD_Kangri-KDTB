@@ -1642,7 +1642,7 @@
 5	दा	दा	ADP	PSP	AdpType=Post	4	case	_	Translit=dā|LTranslit=dā
 6	इस्तेमाल	इस्तेमाल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	Translit=istemāla|LTranslit=istemāla
 7	करना	कर	VERB	VM	Gender=Masc|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	Translit=karanā|LTranslit=kara
-8	ओंदा	ओंदा	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing	7	aux	_	SpaceAfter=No|Translit=oṁdā|LTranslit=oṁdā
+8	ओंदा	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing	7	aux	_	SpaceAfter=No|Translit=oṁdā|LTranslit=au
 9	?	?	PUNCT	SYM	_	7	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 119
