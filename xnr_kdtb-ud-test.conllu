@@ -216,7 +216,7 @@
 4	तिकर	तिकर	ADP	PSP	AdpType=Post	3	case	_	Translit=tikara|LTranslit=tikara
 5	घळाटी	घळाटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=ghaḷāṭī|LTranslit=ghaḷāṭī
 6	चलदी	चलद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=caladī|LTranslit=calada
-7	रेह्यी	रेह्य	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	aux	_	SpaceAfter=No|Translit=rehyī|LTranslit=rehya
+7	रेह्यी	रेह	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	aux	_	SpaceAfter=No|Translit=rehyī|LTranslit=reha
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 16
