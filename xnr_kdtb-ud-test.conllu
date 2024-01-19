@@ -1601,7 +1601,7 @@
 10	पूरी	पूरा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	Translit=pūrī|LTranslit=pūrā
 11	कोशिश	कोशिश	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=kośiśa|LTranslit=kośiśa
 12	करनी	कर	VERB	VM	Gender=Fem|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	0	root	_	Translit=karanī|LTranslit=kara
-13	चाहिदी	चाहिद	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	aux	_	SpaceAfter=No|Translit=cāhidī|LTranslit=cāhida
+13	चाहिदी	चाहिदा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	12	aux	_	SpaceAfter=No|Translit=cāhidī|LTranslit=cāhidā
 14	।	।	PUNCT	SYM	_	12	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 116
@@ -3232,7 +3232,7 @@
 6	ही	ही	PART	RP	_	5	dep	_	Translit=hī|LTranslit=hī
 7	पूजा	पूजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit=pūjā|LTranslit=pūjā
 8	होणा	हो	VERB	VM	Case=Nom|VerbForm=Inf	0	root	_	Translit=hoṇā|LTranslit=ho
-9	चाहिदी	चाहिद	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	aux	_	SpaceAfter=No|Translit=cāhidī|LTranslit=cāhida
+9	चाहिदी	चाहिदा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	aux	_	SpaceAfter=No|Translit=cāhidī|LTranslit=cāhidā
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 251
