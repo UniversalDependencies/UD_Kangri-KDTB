@@ -49,7 +49,7 @@
     <feat name="Mood" value="Sub" upos="AUX,VERB">16</feat><!-- सकदे, औणे, कढदे, करदे, चलणा, जाएं, तोड़े, थियां, दिंदे, दियां -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,CCONJ,DET,NOUN,PRON,PROPN,VERB">176</feat><!-- लोकां, थे, कमरे, सारे, खरे, ग्रांएं, तिह्नां, रूपेइये, हन, हुन्दे -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1234</feat><!-- है, सैह, गेया, था, मैं, होई, इस, मिंजो, हन, इसा -->
-    <feat name="NumType" value="Card" upos="ADJ,DET,NOUN,NUM,PRON">33</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
+    <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">32</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
     <feat name="NumType" value="Ord" upos="ADJ">3</feat><!-- पहला, दूई -->
     <feat name="Person" value="1" upos="ADJ,AUX,PRON,VERB">22</feat><!-- मैं, मेरा, मेरी, मेरे, खांहगे, जांदा -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">15</feat><!-- आप, औणे, करदे, करा, चलणा, जाई, जाएं, थियां, दियां, दुआएं -->

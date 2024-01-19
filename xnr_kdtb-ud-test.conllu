@@ -1576,7 +1576,7 @@
 # sent_id = 114
 # text = एह पक्का है जे तिस अमरीका जाणा है!
 # translit = eha pakkā hai je tisa amarīkā jāṇā hai!
-1	एह	एह	NOUN	NN	NumType=Card|Person=3	2	nsubj	_	Translit=eha|LTranslit=eha
+1	एह	एह	NOUN	NN	Person=3	2	nsubj	_	Translit=eha|LTranslit=eha
 2	पक्का	पक्का	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pakkā|LTranslit=pakkā
 3	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=hai|LTranslit=hai
 4	जे	जे	SCONJ	CC	_	7	cc	_	LTranslit=je|Translit=je
