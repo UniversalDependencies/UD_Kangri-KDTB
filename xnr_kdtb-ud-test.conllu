@@ -578,7 +578,7 @@
 2	किताबा	किताबा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	iobj	_	Translit=kitābā|LTranslit=kitābā
 3	पढ़ने	पढ	VERB	VM	Case=Acc|VerbForm=Inf	8	advcl	_	Translit=paṛhane|LTranslit=paḍha
 4	ताईं	ताईं	ADP	PSP	AdpType=Post	3	mark	_	Translit=tāīṁ|LTranslit=tāīṁ
-5	ऐनका	ऐनका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	8	obj	_	Translit=ainakā|LTranslit=ainakā
+5	ऐनका	ऐनका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	obj	_	Translit=ainakā|LTranslit=ainakā
 6	दी	दे	ADP	PSP	AdpType=Post	5	case	_	Translit=dī|LTranslit=de
 7	ज़रूरत	जरूरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Translit=zarūrata|LTranslit=jarūrata
 8	पौंदी	पौंद	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=pauṁdī|LTranslit=pauṁda
@@ -1259,7 +1259,7 @@
 8	दिंदे	दिंदा	AUX	VAUX	Case=Acc|Gender=Masc|Number=Sing	9	aux	_	Translit=diṁde|LTranslit=diṁdā
 9	ताहलू	ताहलू	ADV	RB	_	16	obl	_	Translit=tāhalū|LTranslit=tāhalū
 10	तक	तक	ADP	NST	AdpType=Post	9	case	_	Translit=taka|LTranslit=taka
-11	इसा	यह	NOUN	NN	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	dep	_	Translit=isā|LTranslit=yaha
+11	इसा	यह	NOUN	NN	Case=Nom|Number=Sing|Person=3	14	dep	_	Translit=isā|LTranslit=yaha
 12	दी	दे	ADP	PSP	AdpType=Post	11	case	_	Translit=dī|LTranslit=de
 13	असली	असली	ADJ	JJ	Case=Nom	14	compound	_	Translit=asalī|LTranslit=asalī
 14	कीमत	कीमत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	nsubj	_	Translit=kīmata|LTranslit=kīmata
@@ -1742,7 +1742,7 @@
 5	न	न	PART	NEG	Polarity=Neg	4	advmod	_	Translit=na|LTranslit=na
 6	किछ	किछ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	conj	_	Translit=kicha|LTranslit=kicha
 7	पुठ्ठे	पुठ्ठा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	amod	_	Translit=puṭhṭhe|LTranslit=puṭhṭhā
-8	कम	कम	NOUN	NN	PronType=Ind	9	obj	_	Translit=kama|LTranslit=kama
+8	कम	कम	NOUN	NN	_	9	obj	_	Translit=kama|LTranslit=kama
 9	करदे	कर	VERB	VM	VerbForm=Conv	0	root	_	Translit=karade|LTranslit=kara
 10	रैंहदे	रैंह	AUX	VAUX	Gender=Masc|Number=Plur	9	aux	_	Translit=raiṁhade|LTranslit=raiṁha
 11	हन	हन	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hana
@@ -2186,7 +2186,7 @@
 2	कताब	कताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	obj	_	Translit=katāba|LTranslit=katāba
 3	पढ़ने	पढ	VERB	VM	Case=Acc|VerbForm=Inf	7	amod	_	Translit=paṛhane|LTranslit=paḍha
 4	तांईं	तांईं	ADP	PSP	AdpType=Post	3	case	_	Translit=tāṁīṁ|LTranslit=tāṁīṁ
-5	ऐनका	ऐनका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	7	amod	_	Translit=ainakā|LTranslit=ainakā
+5	ऐनका	ऐनका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	Translit=ainakā|LTranslit=ainakā
 6	दी	दे	ADP	PSP	AdpType=Post	2	case	_	Translit=dī|LTranslit=de
 7	ज़रूरत	जरूरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=zarūrata|LTranslit=jarūrata
 8	पोंदी	पोंदे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=poṁdī|LTranslit=poṁde
@@ -2246,7 +2246,7 @@
 # sent_id = 172
 # text = मेळे विच सैह भतोरड़ होई जांदा है।
 # translit = meḷe vica saiha bhatoraṛa hoī jāṁdā hai.
-1	मेळे	मैं	NOUN	NN	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	obl	_	Translit=meḷe|LTranslit=maiṁ
+1	मेळे	मैं	NOUN	NN	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	obl	_	Translit=meḷe|LTranslit=maiṁ
 2	विच	विच	ADP	PSP	AdpType=Post	1	case	_	Translit=vica|LTranslit=vica
 3	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	Translit=saiha|LTranslit=saiha
 4	भतोरड़	भतोरड	NOUN	NN	_	5	xcomp	_	Translit=bhatoraṛa|LTranslit=bhatoraḍa
@@ -2577,7 +2577,7 @@
 # text = सैह तमाकुए पीन्दा  रेह्या।
 # translit = saiha tamākue pīndā  rehyā.
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=saiha|LTranslit=saiha
-2	तमाकुए	तमाकुए	NOUN	NN	PronType=Prs	3	nmod	_	Translit=tamākue|LTranslit=tamākue
+2	तमाकुए	तमाकुए	NOUN	NN	_	3	nmod	_	Translit=tamākue|LTranslit=tamākue
 3	पीन्दा	पीन्दा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pīndā|LTranslit=pīndā
 4	रेह्या	रेह्	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reh
 5	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
@@ -3158,7 +3158,7 @@
 # text = इसजो अपणा ही घर समझा।
 # translit = isajo apaṇā hī ghara samajhā.
 1	इसजो	इसजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obj	_	Translit=isajo|LTranslit=isajo
-2	अपणा	अपणा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	4	nmod	_	Translit=apaṇā|LTranslit=apaṇā
+2	अपणा	अपणा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	Translit=apaṇā|LTranslit=apaṇā
 3	ही	ही	PART	RP	_	2	dep	_	Translit=hī|LTranslit=hī
 4	घर	घर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	_	Translit=ghara|LTranslit=ghara
 5	समझा	समझ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=samajhā|LTranslit=samajha
