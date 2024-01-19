@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>288</sentences><tokens>2514</tokens><words>2514</words><fused>0</fused></test>
   </size>
-  <lemmas unique="973" /><!-- ।, है, दे, विच, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी, हो -->
+  <lemmas unique="972" /><!-- ।, है, दे, विच, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी, हो -->
   <forms unique="1049" /><!-- ।, है, विच, दा, जो, हन, दी, नी, दे, सैह, ते, ही, ?, तुसां, भी -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">129</tag><!-- खरा, सारा, बड़ा, खुश, छैळ, नीला, पक्का, बड्डा, मता, अगला -->
     <tag name="ADP">313</tag><!-- दे, विच, जो, दा, ते, ने, का, पर, कना, च -->
     <tag name="ADV">93</tag><!-- नी, तित्थू, ने, हुण, कदी, काह्लू, जाह्लू, ना, रोज, अज्ज -->
-    <tag name="AUX">305</tag><!-- है, था, गे, जा, दे, कर, दित्, चाहिदा, जया, सक -->
+    <tag name="AUX">305</tag><!-- है, था, दे, गे, जा, कर, चाहिदा, जया, सक, गेइयो -->
     <tag name="CCONJ">27</tag><!-- कने, कनै, अपर, जे, तां, पर, कि, बल्कि, या -->
     <tag name="DET">58</tag><!-- यह, कोई, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह् -->
     <tag name="INTJ">3</tag><!-- ओ -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">88</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, के, कैंहजे, तां, दा, यानिकि -->
-    <tag name="VERB">285</tag><!-- हो, कर, जा, आ, चल, दित्, मिल, लग, हुन्दा, कित्ती -->
+    <tag name="VERB">285</tag><!-- हो, कर, जा, आ, चल, दे, मिल, लग, हुन्दा, कित्ती -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">

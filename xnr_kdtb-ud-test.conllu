@@ -15,7 +15,7 @@
 12	ते	ते	ADP	PSP	AdpType=Post	11	case	_	Translit=te|LTranslit=te
 13	मना	मना	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	Translit=manā|LTranslit=manā
 14	करी	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=karī|LTranslit=kara
-15	दित्ता	दित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	14	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
+15	दित्ता	दे	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	14	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=de
 16	।	।	PUNCT	SYM	_	14	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 2
@@ -283,7 +283,7 @@
 14	ने	ने	ADP	PSP	AdpType=Post	13	case	_	Translit=ne|LTranslit=ne
 15	पास	पास	ADJ	JJ	Foreign=Yes	16	compound	_	Translit=pāsa|LTranslit=pāsa
 16	करी	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=karī|LTranslit=kara
-17	दित्ता	दित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	16	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
+17	दित्ता	दे	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	16	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=de
 18	।	।	PUNCT	SYM	_	16	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 20
@@ -432,7 +432,7 @@
 10	दी	दे	ADP	PSP	AdpType=Post	9	mark	_	Translit=dī|LTranslit=de
 11	सलाह	सलाह	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=salāha|LTranslit=salāha
 12	देई	देई	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=deī|LTranslit=deī
-13	दित्ती	दित्	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+13	दित्ती	दे	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 14	।	।	PUNCT	SYM	_	12	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 29
@@ -465,7 +465,7 @@
 10	दी	दे	ADP	PSP	AdpType=Post	9	mark	_	Translit=dī|LTranslit=de
 11	भी	भी	PART	RP	_	9	dep	_	Translit=bhī|LTranslit=bhī
 12	सलाह	सलाह	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	compound	_	Translit=salāha|LTranslit=salāha
-13	दित्ती	दित्	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+13	दित्ती	दे	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 14	।	।	PUNCT	SYM	_	13	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 31
@@ -1283,7 +1283,7 @@
 3	जो	जो	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	flat	_	Translit=jo|LTranslit=jo
 4	काली	काला	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Translit=kālī|LTranslit=kālā
 5	रोटी	रोटी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=roṭī|LTranslit=roṭī
-6	दित्ती	दित्	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+6	दित्ती	दे	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 90
@@ -1330,7 +1330,7 @@
 3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
 4	नीली	नीला	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Translit=nīlī|LTranslit=nīlā
 5	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=kitāba|LTranslit=kitāba
-6	दित्ती	दित्	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+6	दित्ती	दे	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 94
@@ -1479,7 +1479,7 @@
 6	पीणे	पीणे	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=pīṇe|LTranslit=pīṇe
 7	दी	दे	ADP	PSP	AdpType=Post	6	mark	_	Translit=dī|LTranslit=de
 8	सलाह	सलाह	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	Translit=salāha|LTranslit=salāha
-9	दित्ती	दित्	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+9	दित्ती	दे	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 10	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 107
@@ -1685,7 +1685,7 @@
 3	शहर	शहर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obl	_	Translit=śahara|LTranslit=śahara
 4	बर्बाद	बर्बाद	ADJ	JJ	_	5	compound	_	Translit=barbāda|LTranslit=barbāda
 5	करी	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=karī|LTranslit=kara
-6	दित्ता	दित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
+6	दित्ता	दे	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=de
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 123
@@ -2613,7 +2613,7 @@
 7	कनै	कनै	CCONJ	CC	_	6	cc	_	Translit=kanai|LTranslit=kanai
 8	मंजे	मंजा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	obj	_	Translit=maṁje|LTranslit=maṁjā
 9	डाही	डाही	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=ḍāhī|LTranslit=ḍāhī
-10	दित्ते	दित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	9	aux	_	SpaceAfter=No|Translit=ditte|LTranslit=dit
+10	दित्ते	दे	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	9	aux	_	SpaceAfter=No|Translit=ditte|LTranslit=de
 11	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 199
@@ -2839,7 +2839,7 @@
 3	बछाण	बछाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	obj	_	Translit=bachāṇa|LTranslit=bachāṇa
 4	भी	भी	PART	RP	_	3	dep	_	Translit=bhī|LTranslit=bhī
 5	लगवाई	लगवा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=lagavāī|LTranslit=lagavā
-6	दित्ता	दित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
+6	दित्ता	दे	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	aux	_	SpaceAfter=No|Translit=dittā|LTranslit=de
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 217
@@ -2908,7 +2908,7 @@
 3	तिसा	तिसा	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	obl	_	Translit=tisā|LTranslit=tisā
 4	जो	जो	ADP	PSP	AdpType=Post	3	case	_	Translit=jo|LTranslit=jo
 5	सुणाई	सुणाई	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=suṇāī|LTranslit=suṇāī
-6	दित्ती	दित्	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+6	दित्ती	दे	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 223
@@ -3208,7 +3208,7 @@
 4	क्या	क्या	PART	RP	PronType=Int	6	dep	_	Translit=kyā|LTranslit=kyā
 5	कणक	कणक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obj	_	Translit=kaṇaka|LTranslit=kaṇaka
 6	बाही	बाही	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=bāhī|LTranslit=bāhī
-7	दित्ती	दित्	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=dit
+7	दित्ती	दे	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=dittī|LTranslit=de
 8	?	?	PUNCT	SYM	_	6	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 249
@@ -3609,7 +3609,7 @@
 5	सौह्रे	सौह्रा	NOUN	NN	Gender=Masc|Number=Plur|Person=3	8	obl	_	Translit=sauhre|LTranslit=sauhrā
 6	जो	जो	ADP	PSP	AdpType=Post	5	case	_	Translit=jo|LTranslit=jo
 7	जवाब	जवाब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=javāba|LTranslit=javāba
-8	दित्ता	दित्	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
+8	दित्ता	दे	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittā|LTranslit=de
 9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 285
