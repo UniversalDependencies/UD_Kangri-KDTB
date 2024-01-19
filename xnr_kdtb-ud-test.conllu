@@ -1091,7 +1091,7 @@
 3	सोहणुए	सोहणुए	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=sohaṇue|LTranslit=sohaṇue
 4	दे	दे	ADP	PSP	AdpType=Post	3	case	_	Translit=de|LTranslit=de
 5	हटी	हट	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	nmod	_	Translit=haṭī|LTranslit=haṭa
-6	औणे	औणे	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	Translit=auṇe|LTranslit=auṇe
+6	औणे	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	Translit=auṇe|LTranslit=au
 7	दी	दे	ADP	PSP	AdpType=Post	5	mark	_	Translit=dī|LTranslit=de
 8	मेद	मेद	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=meda|LTranslit=meda
 9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
