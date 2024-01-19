@@ -1346,7 +1346,7 @@
 # sent_id = 95
 # text = चल इक कहाणी सणांदी।
 # translit = cala ika kahāṇī saṇāṁdī.
-1	चल	चल	PRON	PRP	Number=Sing|Person=3|Voice=Act	4	dep	_	Translit=cala|LTranslit=cala
+1	चल	चल	PART	RP	_	4	dep	_	Translit=cala|LTranslit=cala
 2	इक	इक	NUM	QC	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nummod	_	Translit=ika|LTranslit=ika
 3	कहाणी	कहाणी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	obl	_	Translit=kahāṇī|LTranslit=kahāṇī
 4	सणांदी	सणांदी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=saṇāṁdī|LTranslit=saṇāṁdī
