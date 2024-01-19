@@ -1399,8 +1399,8 @@
 # translit = tusāṁ roza kitaṇe baje uṭhade hana?
 1	तुसां	तुसाँ	PRON	PRP	_	5	nsubj	_	Translit=tusāṁ|LTranslit=tusām̃
 2	रोज़	रोज	ADV	RB	_	5	advmod	_	Translit=roza|LTranslit=roja
-3	कितणे	कितणा	ADJ	JJ	PronType=Int	4	compound	_	Translit=kitaṇe|LTranslit=kitaṇā
-4	बजे	बजे	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	amod	_	Translit=baje|LTranslit=baje
+3	कितणे	कितणा	DET	QF	PronType=Int	4	det	_	Translit=kitaṇe|LTranslit=kitaṇā
+4	बजे	बजे	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	obl	_	Translit=baje|LTranslit=baje
 5	उठदे	उठ	VERB	VM	Aspect=Perf|Number=Plur|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=uṭhade|LTranslit=uṭha
 6	हन	हन	AUX	VAUX	_	5	aux	_	SpaceAfter=No|Translit=hana|LTranslit=hana
 7	?	?	PUNCT	SYM	_	5	punct	_	Translit=?|LTranslit=?
