@@ -2820,7 +2820,7 @@
 5	चुक्की	चुक्की	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	advcl	_	Translit=cukkī|LTranslit=cukkī
 6	के	का	ADP	NST	AdpType=Post	5	case	_	Translit=ke|LTranslit=kā
 7	लेई	लेई	VERB	VM	Case=Nom	8	compound	_	Translit=leī|LTranslit=leī
-8	औह्न	औह्न	AUX	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	SpaceAfter=No|Translit=auhna|LTranslit=auhna
+8	औह्न	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	SpaceAfter=No|Translit=auhna|LTranslit=au
 9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 215
