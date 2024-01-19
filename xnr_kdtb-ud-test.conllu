@@ -1424,7 +1424,7 @@
 3	दा	दा	ADP	PSP	AdpType=Post	2	case	_	Translit=dā|LTranslit=dā
 4	जवाब	जवाब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Translit=javāba|LTranslit=javāba
 5	देणा	देणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=deṇā|LTranslit=deṇā
-6	सौखा	सौख	ADJ	JJ	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=saukhā|LTranslit=saukha
+6	सौखा	सौख	ADJ	JJ	Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=saukhā|LTranslit=saukha
 7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -2319,7 +2319,7 @@
 # translit = kāṁgaṛe dā sabate matā nāṁ nagarakoṭa dhāme de rūpe vica hai.
 1	कांगड़े	कांगड़े	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=kāṁgaṛe|LTranslit=kāṁgaṛe
 2	दा	दा	ADP	PSP	AdpType=Post	1	case	_	Translit=dā|LTranslit=dā
-3	सबते	सब	ADJ	JJ	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	5	advmod	_	Translit=sabate|LTranslit=saba
+3	सबते	सब	ADJ	JJ	Gender=Masc|Number=Sing	5	advmod	_	Translit=sabate|LTranslit=saba
 4	मता	मता	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	amod	_	Translit=matā|LTranslit=matā
 5	नां	नां	ADJ	JJ	_	7	nsubj	_	Translit=nāṁ|LTranslit=nāṁ
 6	नगरकोट	नगरकोट	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=nagarakoṭa|LTranslit=nagarakoṭa
@@ -3605,7 +3605,7 @@
 1	तिन्नी	तिन्नी	DET	DEM	Case=Nom	3	det	_	Translit=tinnī|LTranslit=tinnī
 2	पखलें	पखल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	3	nmod	_	Translit=pakhaleṁ|LTranslit=pakhala
 3	माहणुएं	माहणु	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	Translit=māhaṇueṁ|LTranslit=māhaṇu
-4	बुढड़े	बुढड	ADJ	JJ	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	5	nmod	_	Translit=buḍhaṛe|LTranslit=buḍhaḍa
+4	बुढड़े	बुढड	ADJ	JJ	Gender=Masc|Number=Plur	5	nmod	_	Translit=buḍhaṛe|LTranslit=buḍhaḍa
 5	सौह्रे	सौह्रा	NOUN	NN	Gender=Masc|Number=Plur|Person=3	8	obl	_	Translit=sauhre|LTranslit=sauhrā
 6	जो	जो	ADP	PSP	AdpType=Post	5	case	_	Translit=jo|LTranslit=jo
 7	जवाब	जवाब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=javāba|LTranslit=javāba
