@@ -3361,7 +3361,7 @@
 4	-	-	PUNCT	SYM	_	3	punct	_	Translit=-|LTranslit=-
 5	नैह्स	नैह्स	ADJ	JJ	_	3	compound	_	Translit=naihsa|LTranslit=naihsa
 6	करी	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=karī|LTranslit=kara
-7	देया	देया	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	aux	_	Translit=deyā|LTranslit=deyā
+7	देया	दे	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	aux	_	Translit=deyā|LTranslit=de
 8	दे	दे	AUX	VAUX	_	6	aux	_	Translit=de|LTranslit=de
 9	हन	है	AUX	VAUX	_	6	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 10	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
