@@ -111,7 +111,7 @@
 # text = डॉक्टर बी रंगराजन कने डॉक्टर के पी शर्मा ग्राएं दे माहणू हन।
 # translit = ḍôkṭara bī raṁgarājana kane ḍôkṭara ke pī śarmā grāeṁ de māhaṇū hana.
 1	डॉक्टर	डॉक्टर	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	Translit=ḍôkṭara|LTranslit=ḍôkṭara
-2	बी	बी	PROPN	NNPC	_	3	compound	_	Translit=bī|LTranslit=bī
+2	बी	बी	PROPN	NNPC	Person=3	3	compound	_	Translit=bī|LTranslit=bī
 3	रंगराजन	रंगराजन	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Translit=raṁgarājana|LTranslit=raṁgarājana
 4	कने	कने	CCONJ	CC	_	8	cc	_	LTranslit=kane|Translit=kane
 5	डॉक्टर	डॉक्टर	NOUN	NNC	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=ḍôkṭara|LTranslit=ḍôkṭara
@@ -197,7 +197,7 @@
 # sent_id = 14
 # text = कराळी दे पत्तर भी घट्ट गिणतिया विच थे।
 # translit = karāḷī de pattara bhī ghaṭṭa giṇatiyā vica the.
-1	कराळी	कराळी	PROPN	NNP	Case=Nom	3	nmod	_	Translit=karāḷī|LTranslit=karāḷī
+1	कराळी	कराळी	PROPN	NNP	Case=Nom|Person=3	3	nmod	_	Translit=karāḷī|LTranslit=karāḷī
 2	दे	दे	ADP	PSP	AdpType=Post	1	case	_	Translit=de|LTranslit=de
 3	पत्तर	पत्तर	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	nsubj	_	Translit=pattara|LTranslit=pattara
 4	भी	भी	PART	RP	_	3	dep	_	Translit=bhī|LTranslit=bhī
@@ -1278,7 +1278,7 @@
 # sent_id = 89
 # text = मैं बिल्ली जो काली रोटी दित्ती।
 # translit = maiṁ billī jo kālī roṭī dittī.
-1	मैं	मैं	PROPN	NNP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
+1	मैं	मैं	PROPN	NNP	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
 2	बिल्ली	बिल्ली	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	iobj	_	Translit=billī|LTranslit=billī
 3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
 4	काली	काला	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Translit=kālī|LTranslit=kālā
@@ -1326,7 +1326,7 @@
 # text = रामें मोहने जो नीली किताब दित्ती।
 # translit = rāmeṁ mohane jo nīlī kitāba dittī.
 1	रामें	राम	PROPN	NNP	Case=Nom|Gender=Fem|Number=Plur|Person=3	6	nsubj	_	Translit=rāmeṁ|LTranslit=rāma
-2	मोहने	मोह	PROPN	NNP	Case=Acc|VerbForm=Inf	6	iobj	_	Translit=mohane|LTranslit=moha
+2	मोहने	मोह	PROPN	NNP	Case=Acc|Person=3	6	iobj	_	Translit=mohane|LTranslit=moha
 3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
 4	नीली	नीला	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	Translit=nīlī|LTranslit=nīlā
 5	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=kitāba|LTranslit=kitāba
