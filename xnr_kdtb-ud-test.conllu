@@ -1880,7 +1880,7 @@
 2	मुलखे	मुलखा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=mulakhe|LTranslit=mulakhā
 3	पर	पर	ADP	PSP	AdpType=Post	2	case	_	Translit=para|LTranslit=para
 4	हकूमत	हकूमत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	_	Translit=hakūmata|LTranslit=hakūmata
-5	कित्ती	कित्	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=kit
+5	कित्ती	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=kara
 6	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 140
@@ -1940,7 +1940,7 @@
 6	छैळ	छैळ	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=chaiḷa|LTranslit=chaiḷa
 7	खाणा	खाणा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=khāṇā|LTranslit=khāṇā
 8	त्यार	त्यार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=tyāra|LTranslit=tyāra
-9	कित्ता	कित्	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kit
+9	कित्ता	कर	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kara
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 145
