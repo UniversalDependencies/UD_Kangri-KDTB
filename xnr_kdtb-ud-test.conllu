@@ -2579,7 +2579,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=saiha|LTranslit=saiha
 2	तमाकुए	तमाकुए	NOUN	NN	Person=3	3	nmod	_	Translit=tamākue|LTranslit=tamākue
 3	पीन्दा	पीन्दा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pīndā|LTranslit=pīndā
-4	रेह्या	रेह्	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reh
+4	रेह्या	रेह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reha
 5	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 196
@@ -3027,7 +3027,7 @@
 5	के	का	ADP	PSP	AdpType=Post	4	case	_	Translit=ke|LTranslit=kā
 6	किच्छ	किच्छ	ADV	RB	_	7	amod	_	Translit=kiccha|LTranslit=kiccha
 7	सोचदा	सोचदा	VERB	VM	_	0	root	_	Translit=socadā|LTranslit=socadā
-8	रेह्या	रेह्	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reh
+8	रेह्या	रेह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reha
 9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 233
