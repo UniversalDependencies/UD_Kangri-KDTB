@@ -2536,7 +2536,7 @@
 # translit = tāṁhīṁ tāṁ nauiyāṁ pīṛhiyā dā isa kanāreṁ dhyāna hī nī jā dā hai.
 1	तांहीं	तांहीं	ADV	RB	_	8	advmod	_	Translit=tāṁhīṁ|LTranslit=tāṁhīṁ
 2	तां	ताँ	PART	RP	_	1	dep	_	Translit=tāṁ|LTranslit=tām̃
-3	नौइयां	नौई	ADJ	JJ	Number=Plur|NumType=Card	4	amod	_	Translit=nauiyāṁ|LTranslit=nauī
+3	नौइयां	नौई	ADJ	JJ	Number=Plur	4	amod	_	Translit=nauiyāṁ|LTranslit=nauī
 4	पीढ़िया	पीढ़िया	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	nmod	_	Translit=pīṛhiyā|LTranslit=pīṛhiyā
 5	दा	दा	ADP	PSP	AdpType=Post	4	case	_	Translit=dā|LTranslit=dā
 6	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	7	det	_	Translit=isa|LTranslit=yaha
