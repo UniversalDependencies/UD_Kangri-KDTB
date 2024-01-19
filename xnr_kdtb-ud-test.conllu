@@ -118,7 +118,7 @@
 6	के	के	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=ke|LTranslit=ke
 7	पी	पी	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=pī|LTranslit=pī
 8	शर्मा	शर्मा	PROPN	NNP	Case=Nom|Number=Sing|Person=3	3	conj	_	Translit=śarmā|LTranslit=śarmā
-9	ग्राएं	ग्रा	NOUN	NN	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	11	nmod	_	Translit=grāeṁ|LTranslit=grā
+9	ग्राएं	ग्रा	NOUN	NN	Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=grāeṁ|LTranslit=grā
 10	दे	दे	ADP	PSP	AdpType=Post	9	case	_	Translit=de|LTranslit=de
 11	माहणू	माहणू	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=māhaṇū|LTranslit=māhaṇū
 12	हन	हन	AUX	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	11	cop	_	SpaceAfter=No|Translit=hana|LTranslit=hana
@@ -678,7 +678,7 @@
 2	दे	दे	ADP	PSP	AdpType=Post	1	case	_	Translit=de|LTranslit=de
 3	अंगणे	अंगणे	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=aṁgaṇe|LTranslit=aṁgaṇe
 4	विच	विच	ADP	PSP	AdpType=Post	3	case	_	Translit=vica|LTranslit=vica
-5	मुन्नुए	मुन्न	NOUN	NN	Case=Acc|Number=Sing|VerbForm=Inf	7	nmod	_	Translit=munnue|LTranslit=munna
+5	मुन्नुए	मुन्न	NOUN	NN	Case=Acc|Number=Sing	7	nmod	_	Translit=munnue|LTranslit=munna
 6	दी	दे	ADP	PSP	AdpType=Post	5	case	_	Translit=dī|LTranslit=de
 7	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obj	_	Translit=kitāba|LTranslit=kitāba
 8	सुटी	सुट	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=suṭī|LTranslit=suṭa
@@ -1198,7 +1198,7 @@
 7	ज़ादा	जादा	DET	QF	_	8	det	_	Translit=zādā|LTranslit=jādā
 8	शिकायतां	शिकायतां	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	10	nsubj	_	Translit=śikāyatāṁ|LTranslit=śikāyatāṁ
 9	इह्नां	इह्नां	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	Translit=ihnāṁ|LTranslit=ihnāṁ
-10	लाक़ेयाँ	लाक़ी	NOUN	NN	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=lāqeyām̃|LTranslit=lāqī
+10	लाक़ेयाँ	लाक़ी	NOUN	NN	Mood=Sub|Number=Sing|Person=2|Voice=Act	0	root	_	Translit=lāqeyām̃|LTranslit=lāqī
 11	ते	ते	ADP	PSP	AdpType=Post	10	case	_	Translit=te|LTranslit=te
 12	थियां	थियाँ	AUX	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Translit=thiyāṁ|LTranslit=thiyām̃
 13	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
@@ -1554,7 +1554,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit=saiha|LTranslit=saiha
 2	ओढणां	ओढणां	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	obl	_	Translit=oḍhaṇāṁ|LTranslit=oḍhaṇāṁ
 3	सणे	सणे	ADP	NST	AdpType=Post	2	case	_	Translit=saṇe|LTranslit=saṇe
-4	पाणिए	पाणिए	NOUN	NN	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	obl	_	Translit=pāṇie|LTranslit=pāṇie
+4	पाणिए	पाणिए	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	Translit=pāṇie|LTranslit=pāṇie
 5	च	च	ADP	PSP	AdpType=Post	4	case	_	Translit=ca|LTranslit=ca
 6	कुद्दी	कुद्दी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kuddī|LTranslit=kuddī
 7	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	6	aux	_	SpaceAfter=No|Translit=geyā|LTranslit=ge
@@ -1997,7 +1997,7 @@
 # sent_id = 150
 # text = चिड़ी रुक्खे गास गोही गेई।
 # translit = ciṛī rukkhe gāsa gohī geī.
-1	चिड़ी	चिड़	NOUN	NN	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	nsubj	_	Translit=ciṛī|LTranslit=ciṛa
+1	चिड़ी	चिड़	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	Translit=ciṛī|LTranslit=ciṛa
 2	रुक्खे	रुक्खा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=rukkhe|LTranslit=rukkhā
 3	गास	गास	ADP	NST	AdpType=Post	2	case	_	Translit=gāsa|LTranslit=gāsa
 4	गोही	गोही	VERB	VM	Number=Sing|Voice=Act	0	root	_	Translit=gohī|LTranslit=gohī
@@ -2421,7 +2421,7 @@
 3	दूर	दूर	ADP	NST	AdpType=Post	1	compound	_	Translit=dūra|LTranslit=dūra
 4	-	-	PUNCT	SYM	_	1	punct	_	Translit=-|LTranslit=-
 5	दुरेडैं	दुरेडैं	ADP	NST	AdpType=Post	1	case	_	Translit=dureḍaiṁ|LTranslit=dureḍaiṁ
-6	ग्रां	ग्र	NOUN	NN	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	18	obl	_	Translit=grāṁ|LTranslit=gra
+6	ग्रां	ग्र	NOUN	NN	Mood=Sub|Number=Sing|Person=2|Voice=Act	18	obl	_	Translit=grāṁ|LTranslit=gra
 7	विच	विच	ADP	PSP	AdpType=Post	6	case	_	Translit=vica|LTranslit=vica
 8	हल्ली	हल्ली	ADV	RB	_	10	advmod	_	Translit=hallī|LTranslit=hallī
 9	भी	भी	PART	RP	_	10	dep	_	Translit=bhī|LTranslit=bhī
@@ -2686,7 +2686,7 @@
 # text = जज्ज बुड्ढे  दिया गल्ला सुणी के बड़ा खुश होया।
 # translit = jajja buḍḍhe  diyā gallā suṇī ke baṛā khuśa hoyā.
 1	जज्ज	जज्ज	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit=jajja|LTranslit=jajja
-2	बुड्ढे	बुड्ढा	NOUN	JJ	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	nmod	_	Translit=buḍḍhe|LTranslit=buḍḍhā
+2	बुड्ढे	बुड्ढा	NOUN	JJ	Gender=Masc|Number=Sing	4	nmod	_	Translit=buḍḍhe|LTranslit=buḍḍhā
 3	दिया	दे	ADP	PSP	AdpType=Post	2	case	_	Translit=diyā|LTranslit=de
 4	गल्ला	गल्ला	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	obj	_	Translit=gallā|LTranslit=gallā
 5	सुणी	सुणी	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	advcl	_	Translit=suṇī|LTranslit=suṇī
@@ -2815,7 +2815,7 @@
 # translit = tisajo tisade ghare vāḷe cukkī ke leī auhna.
 1	तिसजो	तिसजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=tisajo|LTranslit=tisajo
 2	तिसदे	तिसदा	ADV	RB	_	3	nmod	_	Translit=tisade|LTranslit=tisadā
-3	घरे	घर	NOUN	NN	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	Translit=ghare|LTranslit=ghara
+3	घरे	घर	NOUN	NN	Gender=Masc|Number=Sing	5	amod	_	Translit=ghare|LTranslit=ghara
 4	वाळे	वाळा	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	Translit=vāḷe|LTranslit=vāḷā
 5	चुक्की	चुक्की	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	advcl	_	Translit=cukkī|LTranslit=cukkī
 6	के	का	ADP	NST	AdpType=Post	5	case	_	Translit=ke|LTranslit=kā
@@ -3606,7 +3606,7 @@
 2	पखलें	पखल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	3	nmod	_	Translit=pakhaleṁ|LTranslit=pakhala
 3	माहणुएं	माहणु	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	Translit=māhaṇueṁ|LTranslit=māhaṇu
 4	बुढड़े	बुढड	ADJ	JJ	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	5	nmod	_	Translit=buḍhaṛe|LTranslit=buḍhaḍa
-5	सौह्रे	सौह्रा	NOUN	NN	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	8	obl	_	Translit=sauhre|LTranslit=sauhrā
+5	सौह्रे	सौह्रा	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	Translit=sauhre|LTranslit=sauhrā
 6	जो	जो	ADP	PSP	AdpType=Post	5	case	_	Translit=jo|LTranslit=jo
 7	जवाब	जवाब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=javāba|LTranslit=javāba
 8	दित्ता	दित्	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=dittā|LTranslit=dit
