@@ -504,7 +504,7 @@
 5	डोगरे	डोगरा	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=ḍogare|LTranslit=ḍogarā
 6	ते	ते	ADP	PSP	AdpType=Post	5	case	_	Translit=te|LTranslit=te
 7	लाह्दी	लाह्दी	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Translit=lāhdī|LTranslit=lāhdī
-8	रेह्या	रेह्या	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	Translit=rehyā|LTranslit=rehyā
+8	रेह्या	रेह	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	Translit=rehyā|LTranslit=reha
 9	करदी	कर	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=karadī|LTranslit=kara
 10	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 11	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
@@ -2398,7 +2398,7 @@
 3	बैह्ड़ुआं	बैह्डी	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	5	nmod	_	Translit=baihṛuāṁ|LTranslit=baihḍī
 4	दा	दा	ADP	PSP	AdpType=Post	3	case	_	Translit=dā|LTranslit=dā
 5	कम्म	कम्म	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl	_	Translit=kamma|LTranslit=kamma
-6	रेह्या	रेह्या	VERB	NNPC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=rehyā|LTranslit=rehyā
+6	रेह्या	रेह	VERB	NNPC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=rehyā|LTranslit=reha
 7	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	6	advmod	_	Translit=nī|LTranslit=nī
 8	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 9	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
@@ -2598,7 +2598,7 @@
 1	सैह	सैह	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit=saiha|LTranslit=saiha
 2	पाणी	पाणी	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	nmod	_	Translit=pāṇī|LTranslit=pāṇī
 3	पीन्दा	पीन्दा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pīndā|LTranslit=pīndā
-4	रेह्या	रेह्या	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=rehyā
+4	रेह्या	रेह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	SpaceAfter=No|Translit=rehyā|LTranslit=reha
 5	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 198
@@ -2708,7 +2708,7 @@
 7	,	,	PUNCT	SYM	_	5	punct	_	Translit=,|LTranslit=,
 8	तिञा	तिञा	ADV	RB	_	10	advmod	_	Translit=tiñā|LTranslit=tiñā
 9	ही	ही	PART	RP	_	8	dep	_	Translit=hī|LTranslit=hī
-10	रेह्या	रेह्या	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=rehyā|LTranslit=rehyā
+10	रेह्या	रेह	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=rehyā|LTranslit=reha
 11	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 206
