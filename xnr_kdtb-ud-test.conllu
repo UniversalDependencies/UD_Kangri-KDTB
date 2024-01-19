@@ -1253,11 +1253,11 @@
 2	जाहलू	जाहलू	ADV	RB	_	3	obl	_	Translit=jāhalū|LTranslit=jāhalū
 3	ताईं	ताईं	ADP	NST	AdpType=Post	5	case	_	Translit=tāīṁ|LTranslit=tāīṁ
 4	अपणी	अपणी	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	compound	_	Translit=apaṇī|LTranslit=apaṇī
-5	सेहत	सेहत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	_	Translit=sehata|LTranslit=sehata
+5	सेहत	सेहत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obl	_	Translit=sehata|LTranslit=sehata
 6	नी	नी	ADV	RB	_	5	dep	_	Translit=nī|LTranslit=nī
 7	गवाई	गवाई	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	Translit=gavāī|LTranslit=gavāī
-8	दिंदे	दिंदा	AUX	VAUX	Case=Acc|Gender=Masc|Number=Sing	9	aux	_	Translit=diṁde|LTranslit=diṁdā
-9	ताहलू	ताहलू	ADV	RB	_	16	obl	_	Translit=tāhalū|LTranslit=tāhalū
+8	दिंदे	दे	VERB	VAUX	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	Translit=diṁde|LTranslit=de
+9	ताहलू	ताहलू	ADV	RB	_	8	xcomp	_	Translit=tāhalū|LTranslit=tāhalū
 10	तक	तक	ADP	NST	AdpType=Post	9	case	_	Translit=taka|LTranslit=taka
 11	इसा	यह	NOUN	NN	Case=Nom|Number=Sing|Person=3	14	dep	_	Translit=isā|LTranslit=yaha
 12	दी	दे	ADP	PSP	AdpType=Post	11	case	_	Translit=dī|LTranslit=de

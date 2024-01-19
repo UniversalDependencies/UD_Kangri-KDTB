@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>288</sentences><tokens>2514</tokens><words>2514</words><fused>0</fused></test>
   </size>
-  <lemmas unique="964" /><!-- ।, है, दे, विच, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी, हो -->
+  <lemmas unique="962" /><!-- ।, है, दे, विच, जो, दा, यह, कर, था, सैह, ते, ही, ?, नी, हो -->
   <forms unique="1049" /><!-- ।, है, विच, दा, जो, हन, दी, नी, दे, सैह, ते, ही, ?, तुसां, भी -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">129</tag><!-- खरा, सारा, बड़ा, खुश, छैळ, नीला, पक्का, बड्डा, मता, अगला -->
     <tag name="ADP">313</tag><!-- दे, विच, जो, दा, ते, ने, का, पर, कना, च -->
     <tag name="ADV">93</tag><!-- नी, तित्थू, ने, हुण, कदी, काह्लू, जाह्लू, ना, रोज, अज्ज -->
-    <tag name="AUX">277</tag><!-- है, था, गे, जा, कर, रेह, सक, चाहिदा, जया, गेइयो -->
+    <tag name="AUX">276</tag><!-- है, था, गे, जा, कर, रेह, सक, चाहिदा, जया, गेइयो -->
     <tag name="CCONJ">27</tag><!-- कने, कनै, अपर, जे, तां, पर, कि, बल्कि, या -->
     <tag name="DET">58</tag><!-- यह, कोई, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह् -->
     <tag name="INTJ">3</tag><!-- ओ -->
@@ -29,14 +29,14 @@
     <tag name="PROPN">88</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, के, कैंहजे, तां, दा, यानिकि -->
-    <tag name="VERB">313</tag><!-- दे, हो, कर, जा, आ, चल, मिल, लग, हुन्दा, कित्ती -->
+    <tag name="VERB">314</tag><!-- दे, हो, कर, जा, आ, चल, मिल, लग, हुन्दा, कित्ती -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">
     <feat name="AdpType" value="Post" upos="ADP">312</feat><!-- विच, जो, दा, दी, ते, दे, ने, के, पर, कने -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">27</feat><!-- दित्ती, दित्ता, करदा, करदी, सकदा, कित्ता, जांदा, दित्ते, पीता, बोलेया -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">164</feat><!-- गेया, होई, करी, गेई, रेह्या, लगी, दा, दी, आई, आया -->
-    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">105</feat><!-- इस, इसा, अगले, अमेरिका, गलाई, पढ़ने, पाणिए, बचाणे, रखणे, वाळे -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">105</feat><!-- इस, इसा, अगले, अमेरिका, गलाई, पढ़ने, पाणिए, बचाणे, रखणे, वाळे -->
     <feat name="Case" value="Acc,Dat" upos="DET,PRON">3</feat><!-- इसा, इन्हां -->
     <feat name="Case" value="Acc,Gen" upos="PRON">11</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते -->
     <feat name="Case" value="Acc,Ins" upos="PRON">8</feat><!-- इसते, इसदे, तिसते -->
@@ -77,7 +77,7 @@
     <dep name="advcl">39</dep>
     <dep name="advmod">89</dep>
     <dep name="amod">93</dep>
-    <dep name="aux">146</dep>
+    <dep name="aux">145</dep>
     <dep name="aux:pass">51</dep>
     <dep name="case">299</dep>
     <dep name="cc">24</dep>
@@ -98,6 +98,6 @@
     <dep name="obl">160</dep>
     <dep name="punct">310</dep>
     <dep name="root">288</dep>
-    <dep name="xcomp">32</dep>
+    <dep name="xcomp">33</dep>
   </deps>
 </treebank>
