@@ -157,7 +157,7 @@
 4	तिह्नां	तिह्नां	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ
 5	मते	मते	DET	QF	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	det	_	Translit=mate|LTranslit=mate
 6	अम्ब	अम्ब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=amba|LTranslit=amba
-7	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	8	advmod	_	Translit=nī|LTranslit=nī
+7	नी	नी	PART	NEG	Polarity=Neg	8	advmod	_	Translit=nī|LTranslit=nī
 8	तोड़े	तोड	VERB	VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=toṛe|LTranslit=toḍa
 9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -646,7 +646,7 @@
 # text = पता नी मोआ तोपा भी करदा है कि चला गेया है घरे जो!
 # translit = patā nī moā topā bhī karadā hai ki calā geyā hai ghare jo!
 1	पता	पता	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	Translit=patā|LTranslit=patā
-2	नी	नी	PART	NEG	Case=Nom|Gender=Fem|Number=Sing	4	dep	_	Translit=nī|LTranslit=nī
+2	नी	नी	PART	NEG	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	4	dep	_	Translit=nī|LTranslit=nī
 3	मोआ	मोआ	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=moā|LTranslit=moā
 4	तोपा	तोपा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=topā|LTranslit=topā
 5	भी	भी	PART	RP	_	4	dep	_	Translit=bhī|LTranslit=bhī
@@ -864,7 +864,7 @@
 2	पहले	पहले	ADJ	JJ	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=pahale|LTranslit=pahale
 3	साहीं	साहीं	ADP	PSP	AdpType=Post	2	case	_	Translit=sāhīṁ|LTranslit=sāhīṁ
 4	स्थिति	स्थिति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=sthiti|LTranslit=sthiti
-5	नी	ना	PART	NEG	Gender=Fem|Number=Sing	4	advmod	_	Translit=nī|LTranslit=nā
+5	नी	ना	PART	NEG	Gender=Fem|Number=Sing|Polarity=Neg	4	advmod	_	Translit=nī|LTranslit=nā
 6	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 7	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -876,7 +876,7 @@
 3	दा	दा	ADP	PSP	AdpType=Post	2	case	_	Translit=dā|LTranslit=dā
 4	कोई	कोई	PART	RP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	dep	_	Translit=koī|LTranslit=koī
 5	मतलब	मतलब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=matalaba|LTranslit=matalaba
-6	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	5	advmod	_	Translit=nī|LTranslit=nī
+6	नी	नी	PART	NEG	Polarity=Neg	5	advmod	_	Translit=nī|LTranslit=nī
 7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -892,7 +892,7 @@
 7	जो	जो	ADP	PSP	AdpType=Post	6	case	_	Translit=jo|LTranslit=jo
 8	लोक	लोक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Translit=loka|LTranslit=loka
 9	महत्त्व	महत्त्व	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	Translit=mahattva|LTranslit=mahattva
-10	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	11	advmod	_	Translit=nī|LTranslit=nī
+10	नी	नी	PART	NEG	Polarity=Neg	11	advmod	_	Translit=nī|LTranslit=nī
 11	दिंदे	दिंद	VERB	VM	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=diṁde|LTranslit=diṁda
 12	।	।	PUNCT	SYM	_	11	punct	_	Translit=.|LTranslit=.
 
@@ -1079,7 +1079,7 @@
 3	सैह	सैह	PRON	PRP	NumType=Card	7	nsubj	_	Translit=saiha|LTranslit=saiha
 4	कुथी	कुथी	PRON	PRP	Case=Nom	5	obl	_	Translit=kuthī|LTranslit=kuthī
 5	घुम्मणा	घुम्मणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	advcl	_	Translit=ghummaṇā|LTranslit=ghummaṇā
-6	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	7	advmod	_	Translit=nī|LTranslit=nī
+6	नी	नी	PART	NEG	Polarity=Neg	7	advmod	_	Translit=nī|LTranslit=nī
 7	निकळी	निकळ	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=nikaḷī|LTranslit=nikaḷa
 8	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -1164,7 +1164,7 @@
 5	पंचायता	पंचायता	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	_	Translit=paṁcāyatā|LTranslit=paṁcāyatā
 6	विच	विच	ADP	PSP	AdpType=Post	5	case	_	Translit=vica|LTranslit=vica
 7	हाज़र	हाजर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	Translit=hāzara|LTranslit=hājara
-8	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	9	advmod	_	Translit=nī|LTranslit=nī
+8	नी	नी	PART	NEG	Polarity=Neg	9	advmod	_	Translit=nī|LTranslit=nī
 9	होआ	होआ	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=hoā|LTranslit=hoā
 10	करदा	कर	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Translit=karadā|LTranslit=kara
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
@@ -1739,7 +1739,7 @@
 2	जां	जाँ	ADV	RB	_	3	advmod	_	Translit=jāṁ|LTranslit=jām̃
 3	दिक्खा	दिक्खा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	advcl	_	Translit=dikkhā|LTranslit=dikkhā
 4	किछ	किछ	PRON	PSP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Translit=kicha|LTranslit=kicha
-5	न	न	PART	NEG	_	4	advmod	_	Translit=na|LTranslit=na
+5	न	न	PART	NEG	Polarity=Neg	4	advmod	_	Translit=na|LTranslit=na
 6	किछ	किछ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	conj	_	Translit=kicha|LTranslit=kicha
 7	पुठ्ठे	पुठ्ठा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	amod	_	Translit=puṭhṭhe|LTranslit=puṭhṭhā
 8	कम	कम	NOUN	NN	PronType=Ind	9	obj	_	Translit=kama|LTranslit=kama
@@ -1869,7 +1869,7 @@
 5	चीजा	चीजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	_	Translit=cījā|LTranslit=cījā
 6	दा	दा	ADP	PSP	AdpType=Post	5	case	_	Translit=dā|LTranslit=dā
 7	डर	डर	NOUN	NN	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	Translit=ḍara|LTranslit=ḍara
-8	नी	ने	PART	NEG	Polarity=Neg|PronType=Neg	7	advmod	_	Translit=nī|LTranslit=ne
+8	नी	ने	PART	NEG	Polarity=Neg	7	advmod	_	Translit=nī|LTranslit=ne
 9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 10	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2043,7 +2043,7 @@
 3	सत	सत	NUM	QC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nummod	_	Translit=sata|LTranslit=sata
 4	बजे	बजे	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=baje|LTranslit=baje
 5	पुज्जणा	पुज्जणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pujjaṇā|LTranslit=pujjaṇā
-6	मत	मत	PART	NEG	Polarity=Neg|PronType=Neg	5	advmod	_	Translit=mata|LTranslit=mata
+6	मत	मत	PART	NEG	Polarity=Neg	5	advmod	_	Translit=mata|LTranslit=mata
 7	भुलदे	भुलद	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	5	aux	_	SpaceAfter=No|Translit=bhulade|LTranslit=bhulada
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -2226,7 +2226,7 @@
 3	टब्बरे	टब्बरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	_	Translit=ṭabbare|LTranslit=ṭabbarā
 4	दा	दा	ADP	PSP	AdpType=Post	3	case	_	Translit=dā|LTranslit=dā
 5	पेट	पेट	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obj	_	Translit=peṭa|LTranslit=peṭa
-6	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	7	advmod	_	Translit=nī|LTranslit=nī
+6	नी	नी	PART	NEG	Polarity=Neg	7	advmod	_	Translit=nī|LTranslit=nī
 7	भरोया	भरो	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=bharoyā|LTranslit=bharo
 8	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -3453,7 +3453,7 @@
 3	एह	एह	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=eha|LTranslit=eha
 4	खरे	खरा	CCONJ	JJ	Case=Nom|Gender=Masc|Number=Plur	5	nmod	_	Translit=khare|LTranslit=kharā
 5	लच्छण	लच्छण	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=lacchaṇa|LTranslit=lacchaṇa
-6	नी	नी	PART	NEG	Polarity=Neg|PronType=Neg	5	advmod	_	Translit=nī|LTranslit=nī
+6	नी	नी	PART	NEG	Polarity=Neg	5	advmod	_	Translit=nī|LTranslit=nī
 7	हन्	हन	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No|Translit=han|LTranslit=hana
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
