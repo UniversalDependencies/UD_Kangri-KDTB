@@ -65,7 +65,7 @@
 # sent_id = 5
 # text = यानिकि दोयो माहणू रुक्खे दिया छांवां विच हन।
 # translit = yāniki doyo māhaṇū rukkhe diyā chāṁvāṁ vica hana.
-1	यानिकि	यानिकि	SCONJ	CC	_	6	mark	_	Translit=yāniki|LTranslit=yāniki
+1	यानिकि	यानिकि	SCONJ	CC	_	6	mark	_	LTranslit=yāniki|Translit=yāniki
 2	दोयो	दोयो	NUM	QC	NumType=Card	3	nummod	_	Translit=doyo|LTranslit=doyo
 3	माहणू	माहणू	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit=māhaṇū|LTranslit=māhaṇū
 4	रुक्खे	रुक्खा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	nmod	_	Translit=rukkhe|LTranslit=rukkhā
@@ -402,7 +402,7 @@
 # sent_id = 27
 # text = जे तुसां इंटरनेट बैंकिंग दा इस्तेमाल करदे हन , तां च्तन्न  होई जा।
 # translit = je tusāṁ iṁṭaraneṭa baiṁkiṁga dā istemāla karade hana , tāṁ ctanna  hoī jā.
-1	जे	जे	SCONJ	CC	_	7	mark	_	Translit=je|LTranslit=je
+1	जे	जे	SCONJ	CC	_	7	mark	_	LTranslit=je|Translit=je
 2	तुसां	तुसां	PRON	PRP	_	7	nsubj	_	Translit=tusāṁ|LTranslit=tusāṁ
 3	इंटरनेट	इंटरनेट	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	Translit=iṁṭaraneṭa|LTranslit=iṁṭaraneṭa
 4	बैंकिंग	बैंकिंग	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	_	Translit=baiṁkiṁga|LTranslit=baiṁkiṁga
@@ -515,7 +515,7 @@
 1	दस्सेया	दस्सेया	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=dasseyā|LTranslit=dasseyā
 2	गेया	गे	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	1	aux	_	Translit=geyā|LTranslit=ge
 3	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	Translit=hai|LTranslit=hai
-4	जे	जे	SCONJ	CC	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	mark	_	Translit=je|LTranslit=je
+4	जे	जे	SCONJ	CC	_	8	mark	_	LTranslit=je|Translit=je
 5	ग्रांएं	ग्रां	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	obl	_	Translit=grāṁeṁ|LTranslit=grāṁ
 6	विच	विच	ADP	PSP	AdpType=Post	5	case	_	Translit=vica|LTranslit=vica
 7	बरखा	बरखा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=barakhā|LTranslit=barakhā
@@ -1064,7 +1064,7 @@
 # translit = tihnāṁ glāyā je eha sarāsara beinsāfī hai.
 1	तिह्नां	तिह्नां	PRON	PRP	Case=Nom|PronType=Prs	2	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ
 2	ग्लाया	ग्लाया	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=glāyā|LTranslit=glāyā
-3	जे	जे	SCONJ	CC	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	mark	_	Translit=je|LTranslit=je
+3	जे	जे	SCONJ	CC	_	6	mark	_	LTranslit=je|Translit=je
 4	एह	एह	PRON	PRP	NumType=Card	6	nsubj	_	Translit=eha|LTranslit=eha
 5	सरासर	सरासर	ADV	RB	_	6	advmod	_	Translit=sarāsara|LTranslit=sarāsara
 6	बेइन्साफ़ी	बेइन्साफी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	obj	_	Translit=beinsāfī|LTranslit=beinsāphī
@@ -1189,7 +1189,7 @@
 # sent_id = 83
 # text = कैंहजे , चोरिया चकारिया दियां सबते ज़ादा शिकायतां इह्नां लाक़ेयाँ ते थियां।
 # translit = kaiṁhaje , coriyā cakāriyā diyāṁ sabate zādā śikāyatāṁ ihnāṁ lāqeyām̃ te thiyāṁ.
-1	कैंहजे	कैंहजे	SCONJ	CC	_	10	mark	_	Translit=kaiṁhaje|LTranslit=kaiṁhaje
+1	कैंहजे	कैंहजे	SCONJ	CC	_	10	mark	_	LTranslit=kaiṁhaje|Translit=kaiṁhaje
 2	,	,	PUNCT	SYM	_	10	punct	_	Translit=,|LTranslit=,
 3	चोरिया	चोरिया	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	compound	_	Translit=coriyā|LTranslit=coriyā
 4	चकारिया	चकारिया	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nmod	_	Translit=cakāriyā|LTranslit=cakāriyā
@@ -1579,7 +1579,7 @@
 1	एह	एह	NOUN	NN	NumType=Card	2	nsubj	_	Translit=eha|LTranslit=eha
 2	पक्का	पक्का	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pakkā|LTranslit=pakkā
 3	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=hai|LTranslit=hai
-4	जे	जे	SCONJ	CC	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	cc	_	Translit=je|LTranslit=je
+4	जे	जे	SCONJ	CC	_	7	cc	_	LTranslit=je|Translit=je
 5	तिस	तिस	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	Translit=tisa|LTranslit=tisa
 6	अमरीका	अमरीका	PROPN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	dep	_	Translit=amarīkā|LTranslit=amarīkā
 7	जाणा	जा	VERB	VM	Gender=Masc|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	2	ccomp	_	Translit=jāṇā|LTranslit=jā
@@ -1810,7 +1810,7 @@
 # translit = meharabānī karī ke hauḷeṁ bollā.
 1	मेहरबानी	मेहरबानी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	_	Translit=meharabānī|LTranslit=meharabānī
 2	करी	करी	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	advcl	_	Translit=karī|LTranslit=karī
-3	के	का	SCONJ	CC	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	2	mark	_	Translit=ke|LTranslit=kā
+3	के	के	SCONJ	CC	_	2	mark	_	LTranslit=ke|Translit=ke
 4	हौळें	हौळ	ADV	RB	_	5	advmod	_	Translit=hauḷeṁ|LTranslit=hauḷa
 5	बोल्ला	बोल्ल	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=bollā|LTranslit=bolla
 6	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
@@ -1843,7 +1843,7 @@
 2	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	Translit=mere|LTranslit=maiṁ
 3	जवान	जवान	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=javāna|LTranslit=javāna
 4	होणे	हो	VERB	VM	Case=Acc|VerbForm=Inf	6	advcl	_	Translit=hoṇe|LTranslit=ho
-5	दा	दा	SCONJ	CC	_	4	mark	_	Translit=dā|LTranslit=dā
+5	दा	दा	SCONJ	CC	_	4	mark	_	LTranslit=dā|Translit=dā
 6	फायदा	फायदा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obj	_	Translit=phāyadā|LTranslit=phāyadā
 7	लेया	ले	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=leyā|LTranslit=le
 8	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
@@ -2369,7 +2369,7 @@
 # sent_id = 181
 # text = जे देह्या ही रैहंगा तां औणे वाळे वेले बिच स्हाड़िया माँ बोलिया वास्तें एह इक्क डरौणा खतरा साबत हुणा।
 # translit = je dehyā hī raihaṁgā tāṁ auṇe vāḷe vele bica shāṛiyā mām̃ boliyā vāsteṁ eha ikka ḍarauṇā khatarā sābata huṇā.
-1	जे	जे	SCONJ	CC	_	19	mark	_	Translit=je|LTranslit=je
+1	जे	जे	SCONJ	CC	_	19	mark	_	LTranslit=je|Translit=je
 2	देह्या	देह्या	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod	_	Translit=dehyā|LTranslit=dehyā
 3	ही	ही	PART	RP	_	2	dep	_	Translit=hī|LTranslit=hī
 4	रैहंगा	रै	VERB	VM	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	advcl	_	Translit=raihaṁgā|LTranslit=rai
@@ -3338,7 +3338,7 @@
 # translit = jarā samhḷī ke calaṇā.
 1	जरा	जरा	ADJ	JJ	PronType=Ind	4	amod	_	Translit=jarā|LTranslit=jarā
 2	सम्ह्ळी	सम्ह्ळी	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	advcl	_	Translit=samhḷī|LTranslit=samhḷī
-3	के	का	SCONJ	CC	AdpType=Post|Case=Acc	4	mark	_	Translit=ke|LTranslit=kā
+3	के	के	SCONJ	CC	_	4	mark	_	LTranslit=ke|Translit=ke
 4	चलणा	चल	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=calaṇā|LTranslit=cala
 5	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -3492,7 +3492,7 @@
 2	बणी	बणी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=baṇī|LTranslit=baṇī
 3	गेइयो	गेइयो	AUX	VAUX	_	2	aux	_	Translit=geiyo|LTranslit=geiyo
 4	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Translit=hai|LTranslit=hai
-5	तां	ताँ	SCONJ	CC	_	6	mark	_	Translit=tāṁ|LTranslit=tām̃
+5	तां	तां	SCONJ	CC	_	6	mark	_	LTranslit=tāṁ|Translit=tāṁ
 6	लेई	लेई	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=leī|LTranslit=leī
 7	ओआ	ओआ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	SpaceAfter=No|Translit=oā|LTranslit=oā
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
