@@ -2207,10 +2207,10 @@
 # sent_id = 169
 # text = इसा ही भ्यागा मेरे बापू इंगलैण्ड जो निकळी गै।
 # translit = isā hī bhyāgā mere bāpū iṁgalaiṇḍa jo nikaḷī gai.
-1	इसा	यह	PART	RP	PronType=Dem	3	compound	_	Translit=isā|LTranslit=yaha
+1	इसा	यह	PRON	DEM	PronType=Dem	3	compound	_	Translit=isā|LTranslit=yaha
 2	ही	ही	PART	RP	_	3	dep	_	Translit=hī|LTranslit=hī
 3	भ्यागा	भ्यागा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=bhyāgā|LTranslit=bhyāgā
-4	मेरे	मैं	ADJ	JJ	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	Translit=mere|LTranslit=maiṁ
+4	मेरे	मैं	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	Translit=mere|LTranslit=maiṁ
 5	बापू	बापू	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=bāpū|LTranslit=bāpū
 6	इंगलैण्ड	इंगलैण्ड	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=iṁgalaiṇḍa|LTranslit=iṁgalaiṇḍa
 7	जो	जो	ADP	PSP	AdpType=Post	6	case	_	Translit=jo|LTranslit=jo
@@ -2246,7 +2246,7 @@
 # sent_id = 172
 # text = मेळे विच सैह भतोरड़ होई जांदा है।
 # translit = meḷe vica saiha bhatoraṛa hoī jāṁdā hai.
-1	मेळे	मैं	NOUN	NN	Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	obl	_	Translit=meḷe|LTranslit=maiṁ
+1	मेळे	मैं	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obl	_	Translit=meḷe|LTranslit=maiṁ
 2	विच	विच	ADP	PSP	AdpType=Post	1	case	_	Translit=vica|LTranslit=vica
 3	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	Translit=saiha|LTranslit=saiha
 4	भतोरड़	भतोरड	NOUN	NN	Person=3	5	xcomp	_	Translit=bhatoraṛa|LTranslit=bhatoraḍa
