@@ -292,7 +292,7 @@
 1	धन्नुए	धन्नुए	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nmod	_	Translit=dhannue|LTranslit=dhannue
 2	दी	दे	ADP	PSP	AdpType=Post	1	case	_	Translit=dī|LTranslit=de
 3	एह	एह	PRON	PRP	NumType=Card	6	nsubj	_	Translit=eha|LTranslit=eha
-4	दूई	दूई	ADJ	QO	NumType=Card	6	amod	_	Translit=dūī|LTranslit=dūī
+4	दूई	दूई	ADJ	QO	NumType=Ord	6	amod	_	Translit=dūī|LTranslit=dūī
 5	बड्डी	बड्डा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	6	compound	_	Translit=baḍḍī|LTranslit=baḍḍā
 6	कमाई	कमाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kamāī|LTranslit=kamāī
 7	थी	था	AUX	VM	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No|Translit=thī|LTranslit=thā
