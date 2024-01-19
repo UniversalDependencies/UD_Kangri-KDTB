@@ -365,7 +365,7 @@
 11	तिसा	तिसा	PRON	PRP	NumType=Card	13	obl	_	Translit=tisā|LTranslit=tisā
 12	परा	परा	ADP	PSP	AdpType=Post	11	case	_	Translit=parā|LTranslit=parā
 13	मुकरी	मुकरी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	conj	_	Translit=mukarī|LTranslit=mukarī
-14	जांदे	जांदा	AUX	VAUX	_	13	aux	_	Translit=jāṁde|LTranslit=jāṁdā
+14	जांदे	जा	AUX	VAUX	_	13	aux	_	Translit=jāṁde|LTranslit=jā
 15	हन	है	AUX	VAUX	Voice=Act	13	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 16	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -2251,7 +2251,7 @@
 3	सैह	सैह	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	Translit=saiha|LTranslit=saiha
 4	भतोरड़	भतोरड	NOUN	NN	Person=3	5	xcomp	_	Translit=bhatoraṛa|LTranslit=bhatoraḍa
 5	होई	हो	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=hoī|LTranslit=ho
-6	जांदा	जांदा	AUX	VAUX	_	5	aux	_	Translit=jāṁdā|LTranslit=jāṁdā
+6	जांदा	जा	AUX	VAUX	_	5	aux	_	Translit=jāṁdā|LTranslit=jā
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
