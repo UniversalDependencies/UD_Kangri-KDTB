@@ -3043,7 +3043,7 @@
 # sent_id = 234
 # text = ओ भाऊ ! कुतांह जा दे हन?
 # translit = o bhāū ! kutāṁha jā de hana?
-1	ओ	ओ	INTJ	INJ	Case=Nom	2	discourse	_	Translit=o|LTranslit=o
+1	ओ	ओ	INTJ	INJ	_	2	discourse	_	Translit=o|LTranslit=o
 2	भाऊ	भाऊ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=bhāū|LTranslit=bhāū
 3	!	!	PUNCT	SYM	_	2	punct	_	Translit=!|LTranslit=!
 4	कुतांह	कुतांह	ADV	RB	_	5	advmod	_	Translit=kutāṁha|LTranslit=kutāṁha
@@ -3582,7 +3582,7 @@
 # sent_id = 282
 # text = ओ भाऊ ! जरा एम्बुलेन्सा सद्दी देया।
 # translit = o bhāū ! jarā embulensā saddī deyā.
-1	ओ	ओ	INTJ	INJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	discourse	_	Translit=o|LTranslit=o
+1	ओ	ओ	INTJ	INJ	_	2	discourse	_	Translit=o|LTranslit=o
 2	भाऊ	भाऊ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=bhāū|LTranslit=bhāū
 3	!	!	PUNCT	SYM	_	2	punct	_	Translit=!|LTranslit=!
 4	जरा	जरा	ADJ	JJ	_	6	amod	_	Translit=jarā|LTranslit=jarā

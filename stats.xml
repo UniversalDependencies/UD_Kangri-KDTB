@@ -40,20 +40,20 @@
     <feat name="Case" value="Acc,Dat" upos="DET,PRON">3</feat><!-- इसा, इन्हां -->
     <feat name="Case" value="Acc,Gen" upos="PRON">11</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते -->
     <feat name="Case" value="Acc,Ins" upos="PRON">8</feat><!-- इसते, इसदे, तिसते -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">918</feat><!-- सैह, मैं, मिंजो, कोई, इक्क, एह, तिन्नी, तुसां, असां, तिह्नां -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,AUX,CCONJ,DET,NOUN,NUM,PRON,PROPN,VERB">916</feat><!-- सैह, मैं, मिंजो, कोई, इक्क, एह, तिन्नी, तुसां, असां, तिह्नां -->
     <feat name="Echo" value="Rdp" upos="ADJ,NOUN">3</feat><!-- खरे, दर, मने -->
     <feat name="Foreign" value="Yes" upos="ADJ">1</feat><!-- पास -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">447</feat><!-- सैह, होई, करी, थी, गेई, दित्ती, लोकां, करदी, लगी, अम्मा -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,CCONJ,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">728</feat><!-- गेया, था, मिंजो, सैह, इक्क, एह, करदा, घरे, थे, दित्ता -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,AUX,CCONJ,DET,NOUN,NUM,PRON,PROPN,VERB">727</feat><!-- गेया, था, मिंजो, सैह, इक्क, एह, करदा, घरे, थे, दित्ता -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">157</feat><!-- है, था, हन, थी, थे, लग्गा, लैह्ंगी, हैं, करगे, खांहगे -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">16</feat><!-- सकदे, औणे, कढदे, करदे, चलणा, जाएं, तोड़े, थियां, दिंदे, दियां -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,CCONJ,DET,NOUN,PRON,PROPN,VERB">176</feat><!-- लोकां, थे, कमरे, सारे, खरे, ग्रांएं, तिह्नां, रूपेइये, हन, हुन्दे -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">1230</feat><!-- है, सैह, गेया, था, मैं, होई, इस, मिंजो, हन, करी -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1229</feat><!-- है, सैह, गेया, था, मैं, होई, इस, मिंजो, हन, करी -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">31</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
     <feat name="NumType" value="Ord" upos="ADJ">3</feat><!-- पहला, दूई -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">22</feat><!-- मैं, मेरा, मेरी, मेरे, खांहगे, जांदा -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">15</feat><!-- आप, औणे, करदे, करा, चलणा, जाई, जाएं, थियां, दियां, दुआएं -->
-    <feat name="Person" value="3" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PRON,PROPN,VERB">1168</feat><!-- है, सैह, हन, इस, मिंजो, कोई, इक्क, इसा, एह, गल्ल -->
+    <feat name="Person" value="3" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1167</feat><!-- है, सैह, हन, इस, मिंजो, कोई, इक्क, इसा, एह, गल्ल -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">24</feat><!-- नी, न, मत -->
     <feat name="Polite" value="Form" upos="AUX,PRON,VERB">32</feat><!-- हन, करदे, लैह्ंगी, आप, औणे, करगे, करा, गए, चलणा, जाई -->
     <feat name="Poss" value="Yes" upos="PRON">11</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते -->
