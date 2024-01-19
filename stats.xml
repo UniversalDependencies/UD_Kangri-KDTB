@@ -20,12 +20,12 @@
     <tag name="ADV">92</tag><!-- नी, तित्थू, ने, हुण, कदी, जाह्लू, ना, रोज, अज्ज, कजो -->
     <tag name="AUX">305</tag><!-- है, हन, था, गे, जा, दे, कर, दित्, जया, सक -->
     <tag name="CCONJ">28</tag><!-- कने, कनै, अपर, जे, तां, पर, कि, खरा, बल्कि, या -->
-    <tag name="DET">49</tag><!-- यह, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह्, कुल -->
+    <tag name="DET">57</tag><!-- यह, कोई, एह, इह्नां, घट्ट, हर, इक्को, इतणा, इत्थू, एह् -->
     <tag name="INTJ">3</tag><!-- ओ -->
     <tag name="NOUN">553</tag><!-- लोक, गल्ल, जरूरत, घरा, अम्मा, कमरा, ग्रां, घर, फायदा, बरखा -->
     <tag name="NUM">41</tag><!-- इक्क, दो, दोयो, 8, इक, चौंह, 15, 19, 25, 250 -->
-    <tag name="PART">95</tag><!-- ही, भी, क्या, ताँ, नी, कोई, लगभग, ऊञा, कदेया, कैस -->
-    <tag name="PRON">208</tag><!-- सैह, मैं, यह, तिह्नां, तुसाँ, मिंजो, तुसां, असां, तिन्नी, तिसा -->
+    <tag name="PART">91</tag><!-- ही, भी, क्या, ताँ, नी, लगभग, ऊञा, कदेया, कैस, कैह्जो -->
+    <tag name="PRON">204</tag><!-- सैह, मैं, यह, तिह्नां, तुसाँ, मिंजो, तुसां, असां, तिन्नी, तिसा -->
     <tag name="PROPN">89</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, का, कैंहजे, ताँ, दा, यानिकि -->
@@ -61,7 +61,7 @@
     <feat name="PronType" value="Ind" upos="ADJ,DET,NOUN">5</feat><!-- हर, कम, कुल, जरा -->
     <feat name="PronType" value="Int" upos="ADJ,ADV,PART,PRON">25</feat><!-- क्या, तुसां, कजो, कैस, कदी, कदेया, कितणे, कुसी, कैंह् -->
     <feat name="PronType" value="Neg" upos="ADV">12</feat><!-- नी -->
-    <feat name="PronType" value="Prs" upos="ADJ,DET,NOUN,PART,PRON,PROPN,SCONJ">78</feat><!-- मैं, कोई, इसते, तुसां, असां, इसदे, इसा, अपणे, इस, इसदी -->
+    <feat name="PronType" value="Prs" upos="ADJ,DET,NOUN,PRON,PROPN,SCONJ">78</feat><!-- मैं, कोई, इसते, तुसां, असां, इसदे, इसा, अपणे, इस, इसदी -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">16</feat><!-- लग्गा, लैह्ंगी, करगे, खांहगे, चुणेया, पहनेया, भुलगा, रैहंगा, लग्गी, लैंह्गा -->
     <feat name="Tense" value="Past" upos="AUX,VERB">29</feat><!-- था, थी, थे, हन -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">112</feat><!-- है, हन, हैं, गै -->
@@ -85,12 +85,12 @@
     <dep name="compound">158</dep>
     <dep name="conj">24</dep>
     <dep name="cop">66</dep>
-    <dep name="dep">93</dep>
-    <dep name="det">46</dep>
+    <dep name="dep">86</dep>
+    <dep name="det">54</dep>
     <dep name="discourse">3</dep>
     <dep name="iobj">9</dep>
     <dep name="mark">30</dep>
-    <dep name="nmod">211</dep>
+    <dep name="nmod">210</dep>
     <dep name="nsubj">221</dep>
     <dep name="nummod">31</dep>
     <dep name="obj">88</dep>
