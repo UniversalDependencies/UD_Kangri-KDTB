@@ -1053,7 +1053,7 @@
 3	दी	दे	ADP	PSP	AdpType=Post	2	case	_	Translit=dī|LTranslit=de
 4	पकड़	पकड	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=pakaṛa|LTranslit=pakaḍa
 5	कमज़ोर	कमजोर	ADJ	JJ	Case=Nom	6	compound	_	Translit=kamazora|LTranslit=kamajora
-6	हुन्दी	हुन्दीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=hundī|LTranslit=hundīṇā
+6	हुन्दी	होणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=hundī|LTranslit=hoṇā
 7	जा	जाणा	AUX	VAUX	_	6	aux	_	Translit=jā|LTranslit=jāṇā
 8	करदी	करणा	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	6	aux:pass	_	Translit=karadī|LTranslit=karaṇā
 9	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
@@ -1452,7 +1452,7 @@
 3	दी	दे	ADP	PSP	AdpType=Post	2	case	_	Translit=dī|LTranslit=de
 4	सोच	सोच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=soca|LTranslit=soca
 5	लग्ग	लग्ग	ADJ	JJ	_	6	obl	_	Translit=lagga|LTranslit=lagga
-6	हुन्दी	हुन्दीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=hundī|LTranslit=hundīṇā
+6	हुन्दी	होणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=hundī|LTranslit=hoṇā
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -3427,7 +3427,7 @@
 3	तां	तां	CCONJ	CC	_	6	compound	_	Translit=tāṁ|LTranslit=tāṁ
 4	बे	बे	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	dep	_	Translit=be|LTranslit=be
 5	मौसमी	मौसमी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	compound	_	Translit=mausamī|LTranslit=mausamī
-6	हुन्दी	हुन्दीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	xcomp	_	Translit=hundī|LTranslit=hundīṇā
+6	हुन्दी	होणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	xcomp	_	Translit=hundī|LTranslit=hoṇā
 7	जा	जाणा	AUX	VAUX	Gender=Fem|Number=Sing|Person=3|Voice=Act	8	aux	_	Translit=jā|LTranslit=jāṇā
 8	दी	देणा	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=dī|LTranslit=deṇā
 9	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai

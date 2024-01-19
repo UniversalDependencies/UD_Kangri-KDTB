@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>288</sentences><tokens>2514</tokens><words>2514</words><fused>0</fused></test>
   </size>
-  <lemmas unique="943" /><!-- ।, है, दे, जाणा, विच, जो, करणा, दा, देणा, होणा, यह, था, सैह, ते, ही -->
+  <lemmas unique="942" /><!-- ।, है, दे, जाणा, विच, जो, करणा, दा, होणा, देणा, यह, था, सैह, ते, ही -->
   <forms unique="1049" /><!-- ।, है, विच, दा, जो, हन, दी, नी, दे, सैह, ते, ही, ?, तुसां, भी -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">88</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, के, कैंहजे, तां, दा, यानिकि -->
-    <tag name="VERB">342</tag><!-- देणा, होणा, करणा, लगणा, औणा, जाणा, आणा, लैणा, चलणा, मिलणा -->
+    <tag name="VERB">342</tag><!-- होणा, देणा, करणा, लगणा, औणा, जाणा, आणा, लैणा, चलणा, मिलणा -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">
