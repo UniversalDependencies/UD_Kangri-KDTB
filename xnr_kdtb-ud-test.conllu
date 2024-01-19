@@ -1926,7 +1926,7 @@
 4	तुसां	तुसां	PRON	PRP	PronType=Int	6	nsubj	_	Translit=tusāṁ|LTranslit=tusāṁ
 5	क्या	क्या	PART	RP	PronType=Int	6	dep	_	Translit=kyā|LTranslit=kyā
 6	अर्थ	अर्थ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=artha|LTranslit=artha
-7	कढदे	कढ	AUX	VAUX	Mood=Sub|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kaḍhade|LTranslit=kaḍha
+7	कढदे	कर	AUX	VAUX	Mood=Sub|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=kaḍhade|LTranslit=kara
 8	?	?	PUNCT	SYM	_	6	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 144
