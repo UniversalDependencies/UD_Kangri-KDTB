@@ -490,7 +490,7 @@
 3	फिरी	फिर	ADV	RB	_	6	advmod	_	Translit=phirī|LTranslit=phira
 4	तिन्नी	तिन्नी	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=tinnī|LTranslit=tinnī
 5	गल्ल	गल्ल	NOUN	NN	Case=Nom|Person=3	6	compound	_	Translit=galla|LTranslit=galla
-6	कित्तियो	कित्तियोणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittiyo|LTranslit=kittiyoṇā
+6	कित्तियो	करणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittiyo|LTranslit=karaṇā
 7	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=thī|LTranslit=thā
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
