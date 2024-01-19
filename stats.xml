@@ -51,9 +51,9 @@
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1234</feat><!-- है, सैह, गेया, था, मैं, होई, इस, मिंजो, हन, इसा -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NOUN,NUM,PRON">33</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
     <feat name="NumType" value="Ord" upos="ADJ">3</feat><!-- पहला, दूई -->
-    <feat name="Person" value="1" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">23</feat><!-- मैं, मेरा, मेरी, मेरे, खांहगे, जांदा, मेळे -->
-    <feat name="Person" value="2" upos="AUX,NOUN,PRON,VERB">17</feat><!-- आप, औणे, करदे, करा, ग्रां, चलणा, जाई, जाएं, थियां, दियां -->
-    <feat name="Person" value="3" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1084</feat><!-- है, सैह, हन, इस, मिंजो, इसा, कोई, इक्क, एह, इसते -->
+    <feat name="Person" value="1" upos="ADJ,AUX,PRON,PROPN,VERB">22</feat><!-- मैं, मेरा, मेरी, मेरे, खांहगे, जांदा -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">15</feat><!-- आप, औणे, करदे, करा, चलणा, जाई, जाएं, थियां, दियां, दुआएं -->
+    <feat name="Person" value="3" upos="ADJ,ADP,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1168</feat><!-- है, सैह, हन, इस, मिंजो, इसा, कोई, इक्क, एह, गल्ल -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">24</feat><!-- नी, न, मत -->
     <feat name="Polite" value="Form" upos="AUX,PRON,VERB">32</feat><!-- हन, करदे, लैह्ंगी, आप, औणे, करगे, करा, गए, चलणा, जाई -->
     <feat name="Poss" value="Yes" upos="ADJ,NOUN,PRON">12</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते, मेळे -->
@@ -69,7 +69,7 @@
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">173</feat><!-- है, था, हन, थी, थे, लग्गा, लैह्ंगी, सकदे, हैं, औणे -->
     <feat name="VerbForm" value="Inf" upos="AUX,PROPN,VERB">28</feat><!-- करना, जाणा, पढ़ने, बचाणे, रखणे, होणे, करदे, करनी, करने, खुआणे -->
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,PRON,VERB">195</feat><!-- गेया, होई, करी, गेई, दित्ती, करदा, करदी, दित्ता, रेह्या, लगी -->
-    <feat name="Voice" value="Act" upos="ADJ,AUX,NOUN,PRON,VERB">281</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,PRON,VERB">278</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
     <feat name="Voice" value="Pass" upos="VERB">3</feat><!-- चला, छड्डेया, होई -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
