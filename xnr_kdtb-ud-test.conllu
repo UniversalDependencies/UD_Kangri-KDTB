@@ -520,7 +520,7 @@
 6	विच	विच	ADP	PSP	AdpType=Post	5	case	_	Translit=vica|LTranslit=vica
 7	बरखा	बरखा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=barakhā|LTranslit=barakhā
 8	लगी	लग	VERB	VM	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|VerbForm=Part|Voice=Act	1	obj	_	Translit=lagī|LTranslit=laga
-9	पेइयो	पेइ	AUX	VAUX	_	8	aux	_	Translit=peiyo|LTranslit=pei
+9	पेइयो	पे	AUX	VAUX	_	8	aux	_	Translit=peiyo|LTranslit=pe
 10	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 11	।	।	PUNCT	SYM	_	1	punct	_	Translit=.|LTranslit=.
 
