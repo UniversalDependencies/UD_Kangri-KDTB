@@ -3269,7 +3269,7 @@
 # text = तूं काह्लू उठदा है?
 # translit = tūṁ kāhlū uṭhadā hai?
 1	तूं	तूं	PRON	PRP	_	3	nsubj	_	Translit=tūṁ|LTranslit=tūṁ
-2	काह्लू	काह्लू	ADP	RB	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	amod	_	Translit=kāhlū|LTranslit=kāhlū
+2	काह्लू	काह्लू	ADV	RB	PronType=Int	3	advmod	_	Translit=kāhlū|LTranslit=kāhlū
 3	उठदा	उठ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=uṭhadā|LTranslit=uṭha
 4	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 5	?	?	PUNCT	SYM	_	3	punct	_	Translit=?|LTranslit=?
@@ -3451,7 +3451,7 @@
 1	मितरा	मितरा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	_	Translit=mitarā|LTranslit=mitarā
 2	!	!	PUNCT	SYM	_	5	punct	_	Translit=!|LTranslit=!
 3	एह	एह	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=eha|LTranslit=eha
-4	खरे	खरा	CCONJ	JJ	Case=Nom|Gender=Masc|Number=Plur	5	nmod	_	Translit=khare|LTranslit=kharā
+4	खरे	खरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	Translit=khare|LTranslit=kharā
 5	लच्छण	लच्छण	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=lacchaṇa|LTranslit=lacchaṇa
 6	नी	नी	PART	NEG	Polarity=Neg	5	advmod	_	Translit=nī|LTranslit=nī
 7	हन्	हन	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No|Translit=han|LTranslit=hana
