@@ -744,7 +744,7 @@
 10	दी	दे	ADP	PSP	AdpType=Post	9	case	_	Translit=dī|LTranslit=de
 11	स्थापना	स्थापना	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=sthāpanā|LTranslit=sthāpanā
 12	कित्ती	कित्ती	VERB	VM	_	0	root	_	Translit=kittī|LTranslit=kittī
-13	गेइयो	गेइयो	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	Translit=geiyo|LTranslit=geiyo
+13	गेइयो	जा	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	Translit=geiyo|LTranslit=jā
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 15	।	।	PUNCT	SYM	_	12	punct	_	Translit=.|LTranslit=.
 
@@ -954,7 +954,7 @@
 7	मददा	मददा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	case	_	Translit=madadā|LTranslit=madadā
 8	कने	कना	ADP	PSP	AdpType=Post	5	case	_	Translit=kane|LTranslit=kanā
 9	कित्ती	कित्ती	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittī|LTranslit=kittī
-10	गेइयो	गेइयो	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	9	aux	_	Translit=geiyo|LTranslit=geiyo
+10	गेइयो	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	9	aux	_	Translit=geiyo|LTranslit=jā
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -3490,7 +3490,7 @@
 # translit = cāh baṇī geiyo hai tāṁ leī oā.
 1	चाह्	चाह्	NOUN	NN	Person=3	2	nsubj	_	Translit=cāh|LTranslit=cāh
 2	बणी	बणी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=baṇī|LTranslit=baṇī
-3	गेइयो	गेइयो	AUX	VAUX	_	2	aux	_	Translit=geiyo|LTranslit=geiyo
+3	गेइयो	जा	AUX	VAUX	_	2	aux	_	Translit=geiyo|LTranslit=jā
 4	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Translit=hai|LTranslit=hai
 5	तां	तां	SCONJ	CC	_	6	mark	_	Translit=tāṁ|LTranslit=tāṁ
 6	लेई	लेई	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=leī|LTranslit=leī
