@@ -58,10 +58,10 @@
     <feat name="Polite" value="Form" upos="AUX,PRON,VERB">32</feat><!-- हन, करदे, लैह्ंगी, आप, औणे, करगे, करा, गए, चलणा, जाई -->
     <feat name="Poss" value="Yes" upos="PRON">11</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते -->
     <feat name="PronType" value="Dem" upos="DET,PRON">18</feat><!-- इस, इसा, तिस, इन्हां -->
-    <feat name="PronType" value="Ind" upos="ADJ,DET">4</feat><!-- हर, कुल, जरा -->
+    <feat name="PronType" value="Ind" upos="DET">3</feat><!-- हर, कुल -->
     <feat name="PronType" value="Int" upos="ADV,DET,PART,PRON">25</feat><!-- क्या, तुसां, कजो, कैस, कदी, कदेया, कितणे, कुसी, कैंह् -->
     <feat name="PronType" value="Neg" upos="ADV">12</feat><!-- नी -->
-    <feat name="PronType" value="Prs" upos="ADJ,DET,PRON">70</feat><!-- मैं, कोई, इसते, तुसां, असां, इसदे, अपणे, इसा, इस, इसदी -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">69</feat><!-- मैं, कोई, इसते, तुसां, असां, इसदे, अपणे, इसा, इस, इसदी -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">16</feat><!-- लग्गा, लैह्ंगी, करगे, खांहगे, चुणेया, पहनेया, भुलगा, रैहंगा, लग्गी, लैंह्गा -->
     <feat name="Tense" value="Past" upos="AUX,VERB">29</feat><!-- था, थी, थे, हन -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">112</feat><!-- है, हन, हैं, गै -->

@@ -3087,7 +3087,7 @@
 # translit = tisa jo apaṇeṁ āppe para gussā āyā.
 1	तिस	तिस	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	Translit=tisa|LTranslit=tisa
 2	जो	जो	ADP	PSP	AdpType=Post	1	case	_	Translit=jo|LTranslit=jo
-3	अपणें	अपण	ADJ	JJ	Case=Nom|PronType=Prs	4	compound	_	Translit=apaṇeṁ|LTranslit=apaṇa
+3	अपणें	अपण	ADJ	JJ	Case=Nom	4	compound	_	Translit=apaṇeṁ|LTranslit=apaṇa
 4	आप्पे	आप्पा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=āppe|LTranslit=āppā
 5	पर	पर	ADP	PSP	AdpType=Post	4	case	_	Translit=para|LTranslit=para
 6	गुस्सा	गुस्सा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	Translit=gussā|LTranslit=gussā
@@ -3336,7 +3336,7 @@
 # sent_id = 260
 # text = जरा सम्ह्ळी के चलणा।
 # translit = jarā samhḷī ke calaṇā.
-1	जरा	जरा	ADJ	JJ	PronType=Ind	4	amod	_	Translit=jarā|LTranslit=jarā
+1	जरा	जरा	ADJ	JJ	_	4	amod	_	Translit=jarā|LTranslit=jarā
 2	सम्ह्ळी	सम्ह्ळी	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	advcl	_	Translit=samhḷī|LTranslit=samhḷī
 3	के	के	SCONJ	CC	_	4	mark	_	LTranslit=ke|Translit=ke
 4	चलणा	चल	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=calaṇā|LTranslit=cala
