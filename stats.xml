@@ -33,43 +33,43 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="38">
-    <feat name="AdpType" value="Post" upos="ADJ,ADP,ADV,NOUN,SCONJ">66</feat><!-- के, ते, ने, पर, बाद, दी, बारे, पहले, अलावा, की -->
+    <feat name="AdpType" value="Post" upos="ADJ,ADP,ADV,NOUN,SCONJ">302</feat><!-- विच, जो, दा, दी, ते, दे, के, ने, पर, दिया -->
     <feat name="Aspect" value="Imp" upos="ADJ,ADV,AUX,DET,VERB">30</feat><!-- दित्ती, दित्ता, करदा, करदी, सकदा, सबते, कित्ता, जांदा, दित्ते, पीता -->
-    <feat name="Aspect" value="Perf" upos="ADJ,ADP,ADV,AUX,NOUN,PRON,VERB">214</feat><!-- दी, गेया, होई, करी, दिया, गेई, रेह्या, लगी, दा, आई -->
-    <feat name="Case" value="Acc" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">115</feat><!-- इस, इसा, के, अगले, अमेरिका, कने, कारण, गलाई, पढ़ने, पाणिए -->
+    <feat name="Aspect" value="Perf" upos="ADJ,ADP,ADV,AUX,NOUN,PRON,VERB">177</feat><!-- गेया, होई, करी, गेई, रेह्या, लगी, दा, दी, आई, आया -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">111</feat><!-- इस, इसा, अगले, अमेरिका, कने, के, गलाई, पढ़ने, पाणिए, बचाणे -->
     <feat name="Case" value="Acc,Dat" upos="DET,PRON">3</feat><!-- इसा, इन्हां -->
     <feat name="Case" value="Acc,Gen" upos="ADJ,CCONJ,NOUN,PRON">13</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते, कने, मेळे -->
     <feat name="Case" value="Acc,Ins" upos="PRON,PROPN">8</feat><!-- इसते, इसदे, तिसते -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1112</feat><!-- जो, विच, सैह, मैं, मिंजो, कने, कोई, इक्क, एह, के -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1001</feat><!-- सैह, मैं, मिंजो, कोई, इक्क, एह, कने, तिन्नी, तुसां, असां -->
     <feat name="Echo" value="Rdp" upos="ADJ,NOUN">3</feat><!-- खरे, दर, मने -->
     <feat name="Foreign" value="Yes" upos="ADJ">1</feat><!-- पास -->
-    <feat name="Gender" value="Fem" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PART,PRON,PROPN,VERB">509</feat><!-- दी, सैह, होई, करी, थी, नी, गेई, दित्ती, लोकां, करदी -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">857</feat><!-- विच, गेया, कने, था, मिंजो, के, दा, सैह, इक्क, दिया -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PART,PRON,PROPN,VERB">473</feat><!-- सैह, होई, करी, थी, नी, गेई, दित्ती, लोकां, करदी, लगी -->
+    <feat name="Gender" value="Masc" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">788</feat><!-- गेया, था, कने, मिंजो, सैह, इक्क, एह, करदा, घरे, थे -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">157</feat><!-- है, था, हन, थी, थे, लग्गा, लैह्ंगी, हैं, करगे, खांहगे -->
     <feat name="Mood" value="Sub" upos="AUX,NOUN,VERB">18</feat><!-- सकदे, औणे, कढदे, करदे, ग्रां, चलणा, जाएं, तोड़े, थियां, दिंदे -->
-    <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PRON,PROPN,SCONJ,VERB">208</feat><!-- कने, के, लोकां, थे, कमरे, सारे, खरे, ग्रांएं, तिह्नां, रूपेइये -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1435</feat><!-- है, जो, दी, विच, सैह, गेया, था, मैं, होई, इस -->
-    <feat name="NumType" value="Card" upos="ADJ,ADP,DET,NOUN,NUM,PRON,VERB">36</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
+    <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PRON,PROPN,SCONJ,VERB">195</feat><!-- कने, लोकां, थे, कमरे, सारे, खरे, ग्रांएं, तिह्नां, रूपेइये, हन -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1303</feat><!-- है, सैह, गेया, था, मैं, होई, इस, मिंजो, हन, इसा -->
+    <feat name="NumType" value="Card" upos="ADJ,DET,NOUN,NUM,PRON,VERB">35</feat><!-- एह, दो, सैह, चौंह, दोयो, 19, 25, 250, 300, 35000 -->
     <feat name="NumType" value="Ord" upos="ADJ">2</feat><!-- पहला -->
     <feat name="Person" value="1" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">23</feat><!-- मैं, मेरा, मेरी, मेरे, खांहगे, जांदा, मेळे -->
     <feat name="Person" value="2" upos="AUX,NOUN,PRON,VERB">17</feat><!-- आप, औणे, करदे, करा, ग्रां, चलणा, जाई, जाएं, थियां, दियां -->
-    <feat name="Person" value="3" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1236</feat><!-- है, जो, विच, सैह, हन, इस, मिंजो, इसा, कोई, इक्क -->
+    <feat name="Person" value="3" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">1144</feat><!-- है, सैह, हन, इस, मिंजो, इसा, कोई, इक्क, एह, इसते -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">21</feat><!-- नी, मत -->
     <feat name="Polite" value="Form" upos="AUX,NOUN,PRON,VERB">35</feat><!-- हन, करदे, लैह्ंगी, आप, औणे, करगे, करा, गए, ग्रां, ग्राएं -->
     <feat name="Poss" value="Yes" upos="ADJ,CCONJ,NOUN,PRON">13</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते, कने, मेळे -->
-    <feat name="PronType" value="Dem" upos="ADP,DET,PART,PRON">31</feat><!-- जो, इस, इसा, तिस, इन्हां -->
+    <feat name="PronType" value="Dem" upos="DET,PART,PRON">18</feat><!-- इस, इसा, तिस, इन्हां -->
     <feat name="PronType" value="Ind" upos="ADJ,DET,NOUN">5</feat><!-- हर, कम, कुल, जरा -->
-    <feat name="PronType" value="Int" upos="ADJ,ADP,ADV,CCONJ,PART,PRON">28</feat><!-- क्या, तुसां, कने, कजो, कैस, कदी, कदेया, कितणे, कुसी, कैंह् -->
+    <feat name="PronType" value="Int" upos="ADJ,ADV,CCONJ,PART,PRON">27</feat><!-- क्या, तुसां, कजो, कने, कैस, कदी, कदेया, कितणे, कुसी, कैंह् -->
     <feat name="PronType" value="Neg" upos="ADV,PART">21</feat><!-- नी, मत -->
-    <feat name="PronType" value="Prs" upos="ADJ,ADP,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ">110</feat><!-- जो, मैं, कोई, इसते, तुसां, असां, इसदे, इसा, अपणे, जे -->
+    <feat name="PronType" value="Prs" upos="ADJ,ADP,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ">82</feat><!-- मैं, कोई, इसते, तुसां, असां, इसदे, इसा, अपणे, जे, इस -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">16</feat><!-- लग्गा, लैह्ंगी, करगे, खांहगे, चुणेया, पहनेया, भुलगा, रैहंगा, लग्गी, लैंह्गा -->
     <feat name="Tense" value="Past" upos="AUX,VERB">29</feat><!-- था, थी, थे, हन -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">112</feat><!-- है, हन, हैं, गै -->
     <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- करदे -->
     <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">175</feat><!-- है, था, हन, थी, थे, लग्गा, लैह्ंगी, सकदे, हैं, औणे -->
     <feat name="VerbForm" value="Inf" upos="ADV,AUX,NOUN,PROPN,VERB">30</feat><!-- करना, जाणा, पढ़ने, बचाणे, रखणे, होणे, करदे, करनी, करने, खुआणे -->
-    <feat name="VerbForm" value="Part" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB">244</feat><!-- दी, गेया, होई, करी, दिया, गेई, दित्ती, करदा, करदी, दित्ता -->
-    <feat name="Voice" value="Act" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB">290</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
+    <feat name="VerbForm" value="Part" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB">207</feat><!-- गेया, होई, करी, गेई, दित्ती, करदा, करदी, दित्ता, रेह्या, लगी -->
+    <feat name="Voice" value="Act" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB">286</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
     <feat name="Voice" value="Pass" upos="ADV,VERB">4</feat><!-- चला, छड्डेया, नी, होई -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
