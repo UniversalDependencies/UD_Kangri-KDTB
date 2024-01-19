@@ -1372,7 +1372,7 @@
 3	खाणे	खाणेणा	VERB	VM	_	4	advcl	_	Translit=khāṇe|LTranslit=khāṇeṇā
 4	पिछुआ	पिछुआ	ADP	NST	AdpType=Post	5	nmod	_	Translit=pichuā|LTranslit=pichuā
 5	पाणी	पाणी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	compound	_	Translit=pāṇī|LTranslit=pāṇī
-6	पीता	पीतणा	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=pītā|LTranslit=pītaṇā
+6	पीता	पीणा	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=pītā|LTranslit=pīṇā
 7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 98
