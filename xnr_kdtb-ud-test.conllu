@@ -431,7 +431,7 @@
 9	रखणे	रखणा	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	11	nmod	_	Translit=rakhaṇe|LTranslit=rakhaṇā
 10	दी	दे	ADP	PSP	AdpType=Post	9	mark	_	Translit=dī|LTranslit=de
 11	सलाह	सलाह	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=salāha|LTranslit=salāha
-12	देई	देईणा	VERB	VM	Number=Sing|Voice=Act	13	xcomp	_	Translit=deī|LTranslit=deīṇā
+12	देई	देणा	VERB	VM	Number=Sing|Voice=Act	13	xcomp	_	Translit=deī|LTranslit=deṇā
 13	दित्ती	देणा	VERB	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|Translit=dittī|LTranslit=deṇā
 14	।	।	PUNCT	SYM	_	13	punct	_	Translit=.|LTranslit=.
 
