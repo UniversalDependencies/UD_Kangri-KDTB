@@ -2215,7 +2215,7 @@
 6	इंगलैण्ड	इंगलैण्ड	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obj	_	Translit=iṁgalaiṇḍa|LTranslit=iṁgalaiṇḍa
 7	जो	जो	ADP	PSP	AdpType=Post	6	case	_	Translit=jo|LTranslit=jo
 8	निकळी	निकळ	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Translit=nikaḷī|LTranslit=nikaḷa
-9	गै	गै	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	SpaceAfter=No|Translit=gai|LTranslit=gai
+9	गै	जा	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	SpaceAfter=No|Translit=gai|LTranslit=jā
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 170
