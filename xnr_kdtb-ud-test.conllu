@@ -1194,7 +1194,7 @@
 3	चोरिया	चोरिया	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	compound	_	Translit=coriyā|LTranslit=coriyā
 4	चकारिया	चकारिया	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nmod	_	Translit=cakāriyā|LTranslit=cakāriyā
 5	दियां	दियाँ	ADP	PSP	AdpType=Post	4	case	_	Translit=diyāṁ|LTranslit=diyām̃
-6	सबते	सब	ADV	INTF	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	7	advmod	_	Translit=sabate|LTranslit=saba
+6	सबते	सब	ADV	INTF	_	7	advmod	_	Translit=sabate|LTranslit=saba
 7	ज़ादा	जादा	DET	QF	_	8	det	_	Translit=zādā|LTranslit=jādā
 8	शिकायतां	शिकायतां	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	10	nsubj	_	Translit=śikāyatāṁ|LTranslit=śikāyatāṁ
 9	इह्नां	इह्नां	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	Translit=ihnāṁ|LTranslit=ihnāṁ
@@ -2568,7 +2568,7 @@
 # translit = bhyāgā hī taṛakaiṁ uṭṭheyā maiṁ.
 1	भ्यागा	भ्यागा	ADV	RB	_	4	advmod	_	Translit=bhyāgā|LTranslit=bhyāgā
 2	ही	ही	PART	RP	_	1	dep	_	Translit=hī|LTranslit=hī
-3	तड़कैं	तड़कैं	ADV	RP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	advmod	_	Translit=taṛakaiṁ|LTranslit=taṛakaiṁ
+3	तड़कैं	तड़कैं	ADV	RP	_	4	advmod	_	Translit=taṛakaiṁ|LTranslit=taṛakaiṁ
 4	उट्ठेया	उट्ठेया	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=uṭṭheyā|LTranslit=uṭṭheyā
 5	मैं	मैं	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Translit=maiṁ|LTranslit=maiṁ
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
