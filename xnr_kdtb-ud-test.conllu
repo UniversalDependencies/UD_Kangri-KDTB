@@ -420,7 +420,7 @@
 # sent_id = 28
 # text = इसदे कने ही तिह्नां रिंकू चौहान जो धरैंस रखणे दी सलाह देई दित्ती।
 # translit = isade kane hī tihnāṁ riṁkū cauhāna jo dharaiṁsa rakhaṇe dī salāha deī dittī.
-1	इसदे	यह	PROPN	PRP	Case=Acc,Ins|Number=Sing|Person=3|PronType=Prs	12	obl	_	Translit=isade|LTranslit=yaha
+1	इसदे	यह	PRON	PRP	Case=Acc,Ins|Number=Sing|Person=3|PronType=Prs	12	obl	_	Translit=isade|LTranslit=yaha
 2	कने	कना	ADP	NST	AdpType=Post	1	case	_	Translit=kane|LTranslit=kanā
 3	ही	ही	PART	RP	_	1	dep	_	Translit=hī|LTranslit=hī
 4	तिह्नां	तिह्नां	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ

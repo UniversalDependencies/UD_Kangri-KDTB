@@ -25,8 +25,8 @@
     <tag name="NOUN">553</tag><!-- लोक, गल्ल, जरूरत, घरा, अम्मा, कमरा, ग्रां, घर, फायदा, बरखा -->
     <tag name="NUM">41</tag><!-- इक्क, दो, दोयो, 8, इक, चौंह, 15, 19, 25, 250 -->
     <tag name="PART">91</tag><!-- ही, भी, क्या, ताँ, नी, लगभग, ऊञा, कदेया, कैस, कैह्जो -->
-    <tag name="PRON">204</tag><!-- सैह, मैं, यह, तिह्नां, तुसाँ, मिंजो, तुसां, असां, तिन्नी, तिसा -->
-    <tag name="PROPN">89</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
+    <tag name="PRON">205</tag><!-- सैह, मैं, यह, तिह्नां, तुसाँ, मिंजो, तुसां, असां, तिन्नी, तिसा -->
+    <tag name="PROPN">88</tag><!-- कांगड़े, राम, अमेरिका, दुर्गा, धर्मशाला, राजकुमार, राजुए, शर्मा, 2020, अमरीका -->
     <tag name="PUNCT">310</tag><!-- ।, ?, -, !, , -->
     <tag name="SCONJ">11</tag><!-- जे, का, कैंहजे, ताँ, दा, यानिकि -->
     <tag name="VERB">285</tag><!-- हो, कर, जा, आ, चल, दित्, मिल, लग, हुन्दा, कित्ती -->
@@ -39,7 +39,7 @@
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">106</feat><!-- इस, इसा, अगले, अमेरिका, गलाई, पढ़ने, पाणिए, बचाणे, रखणे, वाळे -->
     <feat name="Case" value="Acc,Dat" upos="DET,PRON">3</feat><!-- इसा, इन्हां -->
     <feat name="Case" value="Acc,Gen" upos="ADJ,NOUN,PRON">12</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते, मेळे -->
-    <feat name="Case" value="Acc,Ins" upos="PRON,PROPN">8</feat><!-- इसते, इसदे, तिसते -->
+    <feat name="Case" value="Acc,Ins" upos="PRON">8</feat><!-- इसते, इसदे, तिसते -->
     <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">926</feat><!-- सैह, मैं, मिंजो, कोई, इक्क, एह, तिन्नी, तुसां, असां, तिह्नां -->
     <feat name="Echo" value="Rdp" upos="ADJ,NOUN">3</feat><!-- खरे, दर, मने -->
     <feat name="Foreign" value="Yes" upos="ADJ">1</feat><!-- पास -->
