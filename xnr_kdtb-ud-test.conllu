@@ -2189,7 +2189,7 @@
 5	ऐनका	ऐनका	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	amod	_	Translit=ainakā|LTranslit=ainakā
 6	दी	दे	ADP	PSP	AdpType=Post	2	case	_	Translit=dī|LTranslit=de
 7	ज़रूरत	जरूरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=zarūrata|LTranslit=jarūrata
-8	पोंदी	पोंदे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=poṁdī|LTranslit=poṁde
+8	पोंदी	पे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=poṁdī|LTranslit=pe
 9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 168
