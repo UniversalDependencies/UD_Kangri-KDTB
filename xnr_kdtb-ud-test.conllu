@@ -1200,7 +1200,7 @@
 9	इह्नां	इह्नां	DET	DEM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	Translit=ihnāṁ|LTranslit=ihnāṁ
 10	लाक़ेयाँ	लाक़ी	NOUN	NN	Number=Sing|Person=3	0	root	_	Translit=lāqeyām̃|LTranslit=lāqī
 11	ते	ते	ADP	PSP	AdpType=Post	10	case	_	Translit=te|LTranslit=te
-12	थियां	थियाँ	AUX	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Translit=thiyāṁ|LTranslit=thiyām̃
+12	थियां	था	AUX	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	10	cop	_	SpaceAfter=No|Translit=thiyāṁ|LTranslit=thā
 13	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 84
