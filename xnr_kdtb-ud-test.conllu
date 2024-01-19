@@ -3243,7 +3243,7 @@
 3	-	-	PUNCT	SYM	_	2	punct	_	Translit=-|LTranslit=-
 4	शान्ति	शान्ति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obj	_	Translit=śānti|LTranslit=śānti
 5	बणियो	बणियो	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=baṇiyo|LTranslit=baṇiyo
-6	रैह्न्दी	रैह्न्दी	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	Translit=raihndī|LTranslit=raihndī
+6	रैह्न्दी	रेह	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	Translit=raihndī|LTranslit=reha
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
