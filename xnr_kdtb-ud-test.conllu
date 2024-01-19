@@ -3330,7 +3330,7 @@
 3	नाड़ेयां	नाड़ी	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	nmod	_	Translit=nāṛeyāṁ|LTranslit=nāṛī
 4	ते	ते	ADP	PSP	AdpType=Post	3	case	_	Translit=te|LTranslit=te
 5	लेई	लेई	VERB	VM	_	0	root	_	Translit=leī|LTranslit=leī
-6	ओआ	ओआ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=oā|LTranslit=oā
+6	ओआ	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=oā|LTranslit=au
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 260
@@ -3494,7 +3494,7 @@
 4	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Translit=hai|LTranslit=hai
 5	तां	तां	SCONJ	CC	_	6	mark	_	Translit=tāṁ|LTranslit=tāṁ
 6	लेई	लेई	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=leī|LTranslit=leī
-7	ओआ	ओआ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	SpaceAfter=No|Translit=oā|LTranslit=oā
+7	ओआ	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	SpaceAfter=No|Translit=oā|LTranslit=au
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 274
