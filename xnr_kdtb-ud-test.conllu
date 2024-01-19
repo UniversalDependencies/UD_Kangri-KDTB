@@ -2514,7 +2514,7 @@
 5	जेह्ड़े	जेह्ड़ा	PRON	PSP	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	nsubj	_	Translit=jehṛe|LTranslit=jehṛā
 6	तित्थू	तित्थू	ADV	RB	_	9	advmod	_	Translit=titthū|LTranslit=titthū
 7	डांस	डांस	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=ḍāṁsa|LTranslit=ḍāṁsa
-8	सिक्खा	सिक्खाणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	xcomp	_	Translit=sikkhā|LTranslit=sikkhāṇā
+8	सिक्खा	सिक्खणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	xcomp	_	Translit=sikkhā|LTranslit=sikkhaṇā
 9	दे	देणा	VERB	VAUX	Number=Plur|Person=3|Voice=Act	4	advcl	_	Translit=de|LTranslit=deṇā
 10	हन	है	AUX	VAUX	_	9	aux:pass	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 11	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
