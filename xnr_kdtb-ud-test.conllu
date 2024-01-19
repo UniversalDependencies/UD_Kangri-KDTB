@@ -3187,7 +3187,7 @@
 3	न्हौता	न्हौता	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=nhautā|LTranslit=nhautā
 4	कने	कने	CCONJ	CC	_	6	cc	_	Translit=kane|LTranslit=kane
 5	हटी	हट	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	xcomp	_	Translit=haṭī|LTranslit=haṭa
-6	आया	आ	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	conj	_	SpaceAfter=No|Translit=āyā|LTranslit=ā
+6	आया	आ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	conj	_	SpaceAfter=No|Translit=āyā|LTranslit=ā
 7	।	।	PUNCT	SYM	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 247
