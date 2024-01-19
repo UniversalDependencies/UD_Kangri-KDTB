@@ -725,7 +725,7 @@
 2	तवारे	तवारा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	obl	_	Translit=tavāre|LTranslit=tavārā
 3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
 4	बन्द	बन्द	NOUN	NN	Person=3	5	compound	_	Translit=banda|LTranslit=banda
-5	रैहंदा	रैहंदा	AUX	VAUX	_	0	root	_	Translit=raihaṁdā|LTranslit=raihaṁdā
+5	रैहंदा	रेह	AUX	VAUX	_	0	root	_	Translit=raihaṁdā|LTranslit=reha
 6	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
