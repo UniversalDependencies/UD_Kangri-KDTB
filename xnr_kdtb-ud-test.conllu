@@ -1570,7 +1570,7 @@
 5	विच	विच	ADP	PSP	AdpType=Post	4	case	_	Translit=vica|LTranslit=vica
 6	माहणुए	माहण	NOUN	NN	Person=3	7	obj	_	Translit=māhaṇue|LTranslit=māhaṇa
 7	पछैणी	पछैणी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=pachaiṇī|LTranslit=pachaiṇī
-8	सकदे	सकद	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No|Translit=sakade|LTranslit=sakada
+8	सकदे	सक	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No|Translit=sakade|LTranslit=saka
 9	?	?	PUNCT	SYM	_	7	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 114
@@ -2733,7 +2733,7 @@
 3	करी	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=karī|LTranslit=kara
 4	भी	भी	PART	RP	_	3	dep	_	Translit=bhī|LTranslit=bhī
 5	क्या	क्या	PRON	PRP	PronType=Int	3	obj	_	Translit=kyā|LTranslit=kyā
-6	सकदा	सकद	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	Translit=sakadā|LTranslit=sakada
+6	सकदा	सक	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	aux	_	Translit=sakadā|LTranslit=saka
 7	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux:pass	_	SpaceAfter=No|Translit=thā|LTranslit=thā
 8	!	!	PUNCT	SYM	_	3	punct	_	Translit=!|LTranslit=!
 
