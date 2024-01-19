@@ -478,7 +478,7 @@
 5	विच	विच	ADP	PSP	AdpType=Post	4	case	_	Translit=vica|LTranslit=vica
 6	खौह्दळ	खौह्दळ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	Translit=khauhdaḷa|LTranslit=khauhdaḷa
 7	पाई	पा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=pāī|LTranslit=pā
-8	दित्तियो	दित्तियो	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	aux	_	Translit=dittiyo|LTranslit=dittiyo
+8	दित्तियो	दे	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	aux	_	Translit=dittiyo|LTranslit=de
 9	थी	था	AUX	VAUX	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	SpaceAfter=No|Translit=thī|LTranslit=thā
 10	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -682,7 +682,7 @@
 6	दी	दे	ADP	PSP	AdpType=Post	5	case	_	Translit=dī|LTranslit=de
 7	किताब	किताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obj	_	Translit=kitāba|LTranslit=kitāba
 8	सुटी	सुट	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=suṭī|LTranslit=suṭa
-9	दित्तियो	दित्तियो	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	aux	_	Translit=dittiyo|LTranslit=dittiyo
+9	दित्तियो	दे	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	aux	_	Translit=dittiyo|LTranslit=de
 10	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 11	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
