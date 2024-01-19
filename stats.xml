@@ -35,7 +35,7 @@
   <feats unique="38">
     <feat name="AdpType" value="Post" upos="ADJ,ADP,ADV,NOUN,SCONJ">319</feat><!-- विच, जो, दा, दी, ते, दे, के, ने, पर, कने -->
     <feat name="Aspect" value="Imp" upos="ADJ,ADV,AUX,DET,VERB">30</feat><!-- दित्ती, दित्ता, करदा, करदी, सकदा, सबते, कित्ता, जांदा, दित्ते, पीता -->
-    <feat name="Aspect" value="Perf" upos="ADJ,ADP,ADV,AUX,PRON,VERB">171</feat><!-- गेया, होई, करी, गेई, रेह्या, लगी, दा, दी, आई, आया -->
+    <feat name="Aspect" value="Perf" upos="ADJ,ADP,AUX,PRON,VERB">168</feat><!-- गेया, होई, करी, गेई, रेह्या, लगी, दा, दी, आई, आया -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">106</feat><!-- इस, इसा, अगले, अमेरिका, गलाई, पढ़ने, पाणिए, बचाणे, रखणे, वाळे -->
     <feat name="Case" value="Acc,Dat" upos="DET,PRON">3</feat><!-- इसा, इन्हां -->
     <feat name="Case" value="Acc,Gen" upos="ADJ,NOUN,PRON">12</feat><!-- इसदी, इसदे, मेरा, मेरी, मेरे, इसते, मेळे -->
@@ -67,10 +67,10 @@
     <feat name="Tense" value="Pres" upos="AUX,VERB">112</feat><!-- है, हन, हैं, गै -->
     <feat name="VerbForm" value="Conv" upos="VERB">1</feat><!-- करदे -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">173</feat><!-- है, था, हन, थी, थे, लग्गा, लैह्ंगी, सकदे, हैं, औणे -->
-    <feat name="VerbForm" value="Inf" upos="ADV,AUX,PROPN,VERB">29</feat><!-- करना, जाणा, पढ़ने, बचाणे, रखणे, होणे, करदे, करनी, करने, खुआणे -->
-    <feat name="VerbForm" value="Part" upos="ADJ,ADP,ADV,AUX,DET,PRON,VERB">201</feat><!-- गेया, होई, करी, गेई, दित्ती, करदा, करदी, दित्ता, रेह्या, लगी -->
-    <feat name="Voice" value="Act" upos="ADJ,ADP,ADV,AUX,DET,NOUN,PRON,VERB">286</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
-    <feat name="Voice" value="Pass" upos="ADV,VERB">4</feat><!-- चला, छड्डेया, नी, होई -->
+    <feat name="VerbForm" value="Inf" upos="AUX,PROPN,VERB">28</feat><!-- करना, जाणा, पढ़ने, बचाणे, रखणे, होणे, करदे, करनी, करने, खुआणे -->
+    <feat name="VerbForm" value="Part" upos="ADJ,ADP,ADV,AUX,DET,PRON,VERB">198</feat><!-- गेया, होई, करी, गेई, दित्ती, करदा, करदी, दित्ता, रेह्या, लगी -->
+    <feat name="Voice" value="Act" upos="ADJ,ADP,AUX,DET,NOUN,PRON,VERB">283</feat><!-- है, हन, होई, दित्ती, करी, था, थी, रेह्या, थे, लगी -->
+    <feat name="Voice" value="Pass" upos="VERB">3</feat><!-- चला, छड्डेया, होई -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="24">

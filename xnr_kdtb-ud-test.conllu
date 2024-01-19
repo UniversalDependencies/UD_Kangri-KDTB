@@ -487,7 +487,7 @@
 # translit = agale dineṁ phirī tinnī galla kittiyo thī.
 1	अगले	अगला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	Translit=agale|LTranslit=agalā
 2	दिनें	दिन	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	6	obl	_	Translit=dineṁ|LTranslit=dina
-3	फिरी	फिर	ADV	RB	Aspect=Perf|VerbForm=Part	6	advmod	_	Translit=phirī|LTranslit=phira
+3	फिरी	फिर	ADV	RB	_	6	advmod	_	Translit=phirī|LTranslit=phira
 4	तिन्नी	तिन्नी	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=tinnī|LTranslit=tinnī
 5	गल्ल	गल्ल	NOUN	NN	Case=Nom	6	compound	_	Translit=galla|LTranslit=galla
 6	कित्तियो	कित्तियो	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittiyo|LTranslit=kittiyo
@@ -1762,7 +1762,7 @@
 # sent_id = 129
 # text = हुण तां तिसजो कोई अजूबा ही बचाई सकदा है।
 # translit = huṇa tāṁ tisajo koī ajūbā hī bacāī sakadā hai.
-1	हुण	हुण	ADV	RB	Voice=Act	7	advmod	_	Translit=huṇa|LTranslit=huṇa
+1	हुण	हुण	ADV	RB	_	7	advmod	_	Translit=huṇa|LTranslit=huṇa
 2	तां	ताँ	PART	RP	_	1	dep	_	Translit=tāṁ|LTranslit=tām̃
 3	तिसजो	तिसजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	iobj	_	Translit=tisajo|LTranslit=tisajo
 4	कोई	कोई	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	Translit=koī|LTranslit=koī
@@ -2543,7 +2543,7 @@
 7	कनारें	कनार	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	8	nmod	_	Translit=kanāreṁ|LTranslit=kanāra
 8	ध्यान	ध्यान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	Translit=dhyāna|LTranslit=dhyāna
 9	ही	ही	PART	RP	_	8	dep	_	Translit=hī|LTranslit=hī
-10	नी	ने	ADV	RB	VerbForm=Inf|Voice=Act	8	advmod	_	Translit=nī|LTranslit=ne
+10	नी	ने	ADV	RB	_	8	advmod	_	Translit=nī|LTranslit=ne
 11	जा	जा	VERB	VM	_	0	root	_	Translit=jā|LTranslit=jā
 12	दा	द	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	11	aux	_	Translit=dā|LTranslit=da
 13	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
@@ -3066,7 +3066,7 @@
 # text = कैंह् नी जाई सकदा?
 # translit = kaiṁh nī jāī sakadā?
 1	कैंह्	कैंह्	ADV	RB	PronType=Int	3	advmod	_	Translit=kaiṁh|LTranslit=kaiṁh
-2	नी	ने	ADV	RB	Aspect=Perf|VerbForm=Part|Voice=Pass	3	advmod	_	Translit=nī|LTranslit=ne
+2	नी	ने	ADV	RB	_	3	advmod	_	Translit=nī|LTranslit=ne
 3	जाई	जा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Translit=jāī|LTranslit=jā
 4	सकदा	सक	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	SpaceAfter=No|Translit=sakadā|LTranslit=saka
 5	?	?	PUNCT	SYM	_	3	punct	_	Translit=?|LTranslit=?
@@ -3596,7 +3596,7 @@
 # translit = koī galla nī.
 1	कोई	कोई	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	det	_	Translit=koī|LTranslit=koī
 2	गल्ल	गल्ल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=galla|LTranslit=galla
-3	नी	ने	ADV	RB	Aspect=Perf|VerbForm=Part|Voice=Act	2	advmod	_	SpaceAfter=No|Translit=nī|LTranslit=ne
+3	नी	ने	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=nī|LTranslit=ne
 4	।	।	PUNCT	SYM	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 284
