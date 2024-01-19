@@ -1981,7 +1981,7 @@
 2	मददा	मददा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=madadā|LTranslit=madadā
 3	तांईं	तांईं	ADP	PSP	AdpType=Post	2	case	_	Translit=tāṁīṁ|LTranslit=tāṁīṁ
 4	आवाज	आवाज	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=āvāja|LTranslit=āvāja
-5	लगाई	लगा	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	4	aux	_	SpaceAfter=No|Translit=lagāī|LTranslit=lagā
+5	लगाई	लग	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	4	aux	_	SpaceAfter=No|Translit=lagāī|LTranslit=laga
 6	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 149
