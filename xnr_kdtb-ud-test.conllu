@@ -381,7 +381,7 @@
 7	राजकुमार	राजकुमार	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=rājakumāra|LTranslit=rājakumāra
 8	शर्मा	शर्मा	PROPN	NNP	Case=Acc|Number=Sing|Person=3	10	nsubj	_	Translit=śarmā|LTranslit=śarmā
 9	ने	ने	ADP	PSP	AdpType=Post	8	case	_	Translit=ne|LTranslit=ne
-10	कित्ती	कित्तीणा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=kittīṇā
+10	कित्ती	करणा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=karaṇā
 11	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 26
@@ -612,7 +612,7 @@
 8	ढंगे	ढंगा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=ḍhaṁge|LTranslit=ḍhaṁgā
 9	ने	ने	ADP	PSP	AdpType=Post	8	case	_	Translit=ne|LTranslit=ne
 10	गल्ल	गल्ल	NOUN	NN	Person=3	11	compound	_	Translit=galla|LTranslit=galla
-11	कित्ती	कित्तीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=kittīṇā
+11	कित्ती	करणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=kittī|LTranslit=karaṇā
 12	।	।	PUNCT	SYM	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 41
@@ -743,7 +743,7 @@
 9	मूर्तियां	मूर्ति	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	11	nmod	_	Translit=mūrtiyāṁ|LTranslit=mūrti
 10	दी	दे	ADP	PSP	AdpType=Post	9	case	_	Translit=dī|LTranslit=de
 11	स्थापना	स्थापना	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=sthāpanā|LTranslit=sthāpanā
-12	कित्ती	कित्तीणा	VERB	VM	_	0	root	_	Translit=kittī|LTranslit=kittīṇā
+12	कित्ती	करणा	VERB	VM	_	0	root	_	Translit=kittī|LTranslit=karaṇā
 13	गेइयो	जाणा	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	Translit=geiyo|LTranslit=jāṇā
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 15	।	।	PUNCT	SYM	_	12	punct	_	Translit=.|LTranslit=.
@@ -953,7 +953,7 @@
 6	दिया	दे	ADP	PSP	AdpType=Post	5	case	_	Translit=diyā|LTranslit=de
 7	मददा	मददा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	case	_	Translit=madadā|LTranslit=madadā
 8	कने	कना	ADP	PSP	AdpType=Post	5	case	_	Translit=kane|LTranslit=kanā
-9	कित्ती	कित्तीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittī|LTranslit=kittīṇā
+9	कित्ती	करणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=kittī|LTranslit=karaṇā
 10	गेइयो	जाणा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	9	aux	_	Translit=geiyo|LTranslit=jāṇā
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 12	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
@@ -1615,7 +1615,7 @@
 6	हिफाजती	हिफाजती	NOUN	NN	Case=Nom|Person=3	9	obl	_	Translit=hiphājatī|LTranslit=hiphājatī
 7	तांईं	तांईं	ADP	NST	AdpType=Post	6	case	_	Translit=tāṁīṁ|LTranslit=tāṁīṁ
 8	जिम्मेदार	जिम्मेदार	NOUN	NN	Person=3	9	compound	_	Translit=jimmedāra|LTranslit=jimmedāra
-9	हुन्दे	हुन्दाणा	VERB	VM	Gender=Masc|Number=Plur|Person=3|VerbForm=Inf|Voice=Act	0	root	_	Translit=hunde|LTranslit=hundāṇā
+9	हुन्दे	होणा	VERB	VM	Gender=Masc|Number=Plur|Person=3|VerbForm=Inf|Voice=Act	0	root	_	Translit=hunde|LTranslit=hoṇā
 10	हन	है	AUX	VAUX	_	9	aux	_	SpaceAfter=No|Translit=hana|LTranslit=hai
 11	।	।	PUNCT	SYM	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -2262,7 +2262,7 @@
 2	विच	विच	ADP	PSP	AdpType=Post	1	case	_	Translit=vica|LTranslit=vica
 3	डर	डर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=ḍara|LTranslit=ḍara
 4	पैदा	पैदा	NOUN	NN	Person=3	5	compound	_	Translit=paidā|LTranslit=paidā
-5	हुन्दा	हुन्दाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hundāṇā
+5	हुन्दा	होणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hoṇā
 6	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -2387,7 +2387,7 @@
 16	डरौणा	डरौणा	ADJ	JJ	_	17	nmod	_	Translit=ḍarauṇā|LTranslit=ḍarauṇā
 17	खतरा	खतरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	obl	_	Translit=khatarā|LTranslit=khatarā
 18	साबत	साबत	NOUN	NN	Person=3	19	compound	_	Translit=sābata|LTranslit=sābata
-19	हुणा	हुणणा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇā|LTranslit=huṇaṇā
+19	हुणा	होणा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇā|LTranslit=hoṇā
 20	।	।	PUNCT	SYM	_	19	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 182
@@ -2433,7 +2433,7 @@
 15	लाणे	लाणणा	VERB	VM	Gender=Masc|Number=Sing	17	amod	_	Translit=lāṇe|LTranslit=lāṇaṇā
 16	दा	दा	ADP	PSP	AdpType=Post	15	case	_	Translit=dā|LTranslit=dā
 17	कम्म	कम्म	NOUN	NN	Person=3	18	compound	_	Translit=kamma|LTranslit=kamma
-18	हुन्दा	हुन्दाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hundāṇā
+18	हुन्दा	होणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hoṇā
 19	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 20	।	।	PUNCT	SYM	_	18	punct	_	Translit=.|LTranslit=.
 
@@ -2587,7 +2587,7 @@
 # translit = hallī sūraja caṛheyā nī thā.
 1	हल्ली	हल्ली	ADV	RB	_	3	advmod	_	Translit=hallī|LTranslit=hallī
 2	सूरज	सूरज	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	Translit=sūraja|LTranslit=sūraja
-3	चढ़ेया	चढ़ेयाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=caṛheyā|LTranslit=caṛheyāṇā
+3	चढ़ेया	चढ़ेणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=caṛheyā|LTranslit=caṛheṇā
 4	नी	नी	ADV	RB	_	3	advmod	_	Translit=nī|LTranslit=nī
 5	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	SpaceAfter=No|Translit=thā|LTranslit=thā
 6	।	।	PUNCT	SYM	_	3	punct	_	Translit=.|LTranslit=.
@@ -2919,7 +2919,7 @@
 3	कोई	कोई	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	det	_	Translit=koī|LTranslit=koī
 4	मुस्कल	मुस्कल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=muskala|LTranslit=muskala
 5	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	4	advmod	_	Translit=nī|LTranslit=nī
-6	हुणी	हुणणा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇī|LTranslit=huṇaṇā
+6	हुणी	होणा	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇī|LTranslit=hoṇā
 7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 224
@@ -3441,7 +3441,7 @@
 3	गांह्	गांह्	NOUN	NN	Person=3	1	conj	_	Translit=gāṁh|LTranslit=gāṁh
 4	दिक्खा	दिक्खाणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	dep	_	Translit=dikkhā|LTranslit=dikkhāṇā
 5	क्या	क्या	PART	RP	PronType=Int	6	dep	_	Translit=kyā|LTranslit=kyā
-6	हुन्दा	हुन्दाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hundāṇā
+6	हुन्दा	होणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=hundā|LTranslit=hoṇā
 7	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	?	?	PUNCT	SYM	_	6	punct	_	Translit=?|LTranslit=?
 
@@ -3469,7 +3469,7 @@
 7	पूरे	पूरा	ADV	RB	_	9	advmod	_	Translit=pūre|LTranslit=pūrā
 8	तरीकें	तरीका	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	amod	_	Translit=tarīkeṁ|LTranslit=tarīkā
 9	समर्पित	समर्पित	NOUN	NN	Case=Nom|Person=3	10	compound	_	Translit=samarpita|LTranslit=samarpita
-10	होणें	होणणा	VERB	VM	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	_	Translit=hoṇeṁ|LTranslit=hoṇaṇā
+10	होणें	होणा	VERB	VM	Case=Nom|Gender=Fem|Number=Plur|Person=3	0	root	_	Translit=hoṇeṁ|LTranslit=hoṇā
 11	दी	दे	ADP	PSP	AdpType=Post	10	case	_	Translit=dī|LTranslit=de
 12	भी	भी	PART	RP	_	10	dep	_	Translit=bhī|LTranslit=bhī
 13	जरूरत	जरूरत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	_	Translit=jarūrata|LTranslit=jarūrata
@@ -3522,7 +3522,7 @@
 2	कोई	कोई	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	det	_	Translit=koī|LTranslit=koī
 3	मुश्कल	मुश्कल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	obl	_	Translit=muśkala|LTranslit=muśkala
 4	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	3	advmod	_	Translit=nī|LTranslit=nī
-5	हुणीं	हुणणा	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇīṁ|LTranslit=huṇaṇā
+5	हुणीं	होणा	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=huṇīṁ|LTranslit=hoṇā
 6	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 277
@@ -3660,7 +3660,7 @@
 5	मदरसे	मदरसा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	obj	_	Translit=madarase|LTranslit=madarasā
 6	नेडे	नेडा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	amod	_	Translit=neḍe|LTranslit=neḍā
 7	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	8	advmod	_	Translit=nī|LTranslit=nī
-8	हुन्दे	हुन्दाणा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Translit=hunde|LTranslit=hundāṇā
+8	हुन्दे	होणा	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	Translit=hunde|LTranslit=hoṇā
 9	थे	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	aux	_	SpaceAfter=No|Translit=the|LTranslit=thā
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
