@@ -26,7 +26,7 @@
 3	ही	ही	PART	RP	_	1	dep	_	Translit=hī|LTranslit=hī
 4	इसदी	इसदी	PRON	PRP	Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Translit=isadī|LTranslit=isadī
 5	गल्ल	गल्ल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	compound	_	Translit=galla|LTranslit=galla
-6	मन्नी	मन्नीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=mannī|LTranslit=mannīṇā
+6	मन्नी	मन्नणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=mannī|LTranslit=mannaṇā
 7	जाएं	जाणा	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	6	aux:pass	_	SpaceAfter=No|Translit=jāeṁ|LTranslit=jāṇā
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -3079,7 +3079,7 @@
 3	तिसदी	तिसदी	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod	_	Translit=tisadī|LTranslit=tisadī
 4	गल्ल	गल्ल	NOUN	NN	Person=3	6	obj	_	Translit=galla|LTranslit=galla
 5	नी	नी	ADV	RB	_	6	advmod	_	Translit=nī|LTranslit=nī
-6	मन्नी	मन्नीणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=mannī|LTranslit=mannīṇā
+6	मन्नी	मन्नणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=mannī|LTranslit=mannaṇā
 7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 238
