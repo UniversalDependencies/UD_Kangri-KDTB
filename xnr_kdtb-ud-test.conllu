@@ -3512,7 +3512,7 @@
 1	मिंजो	मिंजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obj	_	Translit=miṁjo|LTranslit=miṁjo
 2	कजो	कजो	ADV	RB	PronType=Int	3	advmod	_	Translit=kajo|LTranslit=kajo
 3	याद	याद	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=yāda|LTranslit=yāda
-4	कित्ता	कित्ता	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kittā
+4	कित्ता	कर	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	aux	_	SpaceAfter=No|Translit=kittā|LTranslit=kara
 5	?	?	PUNCT	SYM	_	3	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 276
