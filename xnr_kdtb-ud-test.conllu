@@ -1423,7 +1423,7 @@
 2	सवालां	सवालां	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nmod	_	Translit=savālāṁ|LTranslit=savālāṁ
 3	दा	दा	ADP	PSP	AdpType=Post	2	case	_	Translit=dā|LTranslit=dā
 4	जवाब	जवाब	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	Translit=javāba|LTranslit=javāba
-5	देणा	देणाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=deṇā|LTranslit=deṇāṇā
+5	देणा	देणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=deṇā|LTranslit=deṇā
 6	सौखा	सौख	ADJ	JJ	Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=saukhā|LTranslit=saukha
 7	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
