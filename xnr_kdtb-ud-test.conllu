@@ -1088,11 +1088,11 @@
 # translit = vīravāre jo sohaṇue de haṭī auṇe dī meda hai.
 1	वीरवारे	वीरवारा	PROPN	NNP	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nmod	_	Translit=vīravāre|LTranslit=vīravārā
 2	जो	जो	ADP	PSP	AdpType=Post	1	case	_	Translit=jo|LTranslit=jo
-3	सोहणुए	सोहणुए	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=sohaṇue|LTranslit=sohaṇue
+3	सोहणुए	सोहणुए	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit=sohaṇue|LTranslit=sohaṇue
 4	दे	दे	ADP	PSP	AdpType=Post	3	case	_	Translit=de|LTranslit=de
-5	हटी	हट	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	nmod	_	Translit=haṭī|LTranslit=haṭa
-6	औणे	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	Translit=auṇe|LTranslit=au
-7	दी	दे	ADP	PSP	AdpType=Post	5	mark	_	Translit=dī|LTranslit=de
+5	हटी	हट	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	xcomp	_	Translit=haṭī|LTranslit=haṭa
+6	औणे	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=auṇe|LTranslit=au
+7	दी	दे	ADP	PSP	AdpType=Post	6	mark	_	Translit=dī|LTranslit=de
 8	मेद	मेद	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=meda|LTranslit=meda
 9	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 10	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
@@ -1485,15 +1485,15 @@
 # sent_id = 107
 # text = तिज्जो अंबरे च मते सारे तारे नजरी औणे।
 # translit = tijjo aṁbare ca mate sāre tāre najarī auṇe.
-1	तिज्जो	तिज्जो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=tijjo|LTranslit=tijjo
-2	अंबरे	अंबरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	_	Translit=aṁbare|LTranslit=aṁbarā
+1	तिज्जो	तिज्जो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=tijjo|LTranslit=tijjo
+2	अंबरे	अंबरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=aṁbare|LTranslit=aṁbarā
 3	च	च	ADP	PSP	AdpType=Post	2	case	_	Translit=ca|LTranslit=ca
 4	मते	मते	ADV	RB	_	5	advmod	_	Translit=mate|LTranslit=mate
 5	सारे	सारा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	7	amod	_	Translit=sāre|LTranslit=sārā
-6	तारे	तारा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	obj	_	Translit=tāre|LTranslit=tārā
-7	नजरी	नजरी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=najarī|LTranslit=najarī
-8	औणे	औ	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No|Translit=auṇe|LTranslit=au
-9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
+6	तारे	तारा	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	obj	_	Translit=tāre|LTranslit=tārā
+7	नजरी	नजरी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	xcomp	_	Translit=najarī|LTranslit=najarī
+8	औणे	औ	VERB	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=auṇe|LTranslit=au
+9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 108
 # text = दिन घरोणा लगी पेया तिज्जो घरे जो जाणा चाहिदा।
@@ -1641,9 +1641,9 @@
 4	कम्पयूटरे	कम्पयूटरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nmod	_	Translit=kampayūṭare|LTranslit=kampayūṭarā
 5	दा	दा	ADP	PSP	AdpType=Post	4	case	_	Translit=dā|LTranslit=dā
 6	इस्तेमाल	इस्तेमाल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	Translit=istemāla|LTranslit=istemāla
-7	करना	कर	VERB	VM	Gender=Masc|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	Translit=karanā|LTranslit=kara
-8	ओंदा	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing	7	aux	_	SpaceAfter=No|Translit=oṁdā|LTranslit=au
-9	?	?	PUNCT	SYM	_	7	punct	_	Translit=?|LTranslit=?
+7	करना	कर	VERB	VM	Gender=Masc|Number=Sing|VerbForm=Inf|Voice=Act	8	xcomp	_	Translit=karanā|LTranslit=kara
+8	ओंदा	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|Translit=oṁdā|LTranslit=au
+9	?	?	PUNCT	SYM	_	8	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 119
 # text = अज्ज तुसां कदेह हन।
@@ -1910,12 +1910,12 @@
 # text = क्या तुसां जो गड्डी चलाणा ओंदी?
 # translit = kyā tusāṁ jo gaḍḍī calāṇā oṁdī?
 1	क्या	क्या	PART	RP	PronType=Int	5	dep	_	Translit=kyā|LTranslit=kyā
-2	तुसां	तुसाँ	PRON	PRP	PronType=Int	5	obl	_	Translit=tusāṁ|LTranslit=tusām̃
+2	तुसां	तुसाँ	PRON	PRP	PronType=Int	6	obl	_	Translit=tusāṁ|LTranslit=tusām̃
 3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
 4	गड्डी	गड्डी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod	_	Translit=gaḍḍī|LTranslit=gaḍḍī
-5	चलाणा	चला	VERB	VM	Number=Sing|Person=3|VerbForm=Inf|Voice=Act	0	root	_	Translit=calāṇā|LTranslit=calā
-6	ओंदी	औ	AUX	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=oṁdī|LTranslit=au
-7	?	?	PUNCT	SYM	_	5	punct	_	Translit=?|LTranslit=?
+5	चलाणा	चला	VERB	VM	Number=Sing|Person=3|VerbForm=Inf|Voice=Act	6	xcomp	_	Translit=calāṇā|LTranslit=calā
+6	ओंदी	औ	VERB	VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=oṁdī|LTranslit=au
+7	?	?	PUNCT	SYM	_	6	punct	_	Translit=?|LTranslit=?
 
 # sent_id = 143
 # text = इसा कवता दा तुसां क्या अर्थ कढदे?
@@ -2820,7 +2820,7 @@
 5	चुक्की	चुक्की	VERB	VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	advcl	_	Translit=cukkī|LTranslit=cukkī
 6	के	का	ADP	NST	AdpType=Post	5	case	_	Translit=ke|LTranslit=kā
 7	लेई	लेई	VERB	VM	Case=Nom	8	compound	_	Translit=leī|LTranslit=leī
-8	औह्न	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	SpaceAfter=No|Translit=auhna|LTranslit=au
+8	औह्न	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	SpaceAfter=No|Translit=auhna|LTranslit=au
 9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 215
@@ -3329,9 +3329,9 @@
 2	घड़े	घडा	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	nmod	_	Translit=ghaṛe|LTranslit=ghaḍā
 3	नाड़ेयां	नाड़ी	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	nmod	_	Translit=nāṛeyāṁ|LTranslit=nāṛī
 4	ते	ते	ADP	PSP	AdpType=Post	3	case	_	Translit=te|LTranslit=te
-5	लेई	लेई	VERB	VM	_	0	root	_	Translit=leī|LTranslit=leī
-6	ओआ	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	aux	_	SpaceAfter=No|Translit=oā|LTranslit=au
-7	।	।	PUNCT	SYM	_	5	punct	_	Translit=.|LTranslit=.
+5	लेई	लेई	VERB	VM	_	6	xcomp	_	Translit=leī|LTranslit=leī
+6	ओआ	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=oā|LTranslit=au
+7	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 260
 # text = जरा सम्ह्ळी के चलणा।
@@ -3489,13 +3489,13 @@
 # text = चाह् बणी गेइयो है तां लेई ओआ।
 # translit = cāh baṇī geiyo hai tāṁ leī oā.
 1	चाह्	चाह्	NOUN	NN	Person=3	2	nsubj	_	Translit=cāh|LTranslit=cāh
-2	बणी	बणी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	advcl	_	Translit=baṇī|LTranslit=baṇī
+2	बणी	बणी	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	advcl	_	Translit=baṇī|LTranslit=baṇī
 3	गेइयो	जा	AUX	VAUX	_	2	aux	_	Translit=geiyo|LTranslit=jā
 4	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Translit=hai|LTranslit=hai
-5	तां	तां	SCONJ	CC	_	6	mark	_	Translit=tāṁ|LTranslit=tāṁ
-6	लेई	लेई	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	0	root	_	Translit=leī|LTranslit=leī
-7	ओआ	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	SpaceAfter=No|Translit=oā|LTranslit=au
-8	।	।	PUNCT	SYM	_	6	punct	_	Translit=.|LTranslit=.
+5	तां	तां	SCONJ	CC	_	7	mark	_	Translit=tāṁ|LTranslit=tāṁ
+6	लेई	लेई	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	7	xcomp	_	Translit=leī|LTranslit=leī
+7	ओआ	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=oā|LTranslit=au
+8	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 274
 # text = चाह पी लैन्दे हन।
@@ -3639,16 +3639,16 @@
 # translit = maiṁ phona kharīdī bhī leyāṁ tā miṁjo barataṇā hī nī oṇā.
 1	मैं	मैं	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
 2	फोन	फोन	NOUN	RB	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obj	_	Translit=phona|LTranslit=phona
-3	खरीदी	खरीदी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	advcl	_	Translit=kharīdī|LTranslit=kharīdī
+3	खरीदी	खरीदी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	advcl	_	Translit=kharīdī|LTranslit=kharīdī
 4	भी	भी	PART	RP	_	3	dep	_	Translit=bhī|LTranslit=bhī
 5	लेयां	लेय	AUX	VAUX	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	3	advcl	_	Translit=leyāṁ|LTranslit=leya
-6	ता	ता	PART	RP	_	8	mark	_	Translit=tā|LTranslit=tā
-7	मिंजो	मिंजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=miṁjo|LTranslit=miṁjo
-8	बरतणा	बरतणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=barataṇā|LTranslit=barataṇā
+6	ता	ता	PART	RP	_	11	mark	_	Translit=tā|LTranslit=tā
+7	मिंजो	मिंजो	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Translit=miṁjo|LTranslit=miṁjo
+8	बरतणा	बरतणा	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	xcomp	_	Translit=barataṇā|LTranslit=barataṇā
 9	ही	ही	PART	RP	_	8	dep	_	Translit=hī|LTranslit=hī
-10	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	8	advmod	_	Translit=nī|LTranslit=nī
-11	ओणा	औ	AUX	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	aux	_	SpaceAfter=No|Translit=oṇā|LTranslit=au
-12	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
+10	नी	नी	ADV	RB	Polarity=Neg|PronType=Neg	11	advmod	_	Translit=nī|LTranslit=nī
+11	ओणा	औ	VERB	VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=oṇā|LTranslit=au
+12	।	।	PUNCT	SYM	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 288
 # text = असां दे जमाने बिच मदरसे नेडे नी हुन्दे थे।
