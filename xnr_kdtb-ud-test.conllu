@@ -1440,7 +1440,7 @@
 7	दो	दो	NUM	QC	NumType=Card	8	nummod	_	Translit=do|LTranslit=do
 8	बरी	बरी	NOUN	NN	Case=Nom|Person=3	9	nmod	_	Translit=barī|LTranslit=barī
 9	मिलणा	मिलणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	Translit=milaṇā|LTranslit=milaṇā
-10	जांदा	जांद	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=1|VerbForm=Part|Voice=Act	0	root	_	Translit=jāṁdā|LTranslit=jāṁda
+10	जांदा	जा	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=1|VerbForm=Part|Voice=Act	0	root	_	Translit=jāṁdā|LTranslit=jā
 11	हैं	है	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	SpaceAfter=No|Translit=haiṁ|LTranslit=hai
 12	।	।	PUNCT	SYM	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -2240,7 +2240,7 @@
 5	धर्मशाला	धर्मशाला	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=dharmaśālā|LTranslit=dharmaśālā
 6	पर्यटक	पर्यटक	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=paryaṭaka|LTranslit=paryaṭaka
 7	बद्धी	बद्धी	VERB	VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=baddhī|LTranslit=baddhī
-8	जांदे	जांद	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=jāṁde|LTranslit=jāṁda
+8	जांदे	जा	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	7	aux	_	SpaceAfter=No|Translit=jāṁde|LTranslit=jā
 9	।	।	PUNCT	SYM	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 172
