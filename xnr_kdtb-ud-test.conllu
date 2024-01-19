@@ -646,7 +646,7 @@
 # text = पता नी मोआ तोपा भी करदा है कि चला गेया है घरे जो!
 # translit = patā nī moā topā bhī karadā hai ki calā geyā hai ghare jo!
 1	पता	पता	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	Translit=patā|LTranslit=patā
-2	नी	नी	PART	NEG	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	4	dep	_	Translit=nī|LTranslit=nī
+2	नी	नी	PART	NEG	Polarity=Neg	4	dep	_	Translit=nī|LTranslit=nī
 3	मोआ	मोआ	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=moā|LTranslit=moā
 4	तोपा	तोपा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=topā|LTranslit=topā
 5	भी	भी	PART	RP	_	4	dep	_	Translit=bhī|LTranslit=bhī
@@ -864,7 +864,7 @@
 2	पहले	पहले	ADJ	JJ	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=pahale|LTranslit=pahale
 3	साहीं	साहीं	ADP	PSP	AdpType=Post	2	case	_	Translit=sāhīṁ|LTranslit=sāhīṁ
 4	स्थिति	स्थिति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=sthiti|LTranslit=sthiti
-5	नी	ना	PART	NEG	Gender=Fem|Number=Sing|Polarity=Neg	4	advmod	_	Translit=nī|LTranslit=nā
+5	नी	ना	PART	NEG	Polarity=Neg	4	advmod	_	Translit=nī|LTranslit=nā
 6	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|Translit=hai|LTranslit=hai
 7	।	।	PUNCT	SYM	_	4	punct	_	Translit=.|LTranslit=.
 
