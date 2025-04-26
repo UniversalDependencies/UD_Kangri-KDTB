@@ -36,7 +36,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: automatic
 Relations: converted from manual
-Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon
+Contributors: Chauhan, Shweta; Saxena, Shefali; Jha, Apoorva; Daniel, Philemon; Bhupi, Bhupender Bhupi; Trigarti, Kumar, Rajeev
 Contributing: here
 Contact: shweta@nith.ac.in , shefali@nith.ac.in, apoorva.jha@gmail.com , phildani7@nith.ac.in
 ===============================================================================
