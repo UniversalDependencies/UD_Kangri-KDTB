@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Kangri-KDTB:
-commit 33ad9dd84c5236d3ed543b5cdb4b59393f343b3a
-Merge: 0ea72c7 b43a99e
+commit 3e0c8c1c9cb0466fe0553c979da843d94857e0c5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:08:20 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'xnr_kdtb'
 Language code (from CoNLL-U file name) = 'xnr'
@@ -25,23 +25,27 @@ Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang xnr --max-err=10 UD_Kangri-KDTB/xnr_kdtb-ud-test.conllu
-[Line 9 Sent 1]: [L3 Warning pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 43 Sent 3]: [L3 Warning pron-det-without-prontype] The word 'तित्थू titthū' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 54 Sent 4]: [L3 Warning pron-det-without-prontype] The word 'इह्नां ihnāṁ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 132 Sent 9]: [L3 Warning pron-det-without-prontype] The word 'एह eha' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 142 Sent 10]: [L3 Warning pron-det-without-prontype] The word 'एह eha' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 157 Sent 11]: [L3 Warning pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 158 Sent 11]: [L3 Warning pron-det-without-prontype] The word 'मते mate' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 167 Sent 12]: [L3 Warning pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 204 Sent 14]: [L3 Warning pron-det-without-prontype] The word 'घट्ट ghaṭṭa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 246 Sent 17]: [L3 Warning pron-det-without-prontype] The word 'तिसदा tisadā' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 286 Sent 19]: [L3 Syntax too-many-objects] Multiple direct objects [3, 11, 13] ('सनीचरवारे sanīcaravāre', '2020 2020', 'सर्वसम्मति sarvasammati') under the predicate 'दित्ता dittā'.
-[Line 1671 Sent 121]: [L3 Syntax leaf-det] 'det' not expected to have children (2:इस:det --> 1:तिजो:iobj)
-[Line 2616 Sent 198]: [L3 Syntax too-many-objects] Multiple direct objects [4, 6, 8] ('कुर्सियां kursiyāṁ', 'मेज meja', 'मंजे maṁje') under the predicate 'दित्ते ditte'.
-Syntax errors: 3
-Warnings: 171
-*** FAILED *** with 3 errors
+[Line 9 Sent 1]: [L3 WARNING pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 43 Sent 3]: [L3 WARNING pron-det-without-prontype] The word 'तित्थू titthū' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 54 Sent 4]: [L3 WARNING pron-det-without-prontype] The word 'इह्नां ihnāṁ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 132 Sent 9]: [L3 WARNING pron-det-without-prontype] The word 'एह eha' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 142 Sent 10]: [L3 WARNING pron-det-without-prontype] The word 'एह eha' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 157 Sent 11]: [L3 WARNING pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 158 Sent 11]: [L3 WARNING pron-det-without-prontype] The word 'मते mate' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 167 Sent 12]: [L3 WARNING pron-det-without-prontype] The word 'तिह्नां tihnāṁ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 204 Sent 14]: [L3 WARNING pron-det-without-prontype] The word 'घट्ट ghaṭṭa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 246 Sent 17]: [L3 WARNING pron-det-without-prontype] The word 'तिसदा tisadā' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 286 Sent 19]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 11, 13] ('सनीचरवारे sanīcaravāre', '2020 2020', 'सर्वसम्मति sarvasammati') under the predicate 'दित्ता dittā'.
+[Line 739 Sent 49]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'मूर्तियां mūrtiyāṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1671 Sent 121]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:इस:det --> 1:तिजो:iobj)
+[Line 1867 Sent 138]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'चीजा cījā') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2616 Sent 198]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 6, 8] ('कुर्सियां kursiyāṁ', 'मेज meja', 'मंजे maṁje') under the predicate 'दित्ते ditte'.
+[Line 3230 Sent 250]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'पूजा pūjā') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3548 Sent 279]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'तुसां tusāṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 167
+SYNTAX errors: 7
+*** FAILED *** with 7 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
