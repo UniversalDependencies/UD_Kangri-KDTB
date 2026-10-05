@@ -736,7 +736,7 @@
 2	पुराणे	पुराणा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	amod	_	Translit=purāṇe|LTranslit=purāṇā
 3	मन्दरे	मन्दरा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	Translit=mandare|LTranslit=mandarā
 4	विच	विच	ADP	PSP	AdpType=Post	3	case	_	Translit=vica|LTranslit=vica
-5	दुर्गा	दुर्गा	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	_	Translit=durgā|LTranslit=durgā
+5	दुर्गा	दुर्गा	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Translit=durgā|LTranslit=durgā
 6	कने	कने	CCONJ	CC	_	7	cc	_	Translit=kane|LTranslit=kane
 7	शिवे	शिवे	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	conj	_	Translit=śive|LTranslit=śive
 8	दियां	दियाँ	ADP	PSP	AdpType=Post	5	case	_	Translit=diyāṁ|LTranslit=diyām̃
@@ -1864,7 +1864,7 @@
 # translit = tisā jo kusī bhī cījā dā ḍara nī hai.
 1	तिसा	तिसा	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=tisā|LTranslit=tisā
 2	जो	जो	ADP	PSP	AdpType=Post	1	case	_	Translit=jo|LTranslit=jo
-3	कुसी	कुसी	PRON	PRP	PronType=Int	5	obl	_	Translit=kusī|LTranslit=kusī
+3	कुसी	कुसी	PRON	PRP	PronType=Int	5	nmod	_	Translit=kusī|LTranslit=kusī
 4	भी	भी	PART	RP	_	5	dep	_	Translit=bhī|LTranslit=bhī
 5	चीजा	चीजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obl	_	Translit=cījā|LTranslit=cījā
 6	दा	दा	ADP	PSP	AdpType=Post	5	case	_	Translit=dā|LTranslit=dā
@@ -3227,7 +3227,7 @@
 1	भ्यागा	भ्यागा	NOUN	NN	Case=Nom|Person=3	3	compound	_	Translit=bhyāgā|LTranslit=bhyāgā
 2	-	-	PUNCT	SYM	_	1	punct	_	Translit=-|LTranslit=-
 3	संझा	संझा	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=saṁjhā|LTranslit=saṁjhā
-4	घरैं	घरैं	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obl	_	Translit=gharaiṁ|LTranslit=gharaiṁ
+4	घरैं	घरैं	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Translit=gharaiṁ|LTranslit=gharaiṁ
 5	रोज	रोज	ADV	RB	_	7	advmod	_	Translit=roja|LTranslit=roja
 6	ही	ही	PART	RP	_	5	dep	_	Translit=hī|LTranslit=hī
 7	पूजा	पूजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit=pūjā|LTranslit=pūjā
@@ -3545,7 +3545,7 @@
 # text = तुसां अप्पू दसगे तां ठीक होणा।
 # translit = tusāṁ appū dasage tāṁ ṭhīka hoṇā.
 1	तुसां	तुसां	PRON	PRP	_	5	nsubj	_	Translit=tusāṁ|LTranslit=tusāṁ
-2	अप्पू	अप्पू	PRON	PSP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	obl	_	Translit=appū|LTranslit=appū
+2	अप्पू	अप्पू	PRON	PSP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	nmod	_	Translit=appū|LTranslit=appū
 3	दसगे	दसगाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	advcl	_	Translit=dasage|LTranslit=dasagāṇā
 4	तां	ताँ	PART	RP	_	3	dep	_	Translit=tāṁ|LTranslit=tām̃
 5	ठीक	ठीक	NOUN	NN	Person=3	6	compound	_	Translit=ṭhīka|LTranslit=ṭhīka
