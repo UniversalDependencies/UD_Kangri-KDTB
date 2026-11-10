@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Kangri-KDTB:
-commit 3e0c8c1c9cb0466fe0553c979da843d94857e0c5
+commit e4281a20b3682ceea56ef564f741fc13d678a37f
+Merge: 0b421c0 f29f899
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:08:20 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'xnr_kdtb'
 Language code (from CoNLL-U file name) = 'xnr'
@@ -37,15 +37,11 @@ Genres: found 2 out of 18 known.
 [Line 246 Sent 17]: [L3 WARNING pron-det-without-prontype] The word 'तिसदा tisadā' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
 [Line 286 Sent 19]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 11, 13] ('सनीचरवारे sanīcaravāre', '2020 2020', 'सर्वसम्मति sarvasammati') under the predicate 'दित्ता dittā'.
-[Line 739 Sent 49]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'मूर्तियां mūrtiyāṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 1671 Sent 121]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:इस:det --> 1:तिजो:iobj)
-[Line 1867 Sent 138]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'चीजा cījā') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 2616 Sent 198]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 6, 8] ('कुर्सियां kursiyāṁ', 'मेज meja', 'मंजे maṁje') under the predicate 'दित्ते ditte'.
-[Line 3230 Sent 250]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'पूजा pūjā') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3548 Sent 279]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'तुसां tusāṁ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 Warnings: 167
-SYNTAX errors: 7
-*** FAILED *** with 7 errors
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
