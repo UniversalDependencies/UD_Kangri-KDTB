@@ -91,11 +91,11 @@
     <dep name="flat">1</dep>
     <dep name="iobj">9</dep>
     <dep name="mark">30</dep>
-    <dep name="nmod">205</dep>
+    <dep name="nmod">209</dep>
     <dep name="nsubj">221</dep>
     <dep name="nummod">31</dep>
     <dep name="obj">89</dep>
-    <dep name="obl">163</dep>
+    <dep name="obl">159</dep>
     <dep name="punct">310</dep>
     <dep name="root">288</dep>
     <dep name="xcomp">52</dep>
